@@ -7707,6 +7707,16 @@ body#tinymce {
 
 .lastname-container, .textbox-container {
   position: relative;
-  top: -100px; }
+  top: -90px; }
+
+.nf-field-label {
+  display: none; }
+
+.ninja-forms-field.nf-element {
+  height: 60px; }
+
+.submit {
+  background: #BAD248;
+  float: right; }
 
 /*# sourceMappingURL=foundation.css.map */

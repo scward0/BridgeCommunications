@@ -6,19 +6,25 @@
 
   <div class="section" id="home" style="background: url('http://localhost:88/BridgeCommunications/wp-content/uploads/2017/03/mainbg.jpg'); height: 80%; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover; top: 0; left: 0;">
     <div class="row" style="position: relative; height: 800px;">
+      <div class="social-nav" style="">
+        <ul class="menu vertical" style="width: 100px; background: black; z-index: 1000; positon: fixed; left: 0; top: 500px; color: white;">
+          <li>Facebook</li>
+          <li>Stellar</li>
+          <li>Youtube</li>
+        </ul>
+      </div>
       <div class="columns small-12 medium-6 large-6">
         <div style="position: relative; top:75px;">
           <img id="shape1" src="http://localhost:88/BridgeCommunications/wp-content/uploads/2017/03/Shape1.png" alt="Shape 1">
         </div>
         <div style="position: absolute; bottom: 15%;"  class="tagline text-center">
-          <h1 class="text-center" style="text-transform: uppercase; color: white;"><span style="font-size: 20px;">The</span> Easiest App<br><span style="font-size: 20px;">for</span> Connecting <br><span style="font-size: 20px;">and</span> Building<br>Language</h1>
+          <h1 class="text-center" style="text-transform: uppercase; color: white;"><span style="font-size: 20px; font-weight: 300;">The</span> Easiest App<br><span style="font-size: 20px; font-weight: 300;">for</span> Connecting <br><span style="font-size: 20px; font-weight: 300;">and</span> Building<br>Language</h1>
           <br>
-          <a href="https://itunes.apple.com/us/app/BRIDGE-communication/id983660714?ls=1&mt=8" target="_blank"><img src="http://localhost:88/BridgeCommunications/wp-content/uploads/2017/03/app-store.png" style="margin: 0 auto;" alt=""></a>
         </div>
       </div>
       <div class="columns small-12 medium-6 large-6">
         <div class="wrapper">
-          <div class="ipad" style="background: url('http://localhost:88/BridgeCommunications/wp-content/uploads/2017/03/iPad.png'); position: absolute; bottom: -260px; height: 100%; width: 100%; background-repeat: no-repeat;">
+          <div class="ipad" style="background: url('http://localhost:88/BridgeCommunications/wp-content/uploads/2017/03/iPad.png'); position: absolute; bottom: -260px; height: 100%; width: 500px; background-repeat: no-repeat;">
             <div class="ipad-slick" style="position: relative; width: 352px; height: 460px; left: 80px; top:30px;">
               <div><img src="http://localhost:88/BridgeCommunications/wp-content/uploads/2017/03/01.png" alt=""></div>
               <div><img src="http://localhost:88/BridgeCommunications/wp-content/uploads/2017/03/02.png" alt=""></div>
@@ -85,7 +91,7 @@
     </div>
     <div class="row" style="padding: 100px 25px;">
       <div class="columns small-12">
-        <p>Build connections through barriers.</p>
+        <p class="text-center" style="font-size: 24px;">Build connections through barriers.</p>
       </div>
     </div>
     <div class="row">
