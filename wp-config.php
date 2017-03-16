@@ -40,8 +40,6 @@ define('DB_PASSWORD', 'SilverH3elm1!');
 
 
 
-
-
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
 

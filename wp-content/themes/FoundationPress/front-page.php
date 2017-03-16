@@ -4,7 +4,7 @@
 <div class="container" id="fullpage">
 
 
-  <div class="section" id="home" style="background: url('http://localhost:88/BridgeCommunications/wp-content/uploads/2017/03/mainbg.jpg'); height: 80%; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover; top: 0; left: 0;">
+  <div class="section" id="home" style="background: url('http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/mainbg.jpg'); height: 80%; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover; top: 0; left: 0;">
     <div class="row" style="position: relative; height: 800px;">
       <div class="social-nav" style="">
         <ul class="menu vertical" style="width: 100px; background: black; z-index: 1000; positon: fixed; left: 0; top: 500px; color: white;">
@@ -15,7 +15,7 @@
       </div>
       <div class="columns small-12 medium-6 large-6">
         <div style="position: relative; top:75px;">
-          <img id="shape1" src="http://localhost:88/BridgeCommunications/wp-content/uploads/2017/03/Shape1.png" alt="Shape 1">
+          <img id="shape1" src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/Shape1.png" alt="Shape 1">
         </div>
         <div style="position: absolute; bottom: 15%;"  class="tagline text-center">
           <h1 class="text-center" style="text-transform: uppercase; color: white;"><span style="font-size: 20px; font-weight: 300;">The</span> Easiest App<br><span style="font-size: 20px; font-weight: 300;">for</span> Connecting <br><span style="font-size: 20px; font-weight: 300;">and</span> Building<br>Language</h1>
@@ -24,15 +24,15 @@
       </div>
       <div class="columns small-12 medium-6 large-6">
         <div class="wrapper">
-          <div class="ipad" style="background: url('http://localhost:88/BridgeCommunications/wp-content/uploads/2017/03/iPad.png'); position: absolute; bottom: -260px; height: 100%; width: 500px; background-repeat: no-repeat;">
+          <div class="ipad" style="background: url('http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/iPad.png'); position: absolute; bottom: -260px; height: 100%; width: 500px; background-repeat: no-repeat;">
             <div class="ipad-slick" style="position: relative; width: 352px; height: 460px; left: 80px; top:30px;">
-              <div><img src="http://localhost:88/BridgeCommunications/wp-content/uploads/2017/03/01.png" alt=""></div>
-              <div><img src="http://localhost:88/BridgeCommunications/wp-content/uploads/2017/03/02.png" alt=""></div>
-              <div><img src="http://localhost:88/BridgeCommunications/wp-content/uploads/2017/03/03.png" alt=""></div>
-              <div><img src="http://localhost:88/BridgeCommunications/wp-content/uploads/2017/03/04.png" alt=""></div>
-              <div><img src="http://localhost:88/BridgeCommunications/wp-content/uploads/2017/03/05.png" alt=""></div>
-              <div><img src="http://localhost:88/BridgeCommunications/wp-content/uploads/2017/03/06.png" alt=""></div>
-              <div><img src="http://localhost:88/BridgeCommunications/wp-content/uploads/2017/03/07.png" alt=""></div>
+              <div><img src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/01.png" alt=""></div>
+              <div><img src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/02.png" alt=""></div>
+              <div><img src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/03.png" alt=""></div>
+              <div><img src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/04.png" alt=""></div>
+              <div><img src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/05.png" alt=""></div>
+              <div><img src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/06.png" alt=""></div>
+              <div><img src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/07.png" alt=""></div>
             </div>
           </div>
         </div>
@@ -43,7 +43,7 @@
 
   <section id="witness-the-possibilities">
     <div class="row text-center headline-row" style="position: relative; top: -50px;" >
-      <div class="headline"  style="background: url('http://localhost:88/BridgeCommunications/wp-content/uploads/2017/03/healine_background.png'); background-position: center; background-repeat: no-repeat; background-size: cover; margin: 0 auto; box-shadow: 2px 2px rgba(0,0,0,.3); height: 100%;">
+      <div class="headline"  style="background: url('http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/healine_background.png'); background-position: center; background-repeat: no-repeat; background-size: cover; margin: 0 auto; box-shadow: 2px 2px rgba(0,0,0,.3); height: 100%;">
         <h1 style="text-transform: uppercase; color: white; font-style: italic; text-shadow: 2px 2px rgba(0,0,0,.3);">Witness <span style="font-size: 20px;">the</span> Possibilities</h1>
       </div>
     </div>
@@ -54,7 +54,7 @@
     </div>
     <div class="row" style="margin-bottom: 100px;">
       <div class="columns small-6 medium-3 large-3 one-sheet">
-        <img src="http://localhost:88/BridgeCommunications/wp-content/uploads/2017/03/BC_DownloadImage.jpg" alt="">
+        <img src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/BC_DownloadImage.jpg" alt="">
       </div>
       <div class="columns small-6 medium-9 large-9">
         <div class="row">
@@ -82,9 +82,9 @@
   </section>
 
   <section class="section" id="mission-purpose">
-    <div style="background: url('http://localhost:88/BridgeCommunications/wp-content/uploads/2017/03/MissionHero.jpg'); height: 300px; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover;">
+    <div style="background: url('http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/MissionHero.jpg'); height: 300px; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover;">
       <div class="row text-center headline-row" style="position: relative; top: 250px;">
-        <div class="headline" style="background: url('http://localhost:88/BridgeCommunications/wp-content/uploads/2017/03/healine_background.png'); background-position: center; background-repeat: no-repeat; background-size: cover; margin: 0 auto; box-shadow: 2px 2px rgba(0,0,0,.3); height: 100%;">
+        <div class="headline" style="background: url('http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/healine_background.png'); background-position: center; background-repeat: no-repeat; background-size: cover; margin: 0 auto; box-shadow: 2px 2px rgba(0,0,0,.3); height: 100%;">
           <h1 style="text-transform: uppercase; color: white; font-style: italic; text-shadow: 2px 2px rgba(0,0,0,.3);">Mission <span style="font-size: 20px;">&amp;</span> Purpose</h1>
         </div>
       </div>
@@ -96,29 +96,29 @@
     </div>
     <div class="row">
       <div class="columns small-12 medium-4 large-4 text-center">
-        <img src="http://localhost:88/BridgeCommunications/wp-content/uploads/2017/03/Encourage.png" alt="">
+        <img src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/Encourage.png" alt="">
         <p>Encourage engagement and communication, reduce complexity, and make interaction the focus.</p>
       </div>
       <div class="columns small-12 medium-4 large-4 text-center">
-        <img src="http://localhost:88/BridgeCommunications/wp-content/uploads/2017/03/employ.png" alt="">
+        <img src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/employ.png" alt="">
         <p>Employ a design tht is easy and intuitive, for all of the users, allowing for little distraction and maximum communication opportunities</p>
       </div>
       <div class="columns small-12 medium-4 large-4 text-center">
-        <img src="http://localhost:88/BridgeCommunications/wp-content/uploads/2017/03/support.png" alt="">
+        <img src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/support.png" alt="">
         <p>Support augmentative and alternative communication between partners that is unpredictable and varied as it forms in real time... in real life.</p>
       </div>
     </div>
     <div class="row">
       <div class="columns small-12 medium-4 large-4 text-center">
-        <img src="http://localhost:88/BridgeCommunications/wp-content/uploads/2017/03/present.png" alt="">
+        <img src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/present.png" alt="">
         <p>Present language using a multimodal approach integrating visual, tactile and auditory feedback to theach ANY early or emerging language learner the power and versatility of communication</p>
       </div>
       <div class="columns small-12 medium-4 large-4 text-center">
-        <img src="http://localhost:88/BridgeCommunications/wp-content/uploads/2017/03/increase.png" alt="">
+        <img src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/increase.png" alt="">
         <p>Increase exposure, awareness, and fluency of communication.</p>
       </div>
       <div class="columns small-12 medium-4 large-4 text-center">
-        <img src="http://localhost:88/BridgeCommunications/wp-content/uploads/2017/03/integrate.png" alt="">
+        <img src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/integrate.png" alt="">
         <p>Integrate communication supports into social and curriculum based conversation with others</p>
       </div>
     </div>
@@ -126,9 +126,9 @@
 
 
   <section class="section" id="app-contents">
-    <div style="background: url('http://localhost:88/BridgeCommunications/wp-content/uploads/2017/03/FeaturesHero.jpg'); height: 300px; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover;">
+    <div style="background: url('http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/FeaturesHero.jpg'); height: 300px; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover;">
       <div class="row text-center headline-row" style="position: relative; top: 250px;">
-        <div class="headline" style="background: url('http://localhost:88/BridgeCommunications/wp-content/uploads/2017/03/healine_background.png'); background-position: center; background-repeat: no-repeat; background-size: cover; margin: 0 auto; box-shadow: 2px 2px rgba(0,0,0,.3); height: 100%;">
+        <div class="headline" style="background: url('http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/healine_background.png'); background-position: center; background-repeat: no-repeat; background-size: cover; margin: 0 auto; box-shadow: 2px 2px rgba(0,0,0,.3); height: 100%;">
           <h1 style="text-transform: uppercase; color: white; font-style: italic; text-shadow: 2px 2px rgba(0,0,0,.3);">App Contents</h1>
         </div>
       </div>
@@ -331,9 +331,9 @@
 
 
   <section class="section" id="features-services" style="height: 80%;">
-    <div style="background: url('http://localhost:88/BridgeCommunications/wp-content/uploads/2017/03/AppHero.jpg'); height: 300px; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover;">
+    <div style="background: url('http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/AppHero.jpg'); height: 300px; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover;">
       <div class="row text-center headline-row" style="position: relative; top: 250px;">
-        <div class="headline" style="background: url('http://localhost:88/BridgeCommunications/wp-content/uploads/2017/03/healine_background.png'); background-position: center; background-repeat: no-repeat; background-size: cover; margin: 0 auto; box-shadow: 2px 2px rgba(0,0,0,.3); height: 100%;">
+        <div class="headline" style="background: url('http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/healine_background.png'); background-position: center; background-repeat: no-repeat; background-size: cover; margin: 0 auto; box-shadow: 2px 2px rgba(0,0,0,.3); height: 100%;">
           <h1 style="text-transform: uppercase; color: white; font-style: italic; text-shadow: 2px 2px rgba(0,0,0,.3);">Features <span style="font-size: 20px;">&amp;</span> Services</h1>
         </div>
       </div>
@@ -353,9 +353,9 @@
       $query = new WP_Query ($args);
        ?>
 
-    <div style="background: url('http://localhost:88/BridgeCommunications/wp-content/uploads/2017/03/TestimonialsHero.jpg'); height: 300px; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover;">
+    <div style="background: url('http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/TestimonialsHero.jpg'); height: 300px; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover;">
       <div class="row text-center headline-row" style="position: relative; top: 250px;">
-        <div class="headline" style="background: url('http://localhost:88/BridgeCommunications/wp-content/uploads/2017/03/healine_background.png'); background-position: center; background-repeat: no-repeat; background-size: cover; margin: 0 auto; box-shadow: 2px 2px rgba(0,0,0,.3); height: 100%;">
+        <div class="headline" style="background: url('http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/healine_background.png'); background-position: center; background-repeat: no-repeat; background-size: cover; margin: 0 auto; box-shadow: 2px 2px rgba(0,0,0,.3); height: 100%;">
           <h1 style="text-transform: uppercase; color: white; font-style: italic; text-shadow: 2px 2px rgba(0,0,0,.3);">Testimonials</h1>
         </div>
       </div>
@@ -374,9 +374,9 @@
 
 
   <section class="section" id="stay-connected">
-    <div style="background: url('http://localhost:88/BridgeCommunications/wp-content/uploads/2017/03/StayConnectedHero.jpg'); height: 300px; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover;">
+    <div style="background: url('http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/StayConnectedHero.jpg'); height: 300px; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover;">
       <div class="row text-center headline-row" style="position: relative; top: 250px;">
-        <div class="headline" style="background: url('http://localhost:88/BridgeCommunications/wp-content/uploads/2017/03/healine_background.png'); background-position: center; background-repeat: no-repeat; background-size: cover; margin: 0 auto; box-shadow: 2px 2px rgba(0,0,0,.3); height: 100%;">
+        <div class="headline" style="background: url('http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/healine_background.png'); background-position: center; background-repeat: no-repeat; background-size: cover; margin: 0 auto; box-shadow: 2px 2px rgba(0,0,0,.3); height: 100%;">
           <h1 style="text-transform: uppercase; color: white; font-style: italic; text-shadow: 2px 2px rgba(0,0,0,.3);">Stay Connected With Us</h1>
         </div>
       </div>

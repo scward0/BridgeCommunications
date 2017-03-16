@@ -33,7 +33,7 @@
 	<?php do_action( 'foundationpress_layout_start' ); ?>
 
 	<header id="masthead" class="site-header" role="banner" style="position: fixed; z-index: 5; width: 100%; background: white;">
-		<a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home" style="float: left;"><img src="http://localhost:88/BridgeCommunications/wp-content/uploads/2017/03/LOGO.png" alt=""></a>
+		<a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home" style="float: left;"><img src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/LOGO.png" alt=""></a>
 		<nav id="site-navigation" class="main-navigation" role="navigation" style="float: right;">
 			<div class="top-bar-left">
 				<ul id="#menu" class="menu">
@@ -42,7 +42,7 @@
 					<li><a href="#features-services" rel="home">Features &amp; Services</a></li>
 					<li><a href="#testimonials" rel="home">Testimonials</a></li>
 					<li><a href="#stay-connected" rel="home">Newsletter Sign-Up</a></li>
-					<li><a href="https://itunes.apple.com/us/app/BRIDGE-communication/id983660714?ls=1&mt=8" rel="home"><img src="http://localhost:88/BridgeCommunications/wp-content/uploads/2017/03/app-store.png" alt=""></a></li>
+					<li><a href="https://itunes.apple.com/us/app/BRIDGE-communication/id983660714?ls=1&mt=8" rel="home"><img src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/app-store.png" alt=""></a></li>
 				</ul>
 			</div>
 		</nav>
