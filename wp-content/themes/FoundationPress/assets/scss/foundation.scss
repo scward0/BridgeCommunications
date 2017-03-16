@@ -94,3 +94,26 @@
 @import "templates/page-sidebar-left";
 @import "templates/page-full-width";
 @import "templates/single-post";
+
+
+
+// Custom
+
+@import "templates/header";
+@import "templates/hero_space";
+
+
+
+.headline-row{
+  position: relative;
+  top: -50px;
+} 
+
+.nf-form-title{
+  display: none;
+}
+
+.lastname-container, .textbox-container{
+  position: relative;
+  top: -100px;
+}

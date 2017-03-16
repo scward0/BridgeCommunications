@@ -7695,4 +7695,18 @@ body#tinymce {
         #single-post .main-content:last-child:not(:first-child) {
           float: right; } }
 
+.tagline h1 {
+  text-transform: uppercase; }
+
+.headline-row {
+  position: relative;
+  top: -50px; }
+
+.nf-form-title {
+  display: none; }
+
+.lastname-container, .textbox-container {
+  position: relative;
+  top: -100px; }
+
 /*# sourceMappingURL=foundation.css.map */

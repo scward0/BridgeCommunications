@@ -14,6 +14,10 @@
 	<head>
 		<meta charset="<?php bloginfo( 'charset' ); ?>" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link rel="stylesheet" type="text/css" href="/BridgeCommunications/wp-content/themes/FoundationPress/assets/javascript/slick/slick.css"/>
+		<link rel="stylesheet" type="text/css" href="/BridgeCommunications/wp-content/themes/FoundationPress/assets/javascript/slick/slick-theme.css"/>
+		<link rel="stylesheet" type="text/css" href="/BridgeCommunications/wp-content/themes/FoundationPress/assets/javascript/fullPage/jquery.fullPage.css"/>
+
 		<?php wp_head(); ?>
 	</head>
 	<body <?php body_class(); ?>>
@@ -27,29 +31,20 @@
 
 	<?php do_action( 'foundationpress_layout_start' ); ?>
 
-	<header id="masthead" class="site-header" role="banner">
-		<div class="title-bar" data-responsive-toggle="site-navigation">
-			<button class="menu-icon" type="button" data-toggle="mobile-menu"></button>
-			<div class="title-bar-title">
-				<a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a>
-			</div>
-		</div>
-
-		<nav id="site-navigation" class="main-navigation top-bar" role="navigation">
+	<header id="masthead" class="site-header" role="banner" style="position: fixed; z-index: 5; width: 100%; background: white;">
+		<nav id="site-navigation" class="main-navigation" role="navigation">
 			<div class="top-bar-left">
-				<ul class="menu">
-					<li class="home"><a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a></li>
+				<ul id="#menu" class="menu">
+					<li class="home"><a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home"><img src="http://localhost:88/BridgeCommunications/wp-content/uploads/2017/03/LOGO.png" alt=""></a></li>
+					<li><a href="#mission-purpose" rel="home">Mission &amp; Purpose</a></li>
+					<li><a href="#app-contents" rel="home">App Contents</a></li>
+					<li><a href="#testimonials" rel="home">Testimonials</a></li>
+					<li><a href="#pricing-purchase" rel="home">Pricing &amp; Purchase</a></li>
+					<li><a href="#stay-connected" rel="home">Newsletter Sign-Up</a></li>
+					<li><a href="https://itunes.apple.com/us/app/BRIDGE-communication/id983660714?ls=1&mt=8" rel="home"><img src="http://localhost:88/BridgeCommunications/wp-content/uploads/2017/03/app-store.png" alt=""></a></li>
 				</ul>
-			</div>
-			<div class="top-bar-right">
-				<?php foundationpress_top_bar_r(); ?>
-
-				<?php if ( ! get_theme_mod( 'wpt_mobile_menu_layout' ) || get_theme_mod( 'wpt_mobile_menu_layout' ) === 'topbar' ) : ?>
-					<?php get_template_part( 'template-parts/mobile-top-bar' ); ?>
-				<?php endif; ?>
 			</div>
 		</nav>
 	</header>
 
-	<section class="container">
-		<?php do_action( 'foundationpress_after_header' );
+	<?php do_action( 'foundationpress_after_header' );
