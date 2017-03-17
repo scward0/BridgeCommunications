@@ -17,14 +17,14 @@
         <!-- <div style="position: relative; top:75px;">
           <img id="shape1" src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/Shape1.png" alt="Shape 1">
         </div> -->
-        <div style="position: absolute; bottom: 15%;"  class="tagline text-center">
+        <div style="position: absolute; bottom: 25%;"  class="tagline text-center">
           <h1 class="text-center" style="text-transform: uppercase; color: white; line-height: 30px; margin-left: 100px;"><span style="font-size: 20px; font-weight: 300;">The</span> Easiest App<br><span style="font-size: 20px; font-weight: 300;">for</span> Connecting <br><span style="font-size: 20px; font-weight: 300;">and</span> Building<br>Language</h1>
           <br>
         </div>
       </div>
       <div class="columns small-12 medium-6 large-6">
         <div class="wrapper">
-          <div class="ipad" style="background: url('http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/iPad.png'); position: absolute; bottom: -230px; height: 100%; width: 500px; background-repeat: no-repeat;">
+          <div class="ipad" style="background: url('http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/iPad.png'); position: absolute; bottom: -200px; height: 100%; width: 500px; background-repeat: no-repeat;">
             <div class="ipad-slick" style="position: relative; width: 352px; height: 460px; left: 80px; top:30px;">
               <div><img src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/01.png" alt=""></div>
               <div><img src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/02.png" alt=""></div>
