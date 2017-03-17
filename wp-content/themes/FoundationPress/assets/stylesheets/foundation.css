@@ -7698,6 +7698,9 @@ body#tinymce {
 .tagline h1 {
   text-transform: uppercase; }
 
+#menu li a:hover {
+  color: #4aa1d6; }
+
 section {
   padding-left: 150px;
   padding-right: 150px; }
