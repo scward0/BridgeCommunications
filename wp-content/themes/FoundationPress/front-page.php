@@ -5,7 +5,7 @@
 
 
   <div class="section" id="home" style="background: url('http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/mainbg.jpg'); height: 80%; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover; top: 0; left: 0;">
-    <div class="row" style="position: relative; height: 80%;">
+    <div class="row" style="position: relative; height: 600px;">
       <div class="social-nav" style="">
         <ul class="menu vertical" style="width: 100px; background: black; z-index: 1000; positon: fixed; left: 0; top: 500px; color: white;">
           <li>Facebook</li>
