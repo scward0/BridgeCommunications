@@ -24,7 +24,7 @@
       </div>
       <div class="columns small-12 medium-6 large-6">
         <div class="wrapper">
-          <div class="ipad" style="background: url('http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/iPad.png'); position: absolute; bottom: -260px; height: 100%; width: 500px; background-repeat: no-repeat; z-index: 4;">
+          <div class="ipad" style="background: url('http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/iPad.png'); position: absolute; bottom: -260px; height: 100%; width: 500px; background-repeat: no-repeat;">
             <div class="ipad-slick" style="position: relative; width: 352px; height: 460px; left: 80px; top:30px;">
               <div><img src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/01.png" alt=""></div>
               <div><img src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/02.png" alt=""></div>
@@ -41,7 +41,7 @@
   </div>
 
 
-  <section id="witness-the-possibilities" style="z-index: 5;">
+  <section id="witness-the-possibilities" style="z-index: 100;">
     <div class="row text-center headline-row" style="position: relative; top: -50px;" >
       <div class="headline"  style="background: url('http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/healine_background.png'); background-position: center; background-repeat: no-repeat; background-size: cover; margin: 0 auto; box-shadow: 2px 2px rgba(0,0,0,.3); height: 100%;">
         <h1 style="text-transform: uppercase; color: white; font-style: italic; text-shadow: 2px 2px rgba(0,0,0,.3);">Witness <span style="font-size: 20px;">the</span> Possibilities</h1>
