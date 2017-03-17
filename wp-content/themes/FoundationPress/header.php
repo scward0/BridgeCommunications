@@ -36,7 +36,7 @@
 		<a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home" style="float: left;"><img src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/LOGO.png" alt="" width="150px"></a>
 		<nav id="site-navigation" class="main-navigation" role="navigation" style="float: right;">
 			<div class="top-bar-left">
-				<ul id="#menu" class="menu" style="text-transform: uppercase;">
+				<ul id="#menu" class="menu" style="text-transform: uppercase; font-size: 14px;">
 					<li><a href="#mission-purpose" rel="home">Mission &amp; Purpose</a></li>
 					<li><a href="#app-contents" rel="home">App Contents</a></li>
 					<li><a href="#features-services" rel="home">Features &amp; Services</a></li>
