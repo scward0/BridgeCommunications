@@ -18,7 +18,7 @@
           <img id="shape1" src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/Shape1.png" alt="Shape 1">
         </div> -->
         <div style="position: absolute; bottom: 15%;"  class="tagline text-center">
-          <h1 class="text-center" style="text-transform: uppercase; color: white; line-height: 30px;"><span style="font-size: 20px; font-weight: 300;">The</span> Easiest App<br><span style="font-size: 20px; font-weight: 300;">for</span> Connecting <br><span style="font-size: 20px; font-weight: 300;">and</span> Building<br>Language</h1>
+          <h1 class="text-center" style="text-transform: uppercase; color: white; line-height: 30px; margin-left: 100px;"><span style="font-size: 20px; font-weight: 300;">The</span> Easiest App<br><span style="font-size: 20px; font-weight: 300;">for</span> Connecting <br><span style="font-size: 20px; font-weight: 300;">and</span> Building<br>Language</h1>
           <br>
         </div>
       </div>
