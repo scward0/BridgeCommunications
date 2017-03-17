@@ -140,9 +140,9 @@
     </div>
     <div class="row small-up-1 medium-up-5 large-up-5" style="padding: 100px 25px;">
       <div class="column">
-        <ul class="vertical menu" data-accordion-menu>
+        <ul class="vertical menu text-center" data-accordion-menu>
           <img class="text-center" style="margin: 0 auto;" src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/screen1.png" alt="">
-          <li>
+          <li style="text-align: left;">
             <a href="#" style="border: 2px solid #4aa1d6; text-transform: uppercase; font-size: 18px;">Screen 1</a>
             <ul class="menu vertical nested">
                 <li><a href="#">Social</a>
@@ -233,9 +233,9 @@
         </ul>
       </div>
       <div class="column">
-        <ul class="vertical menu" data-accordion-menu>
+        <ul class="vertical menu text-center" data-accordion-menu>
           <img class="text-center" style="margin: 0 auto;" src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/screen2.png" alt="">
-          <li>
+          <li style="text-align: left;">
             <a href="#" style="border: 2px solid #4aa1d6; text-transform: uppercase; font-size: 18px;">Screen 2</a>
             <ul class="menu vertical nested">
                 <li><a href="#">Social</a>
@@ -254,9 +254,9 @@
         </ul>
       </div>
       <div class="column">
-        <ul class="vertical menu" data-accordion-menu>
+        <ul class="vertical menu text-center" data-accordion-menu>
           <img class="text-center" style="margin: 0 auto;" src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/screen3.png" alt="">
-          <li>
+          <li style="text-align: left;">
             <a href="#" style="border: 2px solid #4aa1d6; text-transform: uppercase; font-size: 18px;">Screen 3</a>
             <ul class="menu vertical nested">
                 <li><a href="#">Social</a>
@@ -275,9 +275,9 @@
         </ul>
       </div>
       <div class="column">
-        <ul class="vertical menu" data-accordion-menu>
+        <ul class="vertical menu text-center" data-accordion-menu>
           <img class="text-center" style="margin: 0 auto;" src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/screen4.png" alt="">
-          <li>
+          <li style="text-align: left;">
             <a href="#" style="border: 2px solid #4aa1d6; text-transform: uppercase; font-size: 18px;">Screen 4</a>
             <ul class="menu vertical nested">
                 <li><a href="#">Social</a>
@@ -296,9 +296,9 @@
         </ul>
       </div>
       <div class="column">
-        <ul class="vertical menu" data-accordion-menu>
+        <ul class="vertical menu text-center" data-accordion-menu>
           <img class="text-center" style="margin: 0 auto;" src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/screen5.png" alt="">
-          <li>
+          <li style="text-align: left;">
             <a href="#" style="border: 2px solid #4aa1d6; text-transform: uppercase; font-size: 18px;">Screen 5</a>
             <ul class="menu vertical nested">
                 <li><a href="#">Social</a>
