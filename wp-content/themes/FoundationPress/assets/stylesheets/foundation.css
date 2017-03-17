@@ -7698,6 +7698,10 @@ body#tinymce {
 .tagline h1 {
   text-transform: uppercase; }
 
+section {
+  padding-left: 100px;
+  padding-right: 100px; }
+
 .headline-row {
   position: relative;
   top: -50px; }

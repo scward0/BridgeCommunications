@@ -3,8 +3,8 @@
 		<div class="columns small-12 text-center">
 			<img src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/LOGO.png" alt="" width="150px" style="margin: 50px 0;">
 			<p style="color: white;">
-				Contact us<br><br>
-				support@bridgecommunication.com<br>
+				Contact us<br>
+				support@bridgecommunication.com<br><br>
 				Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 			</p>
 		</div>
