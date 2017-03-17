@@ -143,6 +143,7 @@
         <ul class="vertical menu" data-accordion-menu>
 
           <li>
+            <img class="text-center" src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/screen1.png" alt="">
             <a href="#">Screen 1</a>
             <ul class="menu vertical nested">
                 <li><a href="#">Social</a>
@@ -238,7 +239,8 @@
         <ul class="vertical menu" data-accordion-menu>
 
           <li>
-            <a href="#">Screen 1</a>
+            <img class="text-center" src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/screen2.png" alt="">
+            <a href="#">Screen 2</a>
             <ul class="menu vertical nested">
                 <li><a href="#">Social</a>
                   <ul class="menu vertical nested">
@@ -261,7 +263,8 @@
         <ul class="vertical menu" data-accordion-menu>
 
           <li>
-            <a href="#">Screen 1</a>
+            <img class="text-center" src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/screen3.png" alt="">
+            <a href="#">Screen 3</a>
             <ul class="menu vertical nested">
                 <li><a href="#">Social</a>
                   <ul class="menu vertical nested">
@@ -284,7 +287,8 @@
         <ul class="vertical menu" data-accordion-menu>
 
           <li>
-            <a href="#">Screen 1</a>
+            <img class="text-center" src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/screen4.png" alt="">
+            <a href="#">Screen 4</a>
             <ul class="menu vertical nested">
                 <li><a href="#">Social</a>
                   <ul class="menu vertical nested">
@@ -307,7 +311,8 @@
         <ul class="vertical menu" data-accordion-menu>
 
           <li>
-            <a href="#">Screen 1</a>
+            <img class="text-center" src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/screen5.png" alt="">
+            <a href="#">Screen 5</a>
             <ul class="menu vertical nested">
                 <li><a href="#">Social</a>
                   <ul class="menu vertical nested">
