@@ -24,7 +24,7 @@
       </div>
       <div class="columns small-12 medium-6 large-6">
         <div class="wrapper">
-          <div class="ipad" style="background: url('http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/iPad.png'); position: absolute; bottom: -200px; height: 100%; width: 500px; background-repeat: no-repeat;">
+          <div class="ipad" style="background: url('http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/iPad.png'); position: absolute; bottom: -2180px; height: 100%; width: 500px; background-repeat: no-repeat;">
             <div class="ipad-slick" style="position: relative; width: 352px; height: 460px; left: 80px; top:30px;">
               <div><img src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/01.png" alt=""></div>
               <div><img src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/02.png" alt=""></div>
