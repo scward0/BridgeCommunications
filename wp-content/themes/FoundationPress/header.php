@@ -32,22 +32,20 @@
 
 	<?php do_action( 'foundationpress_layout_start' ); ?>
 
-	<header id="masthead" class="site-header" role="banner" style="position: fixed; z-index: 5; width: 100%; background: white;">
-		<a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home" style="float: left;"><img src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/LOGO.png" alt=""></a>
+	<header id="masthead" class="site-header" role="banner" style="position: fixed; z-index: 5; width: 100%; background: white; padding: 25px;">
+		<a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home" style="float: left;"><img src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/LOGO.png" alt="" width="150px"></a>
 		<nav id="site-navigation" class="main-navigation" role="navigation" style="float: right;">
 			<div class="top-bar-left">
-				<ul id="#menu" class="menu">
+				<ul id="#menu" class="menu" style="text-transform: uppercase;">
 					<li><a href="#mission-purpose" rel="home">Mission &amp; Purpose</a></li>
 					<li><a href="#app-contents" rel="home">App Contents</a></li>
 					<li><a href="#features-services" rel="home">Features &amp; Services</a></li>
 					<li><a href="#testimonials" rel="home">Testimonials</a></li>
 					<li><a href="#stay-connected" rel="home">Newsletter Sign-Up</a></li>
-					<li><a href="https://itunes.apple.com/us/app/BRIDGE-communication/id983660714?ls=1&mt=8" rel="home"><img src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/app-store.png" alt=""></a></li>
+					<li><a href="https://itunes.apple.com/us/app/BRIDGE-communication/id983660714?ls=1&mt=8" rel="home"><img src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/app-store.png" alt="" width="150px"></a></li>
 				</ul>
 			</div>
 		</nav>
 	</header>
 
 	<?php do_action( 'foundationpress_after_header' ); ?>
-
-<!-- update -->

@@ -5,7 +5,7 @@
 
 
   <div class="section" id="home" style="background: url('http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/mainbg.jpg'); height: 80%; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover; top: 0; left: 0;">
-    <div class="row" style="position: relative; height: 800px;">
+    <div class="row" style="position: relative; height: 80%;">
       <div class="social-nav" style="">
         <ul class="menu vertical" style="width: 100px; background: black; z-index: 1000; positon: fixed; left: 0; top: 500px; color: white;">
           <li>Facebook</li>
@@ -14,11 +14,11 @@
         </ul>
       </div>
       <div class="columns small-12 medium-6 large-6">
-        <div style="position: relative; top:75px;">
+        <!-- <div style="position: relative; top:75px;">
           <img id="shape1" src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/Shape1.png" alt="Shape 1">
-        </div>
+        </div> -->
         <div style="position: absolute; bottom: 15%;"  class="tagline text-center">
-          <h1 class="text-center" style="text-transform: uppercase; color: white;"><span style="font-size: 20px; font-weight: 300;">The</span> Easiest App<br><span style="font-size: 20px; font-weight: 300;">for</span> Connecting <br><span style="font-size: 20px; font-weight: 300;">and</span> Building<br>Language</h1>
+          <h1 class="text-center" style="text-transform: uppercase; color: white; line-height: 30px;"><span style="font-size: 20px; font-weight: 300;">The</span> Easiest App<br><span style="font-size: 20px; font-weight: 300;">for</span> Connecting <br><span style="font-size: 20px; font-weight: 300;">and</span> Building<br>Language</h1>
           <br>
         </div>
       </div>
@@ -81,7 +81,7 @@
     </div>
   </section>
 
-  <section class="section" id="mission-purpose">
+  <section class="section" id="mission-purpose" style="padding: 100px 0">
     <div style="background: url('http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/MissionHero.jpg'); height: 300px; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover;">
       <div class="row text-center headline-row" style="position: relative; top: 250px;">
         <div class="headline" style="background: url('http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/healine_background.png'); background-position: center; background-repeat: no-repeat; background-size: cover; margin: 0 auto; box-shadow: 2px 2px rgba(0,0,0,.3); height: 100%;">
