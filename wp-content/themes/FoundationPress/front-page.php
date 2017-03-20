@@ -45,7 +45,7 @@
         <p>The Bridge Communication App is an augmentative and alternative communication (AAC) language app <strong>designed to eliminate the common struggles for non-communicative individuals.</strong> Bridge makes communication easy, fun, and has been proven to:</p>
       </div>
     </div>
-    <div class="row" style="margin-bottom: 100px;">
+    <div class="row" style="padding: 100px;">
       <div class="columns small-12 medium-3 large-3 one-sheet">
         <img src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/BC_DownloadImage.jpg" alt="">
       </div>
@@ -87,7 +87,7 @@
         <p class="text-center" style="font-size: 24px;">Build connections through barriers.</p>
       </div>
     </div>
-    <div class="row">
+    <div class="row" style="padding: 100px;">
       <div class="columns small-12 medium-4 large-4 text-center">
         <img src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/Encourage.png" alt="">
         <p>Encourage engagement and communication, reduce complexity, and make interaction the focus.</p>
