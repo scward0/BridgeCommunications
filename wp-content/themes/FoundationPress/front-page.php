@@ -11,7 +11,7 @@
           <img id="shape1" src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/Shape1.png" alt="Shape 1">
         </div> -->
         <div style="position: absolute; bottom: 25%;"  class="tagline text-center">
-          <h1 class="text-center" style="text-transform: uppercase; color: white; line-height: 30px; margin-left: 100px;"><span style="font-size: 20px; font-weight: 300;">The</span> Easiest App<br><span style="font-size: 20px; font-weight: 300;">for</span> Connecting <br><span style="font-size: 20px; font-weight: 300;">and</span> Building<br>Language</h1>
+          <h1 class="text-center" style="text-transform: uppercase; color: white; line-height: 30px; margin-left: 100px; letter-spacing: 3px; text-shadow: 2px 2px #ff0000; "><span style="font-size: 20px; font-weight: 300;">The</span> Easiest App<br><span style="font-size: 20px; font-weight: 300;">for</span> Connecting <br><span style="font-size: 20px; font-weight: 300;">and</span> Building<br>Language</h1>
           <br>
         </div>
       </div>
@@ -116,7 +116,6 @@
       </div>
     </div>
   </section>
-
 
   <section class="section" id="app-contents" style="padding: 100px 0;">
     <div style="background: url('http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/FeaturesHero.jpg'); height: 300px; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover;">
@@ -312,7 +311,6 @@
     </div>
   </section>
 
-
   <section class="section" id="features-services" style="padding: 100px 0;">
     <div style="background: url('http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/AppHero.jpg'); height: 300px; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover;">
       <div class="row text-center headline-row" style="position: relative; top: 250px;">
@@ -362,7 +360,6 @@
     </div>
   </section>
 
-
   <section class="section" id="stay-connected" style="padding: 100px 0;">
     <div style="background: url('http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/StayConnectedHero.jpg'); height: 300px; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover;">
       <div class="row text-center headline-row" style="position: relative; top: 250px;">
@@ -375,6 +372,7 @@
       <?php echo do_shortcode( '[ninja_form id=1]' ); ?>
     </div>
   </section>
+
 </div>
 
 <?php get_footer(); ?>
