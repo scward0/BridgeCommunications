@@ -42,7 +42,7 @@
 					<li><a style="color: black;" id="top-nav-features" href="#features-services" rel="home">Features &amp; Services</a></li>
 					<li><a style="color: black;" id="top-nav-testimonials" href="#testimonials" rel="home">Testimonials</a></li>
 					<li><a style="color: black;" id="top-nav-stay" href="#stay-connected" rel="home">Newsletter Sign-Up</a></li>
-					<li><a style="color: black;" href="https://itunes.apple.com/us/app/BRIDGE-communication/id983660714?ls=1&mt=8" rel="home"><img src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/app-store.png" alt="" width="100px"><br><span style="font-size: 20px; margin-left: 20px;">Only $17.99</span></a></li>
+					<li><a style="color: black;" href="https://itunes.apple.com/us/app/BRIDGE-communication/id983660714?ls=1&mt=8" rel="home"><img src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/app-store.png" alt="" width="125px"><br><span style="font-size: 16px; margin-left: 20px;">Only $17.99</span></a></li>
 				</ul>
 			</div>
 		</nav>
