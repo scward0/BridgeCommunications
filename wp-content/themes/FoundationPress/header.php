@@ -48,11 +48,11 @@
 		</nav>
 	</header>
 
-	<div class="social-nav" style="position: fixed; left: 0; top: 30%;">
-		<ul class="menu vertical" style="width: 100px; background: black; z-index: 1000; positon: fixed; left: 0; top: 500px; color: white;">
-			<li><a href="#"><img src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/facebook.png" style="z-index: 10000;"></a></li>
-			<li><a href="#"><img src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/stellar.png" style="z-index: 10000;"></a></li>
-			<li><a href="#"><img src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/youtube.png" style="z-index: 10000;"></a></li>
+	<div class="social-nav" style="position: fixed; left: 0; top: 30%; z-index: 1000;">
+		<ul class="menu vertical" style="width: 70px;">
+			<li><a href="#"><img src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/facebook.png" style="z-index: 10000; width: 70px;"></a></li>
+			<li><a href="#"><img src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/stellar.png" style="z-index: 10000; width: 70px;"></a></li>
+			<li><a href="#"><img src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/youtube.png" style="z-index: 10000; width: 70px;"></a></li>
 		</ul>
 	</div>
 
