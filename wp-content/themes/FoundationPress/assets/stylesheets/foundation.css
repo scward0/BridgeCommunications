@@ -7699,7 +7699,7 @@ body#tinymce {
   text-transform: uppercase; }
 
 .hovered {
-  color: #4aa1d6; }
+  color: #4aa1d6 !important; }
 
 .headline-row {
   position: relative;
