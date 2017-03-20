@@ -22,7 +22,7 @@
           <br>
         </div>
       </div>
-      <div class="columns small-12 medium-6 large-6">
+      <div class="columns small-12 medium-6 large-6 hidden-for-small-only">
         <div class="wrapper">
           <div class="ipad" style="background: url('http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/iPad.png'); position: absolute; bottom: -170px; height: 100%; width: 500px; background-repeat: no-repeat;">
             <div class="ipad-slick" style="position: relative; width: 352px; height: 460px; left: 80px; top:30px;">
@@ -58,13 +58,13 @@
       </div>
       <div class="columns small-12 medium-9 large-9">
         <div class="row">
-          <div class="columns small-6 medium-6 large-6">
+          <div class="columns small-12 medium-6 large-6">
             <ul style="color: #4AA1D6; font-weight: bold; font-size: 20px;">
               <li>Break down barriers</li>
               <li>Enhance communication</li>
             </ul>
           </div>
-          <div class="columns small-6 medium-6 large-6">
+          <div class="columns small-12 medium-6 large-6">
             <ul style="color: #4AA1D6; font-weight: bold; font-size: 20px;">
               <li>Increase engagement & exploration</li>
               <li>Decrease frustrations & negative behaviors</li>
