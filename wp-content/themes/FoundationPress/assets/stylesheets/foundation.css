@@ -7698,7 +7698,7 @@ body#tinymce {
 .tagline h1 {
   text-transform: uppercase; }
 
-#menu li a:hover {
+.menu > li > a:hover {
   color: #4aa1d6; }
 
 .headline-row {

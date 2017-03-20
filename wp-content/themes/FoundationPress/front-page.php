@@ -125,7 +125,7 @@
   </section>
 
 
-  <section class="section" id="app-contents">
+  <section class="section" id="app-contents" style="padding: 100px 0">
     <div style="background: url('http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/FeaturesHero.jpg'); height: 300px; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover;">
       <div class="row text-center headline-row" style="position: relative; top: 250px;">
         <div class="headline" style="background: url('http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/healine_background.png'); background-position: center; background-repeat: no-repeat; background-size: cover; margin: 0 auto; box-shadow: 2px 2px rgba(0,0,0,.3); height: 100%;">
@@ -299,7 +299,7 @@
         <ul class="vertical menu text-center" data-accordion-menu>
           <img class="text-center" style="margin: 0 auto;" src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/screen5.png" alt="">
           <li style="text-align: left; margin-top: 10px;">
-            <a href="#" style="border: 2px solid #4aa1d6; text-transform: uppercase; font-size: 18px;">Screen 5</a>
+            <a href="#" style="border: 2px solid #4aa1d 6; text-transform: uppercase; font-size: 18px;">Screen 5</a>
             <ul class="menu vertical nested">
                 <li><a href="#">Social</a>
                   <ul class="menu vertical nested">
@@ -320,7 +320,7 @@
   </section>
 
 
-  <section class="section" id="features-services" style="height: 80%;">
+  <section class="section" id="features-services" style="padding: 100px 0;">
     <div style="background: url('http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/AppHero.jpg'); height: 300px; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover;">
       <div class="row text-center headline-row" style="position: relative; top: 250px;">
         <div class="headline" style="background: url('http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/healine_background.png'); background-position: center; background-repeat: no-repeat; background-size: cover; margin: 0 auto; box-shadow: 2px 2px rgba(0,0,0,.3); height: 100%;">
@@ -342,7 +342,7 @@
     </div>
   </section>
 
-  <section class="section" id="testimonials">
+  <section class="section" id="testimonials" style="padding: 100px 0;">
       <?php
       $args = array(
         'post_type' => 'testimonial'
@@ -370,7 +370,7 @@
   </section>
 
 
-  <section class="section" id="stay-connected">
+  <section class="section" id="stay-connected" style="padding: 100px 0;">
     <div style="background: url('http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/StayConnectedHero.jpg'); height: 300px; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover;">
       <div class="row text-center headline-row" style="position: relative; top: 250px;">
         <div class="headline" style="background: url('http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/healine_background.png'); background-position: center; background-repeat: no-repeat; background-size: cover; margin: 0 auto; box-shadow: 2px 2px rgba(0,0,0,.3); height: 100%;">
