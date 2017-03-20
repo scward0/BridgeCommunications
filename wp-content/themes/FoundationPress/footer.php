@@ -35,10 +35,6 @@
 				arrows: true
 			});
 
-			$('.top-nav-a').({
-
-			});
-
 			$( ".top-nav-a" ).mouseover(function() {
   			$( ".top-nav-a" ).addClass('hovered');
 			});
@@ -46,7 +42,7 @@
 			$( ".top-nav-a" ).mouseout(function() {
 				$( ".top-nav-a" ).removeClass('hovered');
 			});
-			
+
 		});
 </script>
 <?php wp_footer(); ?>
