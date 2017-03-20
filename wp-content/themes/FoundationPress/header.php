@@ -49,10 +49,10 @@
 	</header>
 
 	<div class="social-nav" style="position: fixed; left: 0; top: 30%; z-index: 1000;">
-		<ul class="menu vertical" style="width: 70px; background: black; padding: 0;">
-			<li><a href="#"><img src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/facebook.png" style="z-index: 10000; width: 70px;"></a></li>
-			<li><a href="#"><img src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/stellar.png" style="z-index: 10000; width: 70px;"></a></li>
-			<li><a href="#"><img src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/youtube.png" style="z-index: 10000; width: 70px;"></a></li>
+		<ul class="menu vertical" style="width: 100px; background: black; padding: 0;">
+			<li><a href="#"><img src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/facebook.png" style="z-index: 10000; width: 100px;"></a></li>
+			<li><a href="#"><img src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/stellar.png" style="z-index: 10000; width: 100px;"></a></li>
+			<li><a href="#"><img src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/youtube.png" style="z-index: 10000; width: 100px;"></a></li>
 		</ul>
 	</div>
 
