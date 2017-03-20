@@ -1,10 +1,8 @@
 <?php get_header(); ?>
 
-
 <div class="container" id="fullpage">
 
-
-  <div class="section" id="home" style="background: url('http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/mainbg.jpg'); height: 80%; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover; top: 0; left: 0;">
+  <div id="home" style="background: url('http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/mainbg.jpg'); height: 80%; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover; top: 0; left: 0;">
     <div class="row" style="position: relative; height: 700px;">
       <div class="columns small-12 medium-6 large-6">
         <!-- <div style="position: relative; top:75px;">
@@ -33,8 +31,7 @@
     </div>
   </div>
 
-
-  <section id="witness-the-possibilities" style="z-index: 100;">
+  <section id="witness-the-possibilities">
     <div class="row text-center headline-row" style="position: relative; top: -50px;" >
       <div class="headline"  style="background: url('http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/healine_background.png'); background-position: center; background-repeat: no-repeat; background-size: cover; margin: 0 auto; box-shadow: 2px 2px rgba(0,0,0,.3); height: 100%;">
         <h1 style="text-transform: uppercase; color: white; font-style: italic; text-shadow: 2px 2px rgba(0,0,0,.3);">Witness <span style="font-size: 20px;">the</span> Possibilities</h1>
@@ -74,7 +71,7 @@
     </div>
   </section>
 
-  <section class="section" id="mission-purpose" style="padding: 100px 0">
+  <section id="mission-purpose"
     <div style="background: url('http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/MissionHero.jpg'); height: 300px; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover;">
       <div class="row text-center headline-row" style="position: relative; top: 250px;">
         <div class="headline" style="background: url('http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/healine_background.png'); background-position: center; background-repeat: no-repeat; background-size: cover; margin: 0 auto; box-shadow: 2px 2px rgba(0,0,0,.3); height: 100%;">
@@ -117,7 +114,7 @@
     </div>
   </section>
 
-  <section class="section" id="app-contents" style="padding: 100px 0;">
+  <section id="app-contents">
     <div style="background: url('http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/FeaturesHero.jpg'); height: 300px; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover;">
       <div class="row text-center headline-row" style="position: relative; top: 250px;">
         <div class="headline" style="background: url('http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/healine_background.png'); background-position: center; background-repeat: no-repeat; background-size: cover; margin: 0 auto; box-shadow: 2px 2px rgba(0,0,0,.3); height: 100%;">
@@ -311,7 +308,7 @@
     </div>
   </section>
 
-  <section class="section" id="features-services" style="padding: 100px 0;">
+  <section id="features-services">
     <div style="background: url('http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/AppHero.jpg'); height: 300px; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover;">
       <div class="row text-center headline-row" style="position: relative; top: 250px;">
         <div class="headline" style="background: url('http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/healine_background.png'); background-position: center; background-repeat: no-repeat; background-size: cover; margin: 0 auto; box-shadow: 2px 2px rgba(0,0,0,.3); height: 100%;">
@@ -333,7 +330,7 @@
     </div>
   </section>
 
-  <section class="section" id="testimonials" style="padding: 100px 0;">
+  <section id="testimonials">
       <?php
       $args = array(
         'post_type' => 'testimonial'
@@ -360,7 +357,7 @@
     </div>
   </section>
 
-  <section class="section" id="stay-connected" style="padding: 100px 0;">
+  <section id="stay-connected">
     <div style="background: url('http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/StayConnectedHero.jpg'); height: 300px; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover;">
       <div class="row text-center headline-row" style="position: relative; top: 250px;">
         <div class="headline" style="background: url('http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/healine_background.png'); background-position: center; background-repeat: no-repeat; background-size: cover; margin: 0 auto; box-shadow: 2px 2px rgba(0,0,0,.3); height: 100%;">
