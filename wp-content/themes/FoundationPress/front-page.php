@@ -11,7 +11,7 @@
           <img id="shape1" src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/Shape1.png" alt="Shape 1">
         </div> -->
         <div style="position: absolute; bottom: 25%;"  class="tagline text-center">
-          <h1 class="text-center" style="text-transform: uppercase; color: white; line-height: 33px; margin-left: 100px; letter-spacing: 5px; text-shadow: 1px 1px black; font-weight: 700;"><span style="font-size: 20px; font-weight: 300; padding-bottom: 10px; text-shadow: none;">The</span> Easiest App<br><span style="font-size: 20px; font-weight: 300; padding-bottom: 10px; text-shadow: none;">for</span> Connecting <br><span style="font-size: 20px; font-weight: 300; padding-bottom: 10px; text-shadow: none;">and</span> Building<br>Language</h1>
+          <h1 class="text-center" style="text-transform: uppercase; color: white; line-height: 33px; margin-left: 100px; letter-spacing: 5px; text-shadow: 1px 1px black; font-weight: 700;"><span style="font-size: 20px; font-weight: 300; padding-bottom: 10px; text-shadow: none; vertical-align: middle;">The</span> Easiest App<br><span style="font-size: 20px; font-weight: 300; padding-bottom: 10px; text-shadow: none; vertical-align: middle;">for</span> Connecting <br><span style="font-size: 20px; font-weight: 300; padding-bottom: 10px; text-shadow: none; vertical-align: middle;">and</span> Building<br>Language</h1>
           <br>
         </div>
       </div>
