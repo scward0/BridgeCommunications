@@ -37,7 +37,7 @@
         <h1 style="text-transform: uppercase; color: white; font-style: italic; text-shadow: 2px 2px rgba(0,0,0,.3);">Witness <span style="font-size: 20px;">the</span> Possibilities</h1>
       </div>
     </div>
-    <div class="row" style="padding: 50px 100px;">
+    <div class="row" style="padding: 25px 100px;">
       <div class="columns small-12">
         <p>The Bridge Communication App is an augmentative and alternative communication (AAC) language app <strong>designed to eliminate the common struggles for non-communicative individuals.</strong> Bridge makes communication easy, fun, and has been proven to:</p>
       </div>
