@@ -7701,10 +7701,6 @@ body#tinymce {
 .menu > li > a:hover {
   color: #4aa1d6 !important; }
 
-.headline-row {
-  position: relative;
-  top: -50px; }
-
 .nf-form-title {
   display: none; }
 
