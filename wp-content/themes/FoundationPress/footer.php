@@ -35,13 +35,13 @@
 				arrows: true
 			});
 
-			$( ".top-nav-a" ).mouseover(function() {
-  			$( ".top-nav-a" ).addClass('hovered');
-			});
-
-			$( ".top-nav-a" ).mouseout(function() {
-				$( ".top-nav-a" ).removeClass('hovered');
-			});
+			// $( "" ).mouseover(function() {
+  		// 	$( this ).addClass('hovered');
+			// });
+			//
+			// $( ".top-nav-a" ).mouseout(function() {
+			// 	$( this ).removeClass('hovered');
+			// });
 
 		});
 </script>
