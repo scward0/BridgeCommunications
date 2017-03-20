@@ -299,7 +299,7 @@
         <ul class="vertical menu text-center" data-accordion-menu>
           <img class="text-center" style="margin: 0 auto;" src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/screen5.png" alt="">
           <li style="text-align: left; margin-top: 10px;">
-            <a href="#" style="border: 2px solid #4aa1d 6; text-transform: uppercase; font-size: 18px;">Screen 5</a>
+            <a href="#" style="border: 2px solid #4aa1d6; text-transform: uppercase; font-size: 18px;">Screen 5</a>
             <ul class="menu vertical nested">
                 <li><a href="#">Social</a>
                   <ul class="menu vertical nested">
