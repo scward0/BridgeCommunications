@@ -40,7 +40,7 @@
         <h1 style="text-transform: uppercase; color: white; font-style: italic; text-shadow: 2px 2px rgba(0,0,0,.3);">Witness <span style="font-size: 20px;">the</span> Possibilities</h1>
       </div>
     </div>
-    <div class="row" style="padding: 100px 25px;">
+    <div class="row" style="padding: 100px;">
       <div class="columns small-12">
         <p>The Bridge Communication App is an augmentative and alternative communication (AAC) language app <strong>designed to eliminate the common struggles for non-communicative individuals.</strong> Bridge makes communication easy, fun, and has been proven to:</p>
       </div>
@@ -82,7 +82,7 @@
         </div>
       </div>
     </div>
-    <div class="row" style="padding: 100px 25px;">
+    <div class="row" style="padding: 100px;">
       <div class="columns small-12">
         <p class="text-center" style="font-size: 24px;">Build connections through barriers.</p>
       </div>
@@ -118,7 +118,7 @@
   </section>
 
 
-  <section class="section" id="app-contents" style="padding: 100px 0">
+  <section class="section" id="app-contents" style="padding: 100px 0;">
     <div style="background: url('http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/FeaturesHero.jpg'); height: 300px; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover;">
       <div class="row text-center headline-row" style="position: relative; top: 250px;">
         <div class="headline" style="background: url('http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/healine_background.png'); background-position: center; background-repeat: no-repeat; background-size: cover; margin: 0 auto; box-shadow: 2px 2px rgba(0,0,0,.3); height: 100%;">
@@ -126,7 +126,7 @@
         </div>
       </div>
     </div>
-    <div class="row" style="padding: 100px 25px;">
+    <div class="row" style="padding: 100px;">
       <div class="columns small-12">
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
       </div>
@@ -321,7 +321,7 @@
         </div>
       </div>
     </div>
-    <div class="row" style="padding: 100px 25px;">
+    <div class="row" style="padding: 100px;">
       <div class="columns small-12">
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
@@ -371,7 +371,7 @@
         </div>
       </div>
     </div>
-    <div class="row" style="padding: 100px 25px;">
+    <div class="row" style="padding: 100px;">
       <?php echo do_shortcode( '[ninja_form id=1]' ); ?>
     </div>
   </section>
