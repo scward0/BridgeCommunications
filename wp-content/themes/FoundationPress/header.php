@@ -33,7 +33,7 @@
 	<?php do_action( 'foundationpress_layout_start' ); ?>
 
 	<header id="masthead" class="site-header" role="banner" style="position: fixed; z-index: 5; width: 100%; background: white; padding: 25px;">
-		<a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home" style="float: left;"><img src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/LOGO.png" alt="" width="150px"></a>
+		<a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home" style="float: left; margin-top: 20px;"><img src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/LOGO.png" alt="" width="150px"></a>
 		<nav id="site-navigation" class="main-navigation" role="navigation" style="float: right;">
 			<div class="top-bar-left">
 				<ul id="#menu" class="menu" style="text-transform: uppercase; font-size: 14px;">
