@@ -53,10 +53,10 @@
       </div>
     </div>
     <div class="row" style="margin-bottom: 100px;">
-      <div class="columns small-6 medium-3 large-3 one-sheet">
+      <div class="columns small-12 medium-3 large-3 one-sheet">
         <img src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/BC_DownloadImage.jpg" alt="">
       </div>
-      <div class="columns small-6 medium-9 large-9">
+      <div class="columns small-12 medium-9 large-9">
         <div class="row">
           <div class="columns small-6 medium-6 large-6">
             <ul style="color: #4AA1D6; font-weight: bold; font-size: 20px;">
