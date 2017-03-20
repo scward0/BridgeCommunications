@@ -40,7 +40,7 @@
         <h1 style="text-transform: uppercase; color: white; font-style: italic; text-shadow: 2px 2px rgba(0,0,0,.3);">Witness <span style="font-size: 20px;">the</span> Possibilities</h1>
       </div>
     </div>
-    <div class="row" style="padding: 100px;">
+    <div class="row" style="padding: 50px 100px;">
       <div class="columns small-12">
         <p>The Bridge Communication App is an augmentative and alternative communication (AAC) language app <strong>designed to eliminate the common struggles for non-communicative individuals.</strong> Bridge makes communication easy, fun, and has been proven to:</p>
       </div>
@@ -87,7 +87,7 @@
         <p class="text-center" style="font-size: 24px;">Build connections through barriers.</p>
       </div>
     </div>
-    <div class="row" style="padding: 100px;">
+    <div class="row" style="padding: 50px 100px;">
       <div class="columns small-12 medium-4 large-4 text-center">
         <img src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/Encourage.png" alt="">
         <p>Encourage engagement and communication, reduce complexity, and make interaction the focus.</p>
@@ -101,7 +101,7 @@
         <p>Support augmentative and alternative communication between partners that is unpredictable and varied as it forms in real time... in real life.</p>
       </div>
     </div>
-    <div class="row" style="padding: 100px;">
+    <div class="row" style="padding: 50px 100px;">
       <div class="columns small-12 medium-4 large-4 text-center">
         <img src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/present.png" alt="">
         <p>Present language using a multimodal approach integrating visual, tactile and auditory feedback to theach ANY early or emerging language learner the power and versatility of communication</p>
@@ -125,12 +125,12 @@
         </div>
       </div>
     </div>
-    <div class="row" style="padding: 100px;">
+    <div class="row" style="padding: 50px 100px;">
       <div class="columns small-12">
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
       </div>
     </div>
-    <div class="row small-up-1 medium-up-5 large-up-5" style="padding: 100px 25px;">
+    <div class="row small-up-1 medium-up-5 large-up-5" style="padding: 25px 120px;">
       <div class="column">
         <ul class="vertical menu text-center" data-accordion-menu>
           <img class="text-center" style="margin: 0 auto;" src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/screen1.png" alt="">
