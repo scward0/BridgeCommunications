@@ -7731,6 +7731,10 @@ body#tinymce {
   margin-bottom: 0;
   padding-bottom: 0; }
 
+.email-container, .textbox-container {
+  margin-top: 0;
+  padding-top: 0; }
+
 .has-tip {
   border-bottom: none !important; }
 
