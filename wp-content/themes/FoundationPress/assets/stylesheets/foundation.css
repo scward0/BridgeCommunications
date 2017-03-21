@@ -7727,9 +7727,9 @@ body#tinymce {
   background: #BAD248;
   float: right; }
 
-.firstname-container, .lastname-container, .email-container, .textbox-container {
-  margin: 0;
-  padding: 0; }
+.firstname-container, .lastname-container {
+  margin-bottom: 0;
+  padding-bottom: 0; }
 
 .has-tip {
   border-bottom: none !important; }
