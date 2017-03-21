@@ -33,7 +33,7 @@
 	<?php do_action( 'foundationpress_layout_start' ); ?>
 
 	<header id="masthead" class="site-header" role="banner" style="position: fixed; z-index: 5; width: 100%; background: white; padding: 25px;">
-		<a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home" style="float: left; margin-top: 20px;"><img src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/LOGO.png" alt="" width="150px"></a>
+		<a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home" style="float: left; margin-top: 20px;"><img src="/BridgeCommunications/wp-content/uploads/2017/03/LOGO.png" alt="" width="150px"></a>
 		<nav id="site-navigation" class="main-navigation" role="navigation" style="float: right;">
 			<div class="top-bar-left">
 				<ul id="#menu" class="menu" style="text-transform: uppercase; font-size: 14px;">
@@ -42,7 +42,7 @@
 					<li><a style="color: black;" id="top-nav-features" href="#features-services" rel="home">Features &amp; Services</a></li>
 					<li><a style="color: black;" id="top-nav-testimonials" href="#testimonials" rel="home">Testimonials</a></li>
 					<li><a style="color: black;" id="top-nav-stay" href="#stay-connected" rel="home">Newsletter Sign-Up</a></li>
-					<li><a style="color: black;" href="https://itunes.apple.com/us/app/BRIDGE-communication/id983660714?ls=1&mt=8" rel="home"><img src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/app-store.png" alt="" width="125px"><br><span style="font-size: 16px; margin: 10px 20px;">Only $17.99</span></a></li>
+					<li><a style="color: black;" href="https://itunes.apple.com/us/app/BRIDGE-communication/id983660714?ls=1&mt=8" rel="home"><img src="/BridgeCommunications/wp-content/uploads/2017/03/app-store.png" alt="" width="125px" style="margin-bottom: 5px;"><br><span style="font-size: 16px; margin: 10px 20px;">Only $17.99</span></a></li>
 				</ul>
 			</div>
 		</nav>
@@ -50,9 +50,9 @@
 
 	<div class="social-nav" style="position: fixed; left: 0; top: 30%; z-index: 1000; padding: 0;">
 		<ul class="menu vertical" style="width: 70px; background: black; padding: 0;">
-			<li><a href="#" style="padding: 10px 0;"><span data-tooltip aria-haspopup="true" class="has-tip right" data-disable-hover="false" tabindex="3" title="FACEBOOK" style="border-bottom: none;"><img src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/facebook.png" style="z-index: 10000; width: 70px;"></span></a></li>
-			<li><a href="#" style="padding: 10px 0;"><span data-tooltip aria-haspopup="true" class="has-tip right" data-disable-hover="false" tabindex="3" title="STELLAR" style="border-bottom: none;"><img src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/stellar.png" style="z-index: 10000; width: 70px;"></span></a></li>
-			<li><a href="#" style="padding: 10px 0;"><span data-tooltip aria-haspopup="true" class="has-tip right" data-disable-hover="false" tabindex="3" title="YOUTUBE" style="border-bottom: none;"><img src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/youtube.png" style="z-index: 10000; width: 70px;"></span></a></li>
+			<li><a href="#" style="padding: 10px 0;"><span data-tooltip aria-haspopup="true" class="has-tip right" data-disable-hover="false" tabindex="3" title="FACEBOOK" style="border-bottom: none;"><img src="/BridgeCommunications/wp-content/uploads/2017/03/facebook.png" style="z-index: 10000; width: 70px;"></span></a></li>
+			<li><a href="#" style="padding: 10px 0;"><span data-tooltip aria-haspopup="true" class="has-tip right" data-disable-hover="false" tabindex="3" title="STELLAR" style="border-bottom: none;"><img src="/BridgeCommunications/wp-content/uploads/2017/03/stellar.png" style="z-index: 10000; width: 70px;"></span></a></li>
+			<li><a href="#" style="padding: 10px 0;"><span data-tooltip aria-haspopup="true" class="has-tip right" data-disable-hover="false" tabindex="3" title="YOUTUBE" style="border-bottom: none;"><img src="/BridgeCommunications/wp-content/uploads/2017/03/youtube.png" style="z-index: 10000; width: 70px;"></span></a></li>
 		</ul>
 	</div>
 

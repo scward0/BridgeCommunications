@@ -7727,7 +7727,14 @@ body#tinymce {
   background: #BAD248;
   float: right; }
 
+.firstname-container, .lastname-container, .email-container, .textbox-container {
+  margin: 0;
+  padding: 0; }
+
 .has-tip {
   border-bottom: none !important; }
+
+.slick-prev:before, .slick-next:before {
+  color: #4AA1D6 !important; }
 
 /*# sourceMappingURL=foundation.css.map */
