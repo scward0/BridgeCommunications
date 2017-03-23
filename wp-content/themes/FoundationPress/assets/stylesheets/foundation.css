@@ -7702,7 +7702,7 @@ body#tinymce {
 html, body, h1, h2, h3, p, li, a, span {
   font-family: 'Raleway', sans-serif !important; }
 
-h2, h3, p, li, a, span {
+h2, h3, p, a {
   color: #555555 !important; }
 
 #witness-the-possibilities {
