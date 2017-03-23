@@ -7703,7 +7703,7 @@ html, body, h1, h2, h3, p, li, a, span {
   font-family: 'Raleway', sans-serif !important; }
 
 h2, h3, p, li, a, span {
-  color: #e2e2e1; }
+  color: #555555 !important; }
 
 #witness-the-possibilities {
   z-index: 100; }
