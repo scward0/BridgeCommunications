@@ -45,7 +45,7 @@
     <div class="row" style="padding: 100px;">
       <div class="columns small-12 medium-3 large-3 one-sheet text-center">
         <img src="/BridgeCommunications/wp-content/uploads/2017/03/BC_DownloadImage.jpg" alt="">
-        <span style="color: #555; font-size: 18px; font-weight: bold; text-transform: uppercase;">Download the One Sheet</span>
+        <span style="color: #555; font-size: 16px; font-weight: 800; text-transform: uppercase; line-height: 15px;">Download the One Sheet</span>
       </div>
       <div class="columns small-12 medium-9 large-9">
         <div class="row">
