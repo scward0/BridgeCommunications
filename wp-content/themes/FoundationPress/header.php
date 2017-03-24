@@ -38,12 +38,12 @@
 		<nav id="site-navigation" class="main-navigation" role="navigation" style="float: right;">
 			<div class="top-bar-left">
 				<ul id="#menu" class="menu" style="text-transform: uppercase; font-size: 14px;">
-					<li><a style="color: black;" id="top-nav-mission" href="#mission-purpose" rel="home">Mission &amp; Purpose</a></li>
-					<li><a style="color: black;" id="top-nav-app" href="#app-contents" rel="home">App Contents</a></li>
-					<li><a style="color: black;" id="top-nav-features" href="#features-services" rel="home">Features &amp; Services</a></li>
-					<li><a style="color: black;" id="top-nav-testimonials" href="#testimonials" rel="home">Testimonials</a></li>
-					<li><a style="color: black;" id="top-nav-stay" href="#stay-connected" rel="home">Newsletter Sign-Up</a></li>
-					<li><a style="color: black;" href="https://itunes.apple.com/us/app/BRIDGE-communication/id983660714?ls=1&mt=8" rel="home"><img src="/BridgeCommunications/wp-content/uploads/2017/03/app-store.png" alt="" width="110px" style="margin-bottom: 5px;"><br><span style="font-size: 13px; margin: 10px;">Only $17.99</span></a></li>
+					<li><a class="text-center" id="top-nav-mission" href="#mission-purpose" rel="home">Mission &amp; Purpose</a></li>
+					<li><a class="text-center" id="top-nav-app" href="#app-contents" rel="home">App Contents</a></li>
+					<li><a class="text-center" id="top-nav-features" href="#features-services" rel="home">Features &amp; Services</a></li>
+					<li><a class="text-center" id="top-nav-testimonials" href="#testimonials" rel="home">Testimonials</a></li>
+					<li><a class="text-center" id="top-nav-stay" href="#stay-connected" rel="home">Newsletter Sign-Up</a></li>
+					<li><a class="text-center"  href="https://itunes.apple.com/us/app/BRIDGE-communication/id983660714?ls=1&mt=8" rel="home"><img src="/BridgeCommunications/wp-content/uploads/2017/03/app-store.png" alt="" width="110px" style="margin-bottom: 5px;"><br><span style="font-size: 13px;">Only $17.99</span></a></li>
 				</ul>
 			</div>
 		</nav>
