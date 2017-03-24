@@ -113,11 +113,11 @@ h2, h3, p, a{
 }
 
 #grad {
-  background: #4AA1D6; /* For browsers that do not support gradients */
-  background: -webkit-linear-gradient(-90deg, #4AA1D6, #B9D247); /* For Safari 5.1 to 6.0 */
-  background: -o-linear-gradient(-90deg, #4AA1D6,  #B9D247); /* For Opera 11.1 to 12.0 */
-  background: -moz-linear-gradient(-90deg, #4AA1D6,  #B9D247); /* For Firefox 3.6 to 15 */
-  background: linear-gradient(-90deg, #4AA1D6,  #B9D247); /* Standard syntax */
+  background: #4AA1D6;
+  background: -webkit-linear-gradient(-90deg, #4AA1D6, #B9D247);
+  background: -o-linear-gradient(-90deg, #4AA1D6,  #B9D247);
+  background: -moz-linear-gradient(-90deg, #4AA1D6,  #B9D247);
+  background: linear-gradient(-90deg, #4AA1D6,  #B9D247);
 }
 
 #witness-the-possibilities{
