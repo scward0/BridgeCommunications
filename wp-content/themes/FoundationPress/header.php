@@ -34,7 +34,7 @@
 	<div class="gradient" style="position: fixed;z-index:100;top: 0;width: 100%; height: 8px; background: #4AA1D6;background: -webkit-linear-gradient(-90deg, #B9D247, #4AA1D);background: -o-linear-gradient(-90deg, #B9D247, #4AA1D6);background: -moz-linear-gradient(-90deg, #B9D247, #4AA1D6);background: linear-gradient(-90deg, #B9D247, #4AA1D6);"></div>
 	<header id="masthead" class="site-header" role="banner" style="position: fixed; z-index: 5; width: 100%; background: white; padding: 25px;">
 
-		<a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home" style="float: left; margin-top: 20px;"><img src="/BridgeCommunications/wp-content/uploads/2017/03/LOGO.png" alt="" width="200px"></a>
+		<a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home" style="float: left; margin-top: 10px;"><img src="/BridgeCommunications/wp-content/uploads/2017/03/LOGO.png" alt="" width="200px"></a>
 		<nav id="site-navigation" class="main-navigation" role="navigation" style="float: right;">
 			<div class="top-bar-left">
 				<ul id="#menu" class="menu" style="text-transform: uppercase; font-size: 14px;">
@@ -43,7 +43,7 @@
 					<li><a style="color: black;" id="top-nav-features" href="#features-services" rel="home">Features &amp; Services</a></li>
 					<li><a style="color: black;" id="top-nav-testimonials" href="#testimonials" rel="home">Testimonials</a></li>
 					<li><a style="color: black;" id="top-nav-stay" href="#stay-connected" rel="home">Newsletter Sign-Up</a></li>
-					<li><a style="color: black;" href="https://itunes.apple.com/us/app/BRIDGE-communication/id983660714?ls=1&mt=8" rel="home"><img src="/BridgeCommunications/wp-content/uploads/2017/03/app-store.png" alt="" width="125px" style="margin-bottom: 5px;"><br><span style="font-size: 16px; margin: 10px 20px;">Only $17.99</span></a></li>
+					<li><a style="color: black;" href="https://itunes.apple.com/us/app/BRIDGE-communication/id983660714?ls=1&mt=8" rel="home"><img src="/BridgeCommunications/wp-content/uploads/2017/03/app-store.png" alt="" width="100px" style="margin-bottom: 5px;"><br><span style="font-size: 16px; margin: 10px 20px;">Only $17.99</span></a></li>
 				</ul>
 			</div>
 		</nav>
