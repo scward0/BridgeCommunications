@@ -50,13 +50,13 @@
       <div class="columns small-12 medium-9 large-9">
         <div class="row">
           <div class="columns small-12 medium-6 large-6">
-            <ul style="color: #4AA1D6; font-weight: bold; font-size: 20px;">
+            <ul style="color: #4AA1D6; font-weight: bold; font-size:18px;">
               <li>Break down barriers</li>
               <li>Enhance communication</li>
             </ul>
           </div>
           <div class="columns small-12 medium-6 large-6">
-            <ul style="color: #4AA1D6; font-weight: bold; font-size: 20px;">
+            <ul style="color: #4AA1D6; font-weight: bold; font-size:18px;">
               <li>Increase engagement & exploration</li>
               <li>Decrease frustrations & negative behaviors</li>
             </ul>
