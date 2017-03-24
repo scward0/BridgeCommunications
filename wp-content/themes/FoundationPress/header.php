@@ -31,7 +31,7 @@
 	<?php endif; ?>
 
 	<?php do_action( 'foundationpress_layout_start' ); ?>
-	<div class="gradient" style="position: fixed;top: 0;width: 100%; height: 20px; background: #4AA1D6;background: -webkit-linear-gradient(-90deg, #4AA1D6, #B9D247);background: -o-linear-gradient(-90deg, #4AA1D6,  #B9D247);background: -moz-linear-gradient(-90deg, #4AA1D6,  #B9D247);background: linear-gradient(-90deg, #4AA1D6,  #B9D247);"></div>
+	<div class="gradient" style="position: fixed;z-index:100;top: 0;width: 100%; height: 20px; background: #4AA1D6;background: -webkit-linear-gradient(-90deg, #4AA1D6, #B9D247);background: -o-linear-gradient(-90deg, #4AA1D6,  #B9D247);background: -moz-linear-gradient(-90deg, #4AA1D6,  #B9D247);background: linear-gradient(-90deg, #4AA1D6,  #B9D247);"></div>
 	<header id="masthead" class="site-header" role="banner" style="position: fixed; z-index: 5; width: 100%; background: white; padding: 25px;">
 
 		<a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home" style="float: left; margin-top: 20px;"><img src="/BridgeCommunications/wp-content/uploads/2017/03/LOGO.png" alt="" width="150px"></a>
