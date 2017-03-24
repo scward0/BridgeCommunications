@@ -99,7 +99,7 @@
         <p>Support augmentative and alternative communication between partners that is unpredictable and varied as it forms in real time... in real life.</p>
       </div>
     </div>
-    <div class="row" style="padding: 50px 100px;">
+    <div class="row" style="padding: 50px 100px 0 100px;">
       <div class="columns small-12 medium-4 large-4 text-center">
         <img src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/present.png" alt="">
         <p>Present language using a multimodal approach integrating visual, tactile and auditory feedback to theach ANY early or emerging language learner the power and versatility of communication</p>
