@@ -237,6 +237,9 @@ h2, h3, p, a{
 }
 
 
+.dropdowns{
+  padding: 25px 120px;
+}
 
 
 @media screen and (max-width: 639px){
@@ -253,14 +256,10 @@ h2, h3, p, a{
   .hero{
     background-attachment: scroll;
   }
+  .dropdowns{
+    padding: 25px;
+  }
 }
-
-
-
-
-
-
-
 
 
 
