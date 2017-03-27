@@ -85,7 +85,7 @@
         <p class="text-center" style="font-size: 24px;">Build connections through barriers.</p>
       </div>
     </div>
-    <div class="row" style="padding: 50px 10%;">
+    <div class="row" style="padding: 50px 5%;">
       <div class="columns small-12 medium-4 large-4 text-center">
         <img src="/BridgeCommunications/wp-content/uploads/2017/03/Encourage.png" alt="">
         <p>Encourage engagement and communication, reduce complexity, and make interaction the focus.</p>
@@ -99,7 +99,7 @@
         <p>Support augmentative and alternative communication between partners that is unpredictable and varied as it forms in real time... in real life.</p>
       </div>
     </div>
-    <div class="row" style="padding: 50px 10% 0 10%;">
+    <div class="row" style="padding: 50px 5% 0 5%;">
       <div class="columns small-12 medium-4 large-4 text-center">
         <img src="/BridgeCommunications/wp-content/uploads/2017/03/present.png" alt="">
         <p>Present language using a multimodal approach integrating visual, tactile and auditory feedback to theach ANY early or emerging language learner the power and versatility of communication</p>
@@ -315,11 +315,8 @@
     <div class="row" style="padding-top: 100px;">
       <div class="columns small-12">
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
       </div>
     </div>
@@ -353,8 +350,8 @@
   </section>
 
   <section id="stay-connected" >
-    <div style="background: url('/BridgeCommunications/wp-content/uploads/2017/03/StayConnectedHero.jpg'); height: 300px; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover;">
-      <div class="row text-center headline-row" style="position: relative; top: 250px;">
+    <div class="hero">
+      <div  class="row text-center headline-row" style="position: relative; top: 250px;">
         <div class="headline">
           <h1>Stay Connected With Us</h1>
         </div>
