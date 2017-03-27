@@ -73,7 +73,7 @@
   </section>
 
   <section id="mission-purpose">
-    <div class="prrlx">
+    <div class="hero">
       <div class="row text-center headline-row" style="position: relative; top: 250px;">
         <div class="headline">
           <h1>Mission <span style="font-size: 20px;">&amp;</span> Purpose</h1>
@@ -116,7 +116,7 @@
   </section>
 
   <section id="app-contents" >
-    <div style="background: url('/BridgeCommunications/wp-content/uploads/2017/03/FeaturesHero.jpg'); height: 300px; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover;">
+    <div class="hero">
       <div class="row text-center headline-row" style="position: relative; top: 250px;">
         <div class="headline">
           <h1>App Contents</h1>
@@ -305,7 +305,7 @@
   </section>
 
   <section id="features-services" >
-    <div style="background: url('/BridgeCommunications/wp-content/uploads/2017/03/AppHero.jpg'); height: 300px; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover;">
+    <div class="hero">
       <div class="row text-center headline-row" style="position: relative; top: 250px;">
         <div class="headline">
           <h1>Features <span style="font-size: 20px;">&amp;</span> Services</h1>
@@ -333,7 +333,7 @@
       $query = new WP_Query ($args);
        ?>
 
-    <div style="background: url('/BridgeCommunications/wp-content/uploads/2017/03/TestimonialsHero.jpg'); height: 300px; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover;">
+    <div class="hero">
       <div class="row text-center headline-row" style="position: relative; top: 250px;">
         <div class="headline">
           <h1>Testimonials</h1>
