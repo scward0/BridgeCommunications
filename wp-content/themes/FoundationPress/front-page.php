@@ -8,8 +8,8 @@
         <!-- <div style="position: relative; top:75px;">
           <img id="shape1" src="/BridgeCommunications/wp-content/uploads/2017/03/Shape1.png" alt="Shape 1">
         </div> -->
-        <div style="position: absolute; bottom: 25%;"  class="tagline text-center">
-          <h1 class="text-center" style="text-transform: uppercase; color: white; line-height: 40px; margin-left: 100px; letter-spacing: 5px; text-shadow: 1px 1px black; font-weight: 700;"><span style="font-size: 20px; font-weight: 300; padding-bottom: 10px; text-shadow: none; vertical-align: middle;">The</span> Easiest App<br><span style="font-size: 20px; font-weight: 300; padding-bottom: 10px; text-shadow: none; vertical-align: middle;">for</span> Connecting <br><span style="font-size: 20px; font-weight: 300; padding-bottom: 10px; text-shadow: none; vertical-align: middle;">and</span> Building<br>Language</h1>
+        <div class="tagline text-center">
+          <h1 class="text-center"><span>The</span> Easiest App<br><span>for</span> Connecting <br><span>and</span> Building<br>Language</h1>
           <br>
         </div>
       </div>
@@ -45,20 +45,20 @@
     <div class="row" style="padding: 100px;">
       <div class="columns small-12 medium-3 large-3 one-sheet text-center">
         <img src="/BridgeCommunications/wp-content/uploads/2017/03/BC_DownloadImage.jpg" alt="">
-        <span style="color: #555; font-size: 16px; font-weight: 800; text-transform: uppercase; line-height: 14px;">Download the One Sheet</span>
+        <span id="download-one-sheet">Download the One Sheet</span>
       </div>
       <div class="columns small-12 medium-9 large-9">
         <div class="row">
           <div class="columns small-12 medium-6 large-6">
-            <ul style="color: #4AA1D6; font-weight: bold; font-size:18px;">
+            <ul>
               <li>Break down barriers</li>
               <li>Enhance communication</li>
             </ul>
           </div>
           <div class="columns small-12 medium-6 large-6">
-            <ul style="color: #4AA1D6; font-weight: bold; font-size:18px;">
-              <li>Increase engagement & exploration</li>
-              <li>Decrease frustrations & negative behaviors</li>
+            <ul>
+              <li>Increase engagement &amp; exploration</li>
+              <li>Decrease frustrations &amp; negative behaviors</li>
             </ul>
           </div>
         </div>

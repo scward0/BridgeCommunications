@@ -120,13 +120,27 @@ h2, h3, p, a{
   background: linear-gradient(-90deg, #4AA1D6,  #B9D247);
 }
 
-#witness-the-possibilities{
-  z-index: 100;
+.tagline {
+  position: absolute;
+  bottom: 25%;
 }
 
-#witness-the-possibilities .headline-row{
-  position: relative;
-  top: -50px;
+.tagline h1 {
+  text-transform: uppercase;
+  color: white;
+  line-height: 40px;
+  margin-left: 100px;
+  letter-spacing: 5px;
+  text-shadow: 1px 1px black;
+  font-weight: 700;
+}
+
+.tagline h1 span{
+  font-size: 20px;
+  font-weight: 300;
+  padding-bottom: 10px;
+  text-shadow: none;
+  vertical-align: middle;
 }
 
 .headline{
@@ -149,6 +163,31 @@ h2, h3, p, a{
 .headline h1 span{
   font-size: 20px;
 }
+
+
+#witness-the-possibilities{
+  z-index: 100;
+}
+
+#witness-the-possibilities .headline-row{
+  position: relative;
+  top: -50px;
+}
+
+#witness-the-possibilities ul{
+  color: #4AA1D6;
+  font-weight: bold;
+  font-size:18px;
+}
+
+#download-one-sheet{
+  color: #555;
+  font-size: 16px;
+  font-weight: 800;
+  text-transform: uppercase;
+  line-height: 14px;
+}
+
 
 
 
