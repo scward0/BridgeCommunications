@@ -32,7 +32,7 @@ define('DB_USER', 'root');
 
 
 /** MySQL database password */
-define('DB_PASSWORD', 'SilverH3elm1!');
+define('DB_PASSWORD', '!e_xb#Z`82QR7E>T');
 
 
 
