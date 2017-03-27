@@ -1,4 +1,4 @@
-<section style="background: #404547;" class="text-center">
+<section id="footer" style="background: #404547;" class="text-center">
 	<div class="row">
 		<div class="columns small-12 text-center">
 			<img src="/BridgeCommunications/wp-content/uploads/2017/03/LOGO.png" alt="" width="150px" style="margin: 50px 0;">

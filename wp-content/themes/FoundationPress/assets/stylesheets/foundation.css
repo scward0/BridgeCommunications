@@ -7875,4 +7875,7 @@ h2, h3, p, a {
 .slick-prev:before, .slick-next:before {
   color: #4AA1D6 !important; }
 
+#footer p {
+  color: white !important; }
+
 /*# sourceMappingURL=foundation.css.map */
