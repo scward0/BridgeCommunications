@@ -32,9 +32,9 @@
   </div>
 
   <section id="witness-the-possibilities">
-    <div class="row text-center headline-row" style="position: relative; top: -50px;" >
-      <div class="headline"  style="background: url('/BridgeCommunications/wp-content/uploads/2017/03/healine_background.png'); background-position: center; background-repeat: no-repeat; background-size: cover; margin: 0 auto; box-shadow: 2px 2px rgba(0,0,0,.3); height: 100%;">
-        <h1 style="text-transform: uppercase; color: white; font-style: italic; text-shadow: 2px 2px rgba(0,0,0,.3);">Witness <span style="font-size: 20px;">the</span> Possibilities</h1>
+    <div class="row text-center headline-row">
+      <div class="headline">
+        <h1>Witness <span>the</span> Possibilities</h1>
       </div>
     </div>
     <div class="row" style="padding: 0 100px;">
@@ -75,8 +75,8 @@
   <section id="mission-purpose" >
     <div style="background: url('/BridgeCommunications/wp-content/uploads/2017/03/MissionHero.jpg'); height: 300px; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover;">
       <div class="row text-center headline-row" style="position: relative; top: 250px;">
-        <div class="headline" style="background: url('/BridgeCommunications/wp-content/uploads/2017/03/healine_background.png'); background-position: center; background-repeat: no-repeat; background-size: cover; margin: 0 auto; box-shadow: 2px 2px rgba(0,0,0,.3); height: 100%;">
-          <h1 style="text-transform: uppercase; color: white; font-style: italic; text-shadow: 2px 2px rgba(0,0,0,.3);">Mission <span style="font-size: 20px;">&amp;</span> Purpose</h1>
+        <div class="headline">
+          <h1>Mission <span style="font-size: 20px;">&amp;</span> Purpose</h1>
         </div>
       </div>
     </div>
@@ -118,8 +118,8 @@
   <section id="app-contents" >
     <div style="background: url('/BridgeCommunications/wp-content/uploads/2017/03/FeaturesHero.jpg'); height: 300px; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover;">
       <div class="row text-center headline-row" style="position: relative; top: 250px;">
-        <div class="headline" style="background: url('/BridgeCommunications/wp-content/uploads/2017/03/healine_background.png'); background-position: center; background-repeat: no-repeat; background-size: cover; margin: 0 auto; box-shadow: 2px 2px rgba(0,0,0,.3); height: 100%;">
-          <h1 style="text-transform: uppercase; color: white; font-style: italic; text-shadow: 2px 2px rgba(0,0,0,.3);">App Contents</h1>
+        <div class="headline">
+          <h1>App Contents</h1>
         </div>
       </div>
     </div>
@@ -307,8 +307,8 @@
   <section id="features-services" >
     <div style="background: url('/BridgeCommunications/wp-content/uploads/2017/03/AppHero.jpg'); height: 300px; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover;">
       <div class="row text-center headline-row" style="position: relative; top: 250px;">
-        <div class="headline" style="background: url('/BridgeCommunications/wp-content/uploads/2017/03/healine_background.png'); background-position: center; background-repeat: no-repeat; background-size: cover; margin: 0 auto; box-shadow: 2px 2px rgba(0,0,0,.3); height: 100%;">
-          <h1 style="text-transform: uppercase; color: white; font-style: italic; text-shadow: 2px 2px rgba(0,0,0,.3);">Features <span style="font-size: 20px;">&amp;</span> Services</h1>
+        <div class="headline">
+          <h1>Features <span style="font-size: 20px;">&amp;</span> Services</h1>
         </div>
       </div>
     </div>
@@ -336,8 +336,8 @@
 
     <div style="background: url('/BridgeCommunications/wp-content/uploads/2017/03/TestimonialsHero.jpg'); height: 300px; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover;">
       <div class="row text-center headline-row" style="position: relative; top: 250px;">
-        <div class="headline" style="background: url('/BridgeCommunications/wp-content/uploads/2017/03/healine_background.png'); background-position: center; background-repeat: no-repeat; background-size: cover; margin: 0 auto; box-shadow: 2px 2px rgba(0,0,0,.3); height: 100%;">
-          <h1 style="text-transform: uppercase; color: white; font-style: italic; text-shadow: 2px 2px rgba(0,0,0,.3);">Testimonials</h1>
+        <div class="headline">
+          <h1>Testimonials</h1>
         </div>
       </div>
     </div>
@@ -356,8 +356,8 @@
   <section id="stay-connected" >
     <div style="background: url('/BridgeCommunications/wp-content/uploads/2017/03/StayConnectedHero.jpg'); height: 300px; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover;">
       <div class="row text-center headline-row" style="position: relative; top: 250px;">
-        <div class="headline" style="background: url('/BridgeCommunications/wp-content/uploads/2017/03/healine_background.png'); background-position: center; background-repeat: no-repeat; background-size: cover; margin: 0 auto; box-shadow: 2px 2px rgba(0,0,0,.3); height: 100%;">
-          <h1 style="text-transform: uppercase; color: white; font-style: italic; text-shadow: 2px 2px rgba(0,0,0,.3);">Stay Connected With Us</h1>
+        <div class="headline">
+          <h1>Stay Connected With Us</h1>
         </div>
       </div>
     </div>
