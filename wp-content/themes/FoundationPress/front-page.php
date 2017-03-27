@@ -323,12 +323,12 @@
   </section>
 
   <section id="testimonials" >
-      <?php
-      $args = array(
-        'post_type' => 'testimonial'
-      );
-      $query = new WP_Query ($args);
-       ?>
+    <?php
+    $args = array(
+      'post_type' => 'testimonial'
+    );
+    $query = new WP_Query ($args);
+     ?>
 
     <div class="hero">
       <div class="row text-center headline-row" style="position: relative; top: 250px;">
@@ -342,7 +342,7 @@
       <div class="columns small-12">
         <div class="testimonials-slick">
           <?php if( $query->have_posts() ) : while($query->have_posts() ) : $query->the_post(); ?>
-          <div><?php the_content(); ?></div>
+            <div><?php the_content(); ?></div>
           <?php endwhile; endif; wp_reset_postdata(); ?>
         </div>
       </div>

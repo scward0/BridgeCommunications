@@ -1,4 +1,4 @@
-<!-- <section style="background: #404547;" class="text-center">
+<section style="background: #404547;" class="text-center">
 	<div class="row">
 		<div class="columns small-12 text-center">
 			<img src="/BridgeCommunications/wp-content/uploads/2017/03/LOGO.png" alt="" width="150px" style="margin: 50px 0;">
@@ -9,11 +9,11 @@
 			</p>
 		</div>
 	</div>
-</section> -->
-
-<section>
-	<img src="/BridgeCommunications/wp-content/uploads/2017/03/footer_example.png" width="100%" alt="">
 </section>
+
+<!-- <section>
+	<img src="/BridgeCommunications/wp-content/uploads/2017/03/footer_example.png" width="100%" alt="">
+</section> -->
 
 
 <script type="text/javascript" src="/BridgeCommunications/wp-content/themes/FoundationPress/assets/javascript/slick/slick.min.js"></script>
