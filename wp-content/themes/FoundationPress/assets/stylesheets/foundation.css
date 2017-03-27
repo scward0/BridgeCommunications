@@ -7748,8 +7748,8 @@ h2, h3, p, a {
     left: 0;
     right: 0; }
   .tagline h1 {
-    margin-left: 100px;
-    font-size: 50px; } }
+    font-size: 40px;
+    margin-left: 0; } }
 
 .headline {
   background: url("/BridgeCommunications/wp-content/uploads/2017/03/healine_background.png");
