@@ -2,11 +2,11 @@
 
 <div class="container" id="fullpage">
 
-  <div id="home" style="background: url('http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/mainbg.jpg'); height: 80%; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover; top: 0; left: 0;">
+  <div id="home" style="background: url('/BridgeCommunications/wp-content/uploads/2017/03/mainbg.jpg'); height: 80%; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover; top: 0; left: 0;">
     <div class="row" style="position: relative; height: 700px;">
       <div class="columns small-12 medium-6 large-6">
         <!-- <div style="position: relative; top:75px;">
-          <img id="shape1" src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/Shape1.png" alt="Shape 1">
+          <img id="shape1" src="/BridgeCommunications/wp-content/uploads/2017/03/Shape1.png" alt="Shape 1">
         </div> -->
         <div style="position: absolute; bottom: 25%;"  class="tagline text-center">
           <h1 class="text-center" style="text-transform: uppercase; color: white; line-height: 40px; margin-left: 100px; letter-spacing: 5px; text-shadow: 1px 1px black; font-weight: 700;"><span style="font-size: 20px; font-weight: 300; padding-bottom: 10px; text-shadow: none; vertical-align: middle;">The</span> Easiest App<br><span style="font-size: 20px; font-weight: 300; padding-bottom: 10px; text-shadow: none; vertical-align: middle;">for</span> Connecting <br><span style="font-size: 20px; font-weight: 300; padding-bottom: 10px; text-shadow: none; vertical-align: middle;">and</span> Building<br>Language</h1>
@@ -73,9 +73,9 @@
   </section>
 
   <section id="mission-purpose" >
-    <div style="background: url('http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/MissionHero.jpg'); height: 300px; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover;">
+    <div style="background: url('/BridgeCommunications/wp-content/uploads/2017/03/MissionHero.jpg'); height: 300px; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover;">
       <div class="row text-center headline-row" style="position: relative; top: 250px;">
-        <div class="headline" style="background: url('http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/healine_background.png'); background-position: center; background-repeat: no-repeat; background-size: cover; margin: 0 auto; box-shadow: 2px 2px rgba(0,0,0,.3); height: 100%;">
+        <div class="headline" style="background: url('/BridgeCommunications/wp-content/uploads/2017/03/healine_background.png'); background-position: center; background-repeat: no-repeat; background-size: cover; margin: 0 auto; box-shadow: 2px 2px rgba(0,0,0,.3); height: 100%;">
           <h1 style="text-transform: uppercase; color: white; font-style: italic; text-shadow: 2px 2px rgba(0,0,0,.3);">Mission <span style="font-size: 20px;">&amp;</span> Purpose</h1>
         </div>
       </div>
@@ -87,29 +87,29 @@
     </div>
     <div class="row" style="padding: 50px 100px;">
       <div class="columns small-12 medium-4 large-4 text-center">
-        <img src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/Encourage.png" alt="">
+        <img src="/BridgeCommunications/wp-content/uploads/2017/03/Encourage.png" alt="">
         <p>Encourage engagement and communication, reduce complexity, and make interaction the focus.</p>
       </div>
       <div class="columns small-12 medium-4 large-4 text-center">
-        <img src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/employ.png" alt="">
+        <img src="/BridgeCommunications/wp-content/uploads/2017/03/employ.png" alt="">
         <p>Employ a design tht is easy and intuitive, for all of the users, allowing for little distraction and maximum communication opportunities</p>
       </div>
       <div class="columns small-12 medium-4 large-4 text-center">
-        <img src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/support.png" alt="">
+        <img src="/BridgeCommunications/wp-content/uploads/2017/03/support.png" alt="">
         <p>Support augmentative and alternative communication between partners that is unpredictable and varied as it forms in real time... in real life.</p>
       </div>
     </div>
     <div class="row" style="padding: 50px 100px 0 100px;">
       <div class="columns small-12 medium-4 large-4 text-center">
-        <img src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/present.png" alt="">
+        <img src="/BridgeCommunications/wp-content/uploads/2017/03/present.png" alt="">
         <p>Present language using a multimodal approach integrating visual, tactile and auditory feedback to theach ANY early or emerging language learner the power and versatility of communication</p>
       </div>
       <div class="columns small-12 medium-4 large-4 text-center">
-        <img src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/increase.png" alt="">
+        <img src="/BridgeCommunications/wp-content/uploads/2017/03/increase.png" alt="">
         <p>Increase exposure, awareness, and fluency of communication.</p>
       </div>
       <div class="columns small-12 medium-4 large-4 text-center">
-        <img src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/integrate.png" alt="">
+        <img src="/BridgeCommunications/wp-content/uploads/2017/03/integrate.png" alt="">
         <p>Integrate communication supports into social and curriculum based conversation with others</p>
       </div>
     </div>

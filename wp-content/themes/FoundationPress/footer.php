@@ -1,7 +1,7 @@
 <!-- <section style="background: #404547;" class="text-center">
 	<div class="row">
 		<div class="columns small-12 text-center">
-			<img src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/LOGO.png" alt="" width="150px" style="margin: 50px 0;">
+			<img src="/BridgeCommunications/wp-content/uploads/2017/03/LOGO.png" alt="" width="150px" style="margin: 50px 0;">
 			<p style="color: white;">
 				Contact us<br>
 				support@bridgecommunication.com<br><br>
@@ -12,7 +12,7 @@
 </section> -->
 
 <section>
-	<img src="http://198.58.102.147/BridgeCommunications/wp-content/uploads/2017/03/footer_example.png" width="100%" alt="">
+	<img src="/BridgeCommunications/wp-content/uploads/2017/03/footer_example.png" width="100%" alt="">
 </section>
 
 
