@@ -155,7 +155,10 @@ h2, h3, p, a{
     left: 0;
     right: 0;
   }
-
+  .tagline h1 {
+    margin-left: 100px;
+    font-size: 50px;
+  }
 }
 
 .headline{
