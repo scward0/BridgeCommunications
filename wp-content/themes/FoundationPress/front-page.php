@@ -17,13 +17,13 @@
         <div class="wrapper show-for-large">
           <div class="ipad" style="background: url('/BridgeCommunications/wp-content/uploads/2017/03/iPad.png'); position: absolute; bottom: -170px; height: 100%; width: 500px; background-repeat: no-repeat;">
             <div class="ipad-slick" style="position: relative; width: 352px; height: 460px; left: 80px; top:30px;">
-              <div><img src="/BridgeCommunications/wp-content/uploads/2017/03/01.png" alt=""></div>
-              <div><img src="/BridgeCommunications/wp-content/uploads/2017/03/02.png" alt=""></div>
-              <div><img src="/BridgeCommunications/wp-content/uploads/2017/03/03.png" alt=""></div>
-              <div><img src="/BridgeCommunications/wp-content/uploads/2017/03/04.png" alt=""></div>
-              <div><img src="/BridgeCommunications/wp-content/uploads/2017/03/05.png" alt=""></div>
-              <div><img src="/BridgeCommunications/wp-content/uploads/2017/03/06.png" alt=""></div>
-              <div><img src="/BridgeCommunications/wp-content/uploads/2017/03/07.png" alt=""></div>
+              <div><img src="/BridgeCommunications/wp-content/uploads/2017/03/01.png" alt="iPad Screen 1"></div>
+              <div><img src="/BridgeCommunications/wp-content/uploads/2017/03/02.png" alt="iPad Screen 2"></div>
+              <div><img src="/BridgeCommunications/wp-content/uploads/2017/03/03.png" alt="iPad Screen 3"></div>
+              <div><img src="/BridgeCommunications/wp-content/uploads/2017/03/04.png" alt="iPad Screen 4"></div>
+              <div><img src="/BridgeCommunications/wp-content/uploads/2017/03/05.png" alt="iPad Screen 5"></div>
+              <div><img src="/BridgeCommunications/wp-content/uploads/2017/03/06.png" alt="iPad Screen 6"></div>
+              <div><img src="/BridgeCommunications/wp-content/uploads/2017/03/07.png" alt="iPad Screen 7"></div>
             </div>
           </div>
         </div>
@@ -73,7 +73,7 @@
   </section>
 
   <section id="mission-purpose" >
-    <div style="background: url('/BridgeCommunications/wp-content/uploads/2017/03/MissionHero.jpg'); height: 300px; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover;">
+    <div class="" style="background: url('/BridgeCommunications/wp-content/uploads/2017/03/MissionHero.jpg'); height: 300px; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover;">
       <div class="row text-center headline-row" style="position: relative; top: 250px;">
         <div class="headline">
           <h1>Mission <span style="font-size: 20px;">&amp;</span> Purpose</h1>
@@ -321,7 +321,6 @@
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
       </div>
     </div>
   </section>

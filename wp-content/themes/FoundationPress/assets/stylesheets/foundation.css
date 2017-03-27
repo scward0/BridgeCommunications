@@ -7705,6 +7705,15 @@ html, body, h1, h2, h3, p, li, a, span {
 h2, h3, p, a {
   color: #555555 !important; }
 
+.prrlx {
+  background: url("/BridgeCommunications/wp-content/uploads/2017/03/MissionHero.jpg");
+  height: 300px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+          background-size: cover; }
+
 #grad {
   background: #4AA1D6;
   background: -webkit-linear-gradient(-90deg, #4AA1D6, #B9D247);
