@@ -72,8 +72,8 @@
     </div>
   </section>
 
-  <section id="mission-purpose" >
-    <div class="" style="background: url('/BridgeCommunications/wp-content/uploads/2017/03/MissionHero.jpg'); height: 300px; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover;">
+  <section id="mission-purpose">
+    <div class="prrlx">
       <div class="row text-center headline-row" style="position: relative; top: 250px;">
         <div class="headline">
           <h1>Mission <span style="font-size: 20px;">&amp;</span> Purpose</h1>
