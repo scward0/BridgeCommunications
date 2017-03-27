@@ -148,6 +148,16 @@ h2, h3, p, a{
   vertical-align: middle;
 }
 
+@media screen and (max-width: 639px){
+  .tagline{
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+  }
+
+}
+
 .headline{
   background: url('/BridgeCommunications/wp-content/uploads/2017/03/healine_background.png');
   background-position: center;
