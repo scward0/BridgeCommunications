@@ -7705,8 +7705,8 @@ html, body, h1, h2, h3, p, li, a, span {
 h2, h3, p, a {
   color: #555555 !important; }
 
-.hero {
-  background: white;
+#mission-purpose .hero {
+  background: url("/BridgeCommunications/wp-content/uploads/2017/03/MissionHero.jpg");
   height: 300px;
   background-attachment: fixed;
   background-position: center;
@@ -7714,20 +7714,41 @@ h2, h3, p, a {
   -webkit-background-size: cover;
           background-size: cover; }
 
-#mission-purpose .hero {
-  background: url("/BridgeCommunications/wp-content/uploads/2017/03/MissionHero.jpg"); }
-
 #app-contents .hero {
-  background: url("/BridgeCommunications/wp-content/uploads/2017/03/FeaturesHero.jpg"); }
+  background: url("/BridgeCommunications/wp-content/uploads/2017/03/FeaturesHero.jpg");
+  height: 300px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+          background-size: cover; }
 
 #features-services .hero {
-  background: url("/BridgeCommunications/wp-content/uploads/2017/03/AppHero.jpg"); }
+  background: url("/BridgeCommunications/wp-content/uploads/2017/03/AppHero.jpg");
+  height: 300px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+          background-size: cover; }
 
 #testimonials .hero {
-  background: url("/BridgeCommunications/wp-content/uploads/2017/03/TestimonialsHero.jpg"); }
+  background: url("/BridgeCommunications/wp-content/uploads/2017/03/TestimonialsHero.jpg");
+  height: 300px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+          background-size: cover; }
 
 #stay-connected .hero {
-  background: url("/BridgeCommunications/wp-content/uploads/2017/03/StayConnectedHero.jpg"); }
+  background: url("/BridgeCommunications/wp-content/uploads/2017/03/StayConnectedHero.jpg");
+  height: 300px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+          background-size: cover; }
 
 #grad {
   background: #4AA1D6;
@@ -7738,7 +7759,7 @@ h2, h3, p, a {
 
 .tagline {
   position: absolute;
-  bottom: 50%; }
+  bottom: 30%; }
 
 .tagline h1 {
   text-transform: uppercase;
