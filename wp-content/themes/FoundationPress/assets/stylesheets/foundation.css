@@ -7705,6 +7705,18 @@ html, body, h1, h2, h3, p, li, a, span {
 h2, h3, p, a {
   color: #555555 !important; }
 
+.gradient {
+  position: fixed;
+  z-index: 100;
+  top: 0;
+  width: 100%;
+  height: 8px;
+  background: #4AA1D6;
+  background: -webkit-linear-gradient(-90deg, #B9D247, #4AA1D6);
+  background: -webkit-gradient(linear, right top, left top, from(#B9D247), to(#4AA1D6));
+  background: -webkit-linear-gradient(right, #B9D247, #4AA1D6);
+  background: linear-gradient(-90deg, #B9D247, #4AA1D6); }
+
 #mission-purpose .hero {
   background: url("/BridgeCommunications/wp-content/uploads/2017/03/MissionHero.jpg");
   height: 300px;
@@ -7749,13 +7761,6 @@ h2, h3, p, a {
   background-repeat: no-repeat;
   -webkit-background-size: cover;
           background-size: cover; }
-
-#grad {
-  background: #4AA1D6;
-  background: -webkit-linear-gradient(-90deg, #4AA1D6, #B9D247);
-  background: -webkit-gradient(linear, right top, left top, from(#4AA1D6), to(#B9D247));
-  background: -webkit-linear-gradient(right, #4AA1D6, #B9D247);
-  background: linear-gradient(-90deg, #4AA1D6, #B9D247); }
 
 .tagline {
   position: absolute;
