@@ -7717,6 +7717,12 @@ h2, h3, p, a {
   background: -webkit-linear-gradient(right, #B9D247, #4AA1D6);
   background: linear-gradient(-90deg, #B9D247, #4AA1D6); }
 
+.menu > li > a:hover {
+  color: #4aa1d6 !important; }
+
+.has-tip {
+  border-bottom: none !important; }
+
 #mission-purpose .hero {
   background: url("/BridgeCommunications/wp-content/uploads/2017/03/MissionHero.jpg");
   height: 300px;
@@ -7827,28 +7833,12 @@ h2, h3, p, a {
 .testimonial-slider {
   padding: 100px; }
 
-@media screen and (max-width: 639px) {
-  .tagline {
-    margin-left: auto;
-    margin-right: auto;
-    left: 0;
-    right: 0; }
-  .tagline h1 {
-    font-size: 40px;
-    margin-left: 0; }
-  #mission-purpose .hero, #app-contents .hero, #features-services .hero, #testimonials .hero, #stay-connected .hero {
-    background-attachment: scroll !important; }
-  .dropdowns {
-    padding: 25px; }
-  .testimonial-slider {
-    padding: 20px; }
-  .headline-row {
-    top: 275px !important; }
-  .mission-block {
-    margin: 50px 0; } }
+.slick-prev:before, .slick-next:before {
+  color: #4AA1D6 !important;
+  font-size: 40px !important; }
 
-.menu > li > a:hover {
-  color: #4aa1d6 !important; }
+#footer p {
+  color: white !important; }
 
 .nf-form-title {
   display: none; }
@@ -7878,14 +7868,26 @@ h2, h3, p, a {
   margin-top: 0;
   padding-top: 0; }
 
-.has-tip {
-  border-bottom: none !important; }
-
-.slick-prev:before, .slick-next:before {
-  color: #4AA1D6 !important;
-  font-size: 40px !important; }
-
-#footer p {
-  color: white !important; }
+@media screen and (max-width: 639px) {
+  .tagline {
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0; }
+  .tagline h1 {
+    font-size: 40px;
+    margin-left: 0; }
+  #mission-purpose .hero, #app-contents .hero, #features-services .hero, #testimonials .hero, #stay-connected .hero {
+    background-attachment: scroll !important; }
+  .dropdowns {
+    padding: 25px; }
+  .testimonial-slider {
+    padding: 20px; }
+  .headline-row {
+    top: 275px !important; }
+  .mission-block {
+    margin: 50px 0; }
+  .slick-prev:before, .slick-next:before {
+    display: none !important; } }
 
 /*# sourceMappingURL=foundation.css.map */
