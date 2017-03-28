@@ -65,7 +65,7 @@
           </div>
         </div>
       </div>
-      <div class="columns small-12 medium-3 large-3 one-sheet text-center">
+      <div class="columns small-12 medium-3 large-3 large-pull-9 medium-pull-9 one-sheet text-center">
         <img src="/BridgeCommunications/wp-content/uploads/2017/03/BC_DownloadImage.jpg" alt=""><br>
         <span id="download-one-sheet">Download the One Sheet</span>
       </div>
