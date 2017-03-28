@@ -260,7 +260,7 @@ h2, h3, p, a{
     margin-left: 0;
   }
   .hero{
-    background-attachment: scroll;
+    background-attachment: scroll !important;
   }
   .dropdowns{
     padding: 25px;
@@ -316,5 +316,5 @@ h2, h3, p, a{
 }
 
 #footer p{
-  color: white !important; 
+  color: white !important;
 }
