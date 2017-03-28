@@ -43,11 +43,7 @@
       </div>
     </div>
     <div class="row" style="padding: 0 10;">
-      <div class="columns small-12 small-push-12 medium-3 large-3 one-sheet text-center">
-        <img src="/BridgeCommunications/wp-content/uploads/2017/03/BC_DownloadImage.jpg" alt=""><br>
-        <span id="download-one-sheet">Download the One Sheet</span>
-      </div>
-      <div class="columns small-12 medium-9 large-9">
+      <div class="columns small-12 medium-9 large-9 medium-push-3 large-push-3">
         <div class="row">
           <div class="columns small-12 medium-6 large-6">
             <ul>
@@ -68,6 +64,10 @@
             <p>Parents, teachers, and therapists love it. Kids actually use it, and don't abandon it. Bridge allows the entire team to engage and experience growth and language development together. It not only gives a voice a increases learning - <strong>It builds relationships</strong></p>
           </div>
         </div>
+      </div>
+      <div class="columns small-12 medium-3 large-3 one-sheet text-center">
+        <img src="/BridgeCommunications/wp-content/uploads/2017/03/BC_DownloadImage.jpg" alt=""><br>
+        <span id="download-one-sheet">Download the One Sheet</span>
       </div>
     </div>
   </section>
