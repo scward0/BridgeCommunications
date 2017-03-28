@@ -357,7 +357,7 @@
         </div>
       </div>
     </div>
-    <div class="row" style="padding:10%;">
+    <div class="row">
       <?php echo do_shortcode( '[gravityform id=1 title=false description=false ajax=true tabindex=49]' ); ?>
     </div>
   </section>
