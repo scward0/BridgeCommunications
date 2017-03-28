@@ -9,7 +9,7 @@
           <img id="shape1" src="/BridgeCommunications/wp-content/uploads/2017/03/Shape1.png" alt="Shape 1">
         </div> -->
         <div class="tagline text-center">
-          <h1 class="text-center"><span>The</span> Easiest App<br><span>for</span> Connecting <br><span>and</span> Building<br>Language</h1>
+          <h1 class="text-center"><span>The</span>Easiest App<br><span>for</span>Connecting<br><span>and</span>Building<br>Language</h1>
           <br>
         </div>
       </div>
