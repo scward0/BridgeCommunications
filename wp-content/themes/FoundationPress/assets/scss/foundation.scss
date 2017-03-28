@@ -259,7 +259,9 @@ h2, h3, p, a{
 .testimonial-slider{
   padding: 100px;
 }
-
+.slick-list{
+  margin: 20px !important;
+}
 .slick-prev:before, .slick-next:before {
     color: #4AA1D6 !important;
     font-size: 40px!important;
