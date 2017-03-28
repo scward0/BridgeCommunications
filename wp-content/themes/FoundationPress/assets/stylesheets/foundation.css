@@ -7878,7 +7878,8 @@ h2, h3, p, a {
   border-bottom: none !important; }
 
 .slick-prev:before, .slick-next:before {
-  color: #4AA1D6 !important; }
+  color: #4AA1D6 !important;
+  font-size: 40px !important; }
 
 #footer p {
   color: white !important; }
