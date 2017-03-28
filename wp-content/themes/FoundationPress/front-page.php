@@ -37,12 +37,12 @@
         <h1>Witness <span>the</span> Possibilities</h1>
       </div>
     </div>
-    <div class="row" style="padding: 0 10;">
+    <div class="row" style="padding: 50 10% 0 10%;">
       <div class="columns small-12">
         <p>The Bridge Communication App is an augmentative and alternative communication (AAC) language app <strong>designed to eliminate the common struggles for non-communicative individuals.</strong> Bridge makes communication easy, fun, and has been proven to:</p>
       </div>
     </div>
-    <div class="row" style="padding: 0 10;">
+    <div class="row" style="padding: 50px 10%;">
       <div class="columns small-12 medium-9 large-9 medium-push-3 large-push-3">
         <div class="row">
           <div class="columns small-12 medium-6 large-6">
