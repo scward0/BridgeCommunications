@@ -7840,8 +7840,8 @@ h2, h3, p, a {
 #footer p {
   color: white !important; }
 
-.gravity label {
-  display: none; }
+.gfield_label {
+  display: none !important; }
 
 .gform_button {
   background: #BAD248;
