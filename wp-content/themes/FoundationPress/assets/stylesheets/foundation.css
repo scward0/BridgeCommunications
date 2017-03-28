@@ -7721,7 +7721,8 @@ h2, h3, p, a {
   color: #4aa1d6 !important; }
 
 .has-tip {
-  border-bottom: none !important; }
+  border-bottom: none !important;
+  cursor: auto !important; }
 
 #mission-purpose .hero {
   background: url("/BridgeCommunications/wp-content/uploads/2017/03/MissionHero.jpg");
