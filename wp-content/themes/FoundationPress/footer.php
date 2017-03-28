@@ -29,15 +29,6 @@
   			autoplaySpeed: 4000,
 				arrows: true
 			});
-
-			// $( "" ).mouseover(function() {
-  		// 	$( this ).addClass('hovered');
-			// });
-			//
-			// $( ".top-nav-a" ).mouseout(function() {
-			// 	$( this ).removeClass('hovered');
-			// });
-
 		});
 </script>
 <?php wp_footer(); ?>
