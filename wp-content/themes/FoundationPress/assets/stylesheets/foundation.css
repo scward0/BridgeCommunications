@@ -7841,7 +7841,9 @@ h2, h3, p, a {
   .dropdowns {
     padding: 25px; }
   .testimonial-slider {
-    padding: 20px; } }
+    padding: 20px; }
+  .headline-row {
+    top: 275px !important; } }
 
 .menu > li > a:hover {
   color: #4aa1d6 !important; }
