@@ -71,16 +71,6 @@
       </div>
     </div>
   </section>
-  <style media="screen">
-  #mission-purpose .hero{
-    background: url('/BridgeCommunications/wp-content/uploads/2017/03/MissionHero.jpg');
-    height: 300px;
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-  }
-  </style>
 
   <section id="mission-purpose">
     <div class="hero">
