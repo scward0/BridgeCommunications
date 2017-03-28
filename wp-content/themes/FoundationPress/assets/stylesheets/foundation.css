@@ -7888,6 +7888,8 @@ h2, h3, p, a {
   .mission-block {
     margin: 50px 0; }
   .slick-prev:before, .slick-next:before {
-    display: none !important; } }
+    display: none !important; }
+  #witness-the-possibilities .headline-row {
+    top: -25px !important; } }
 
 /*# sourceMappingURL=foundation.css.map */
