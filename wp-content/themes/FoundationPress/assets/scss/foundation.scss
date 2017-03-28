@@ -247,6 +247,10 @@ h2, h3, p, a{
   padding: 25px 120px;
 }
 
+.testimonial-slider{
+  padding: 100px;
+}
+
 
 @media screen and (max-width: 639px){
   .tagline{
@@ -264,6 +268,9 @@ h2, h3, p, a{
   }
   .dropdowns{
     padding: 25px;
+  }
+  .testimonial-slider{
+    padding: 20px;
   }
 }
 

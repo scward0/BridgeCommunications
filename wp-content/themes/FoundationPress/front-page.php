@@ -338,7 +338,7 @@
       </div>
     </div>
 
-    <div class="row" style="padding: 100px;">
+    <div class="row testimonial-slider">
       <div class="columns small-12">
         <div class="testimonials-slick">
           <?php if( $query->have_posts() ) : while($query->have_posts() ) : $query->the_post(); ?>

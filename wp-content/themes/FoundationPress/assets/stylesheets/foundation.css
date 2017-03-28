@@ -7824,6 +7824,9 @@ h2, h3, p, a {
 .dropdowns {
   padding: 25px 120px; }
 
+.testimonial-slider {
+  padding: 100px; }
+
 @media screen and (max-width: 639px) {
   .tagline {
     margin-left: auto;
@@ -7836,7 +7839,9 @@ h2, h3, p, a {
   #mission-purpose .hero, #app-contents .hero, #features-services .hero, #testimonials .hero, #stay-connected .hero {
     background-attachment: scroll !important; }
   .dropdowns {
-    padding: 25px; } }
+    padding: 25px; }
+  .testimonial-slider {
+    padding: 20px; } }
 
 .menu > li > a:hover {
   color: #4aa1d6 !important; }
