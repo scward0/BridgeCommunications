@@ -7843,7 +7843,9 @@ h2, h3, p, a {
   .testimonial-slider {
     padding: 20px; }
   .headline-row {
-    top: 275px !important; } }
+    top: 275px !important; }
+  .mission-block {
+    margin: 50px 0; } }
 
 .menu > li > a:hover {
   color: #4aa1d6 !important; }
