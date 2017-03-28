@@ -7840,33 +7840,12 @@ h2, h3, p, a {
 #footer p {
   color: white !important; }
 
-.nf-form-title {
+.gravity label {
   display: none; }
 
-.nf-field-container {
-  margin-bottom: 0; }
-
-.lastname-container, .textbox-container {
-  position: relative;
-  top: -90px; }
-
-.nf-field-label {
-  display: none; }
-
-.ninja-forms-field.nf-element {
-  height: 60px; }
-
-.submit {
+.gform_button {
   background: #BAD248;
   float: right; }
-
-.firstname-container, .lastname-container {
-  margin-bottom: 0;
-  padding-bottom: 0; }
-
-.email-container, .textbox-container {
-  margin-top: 0;
-  padding-top: 0; }
 
 @media screen and (max-width: 639px) {
   .tagline {
