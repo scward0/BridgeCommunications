@@ -286,7 +286,7 @@ h2, h3, p, a{
 }
 
 .features-slick .slick-list{
-  margin: 50px !important;
+  margin: 50px;
 }
 
 .features-slick li{
@@ -377,5 +377,8 @@ h2, h3, p, a{
   }
   #witness-the-possibilities .headline-row {
     top: -25px !important;
+  }
+  .features-slick .slick-list{
+    margin: 0px;
   }
 }

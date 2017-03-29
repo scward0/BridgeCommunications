@@ -7857,7 +7857,7 @@ h2, h3, p, a {
   font-size: 40px !important; }
 
 .features-slick .slick-list {
-  margin: 50px !important; }
+  margin: 50px; }
 
 .features-slick li {
   color: #555; }
@@ -7928,6 +7928,8 @@ h2, h3, p, a {
   .slick-prev:before, .slick-next:before {
     display: none !important; }
   #witness-the-possibilities .headline-row {
-    top: -25px !important; } }
+    top: -25px !important; }
+  .features-slick .slick-list {
+    margin: 0px; } }
 
 /*# sourceMappingURL=foundation.css.map */
