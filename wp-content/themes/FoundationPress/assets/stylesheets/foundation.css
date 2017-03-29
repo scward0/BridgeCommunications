@@ -7718,7 +7718,7 @@ h2, h3, p, a {
   background: linear-gradient(-90deg, #B9D247, #4AA1D6); }
 
 #hamburger {
-  color: black;
+  color: #555;
   position: fixed;
   right: 50px;
   top: 0; }
