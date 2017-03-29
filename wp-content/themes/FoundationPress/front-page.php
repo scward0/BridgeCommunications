@@ -126,10 +126,9 @@
     </div>
     <div class="row">
       <div class="columns small-12">
-        <div class="features" style="margin-top:50px; padding: 0 5%;">
+        <div class="features" style="padding: 50px 5%;">
           <h2 class="text-center">Features</h2>
           <div class="features-slick">
-
             <div>
               <p>Turn on <strong>Edit Mode</strong> in the <strong>Settings</strong> and you can:</p>
               <ul>
