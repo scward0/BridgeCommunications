@@ -7806,6 +7806,9 @@ h2, h3, p, a {
   width: 0%;
   left: 50%; }
 
+#nav-icon3 span {
+  background: #555555 !important; }
+
 .menu > li > a:hover {
   color: #4aa1d6 !important; }
 
