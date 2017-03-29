@@ -126,7 +126,7 @@
     </div>
     <div class="row">
       <div class="columns small-12">
-        <div class="features">
+        <div class="features" style="margin-top:50px;">
           <div class="features-slick">
             <div><img src="/BridgeCommunications/wp-content/uploads/2017/03/01.png" alt="iPad Screen 1"></div>
             <div><img src="/BridgeCommunications/wp-content/uploads/2017/03/02.png" alt="iPad Screen 2"></div>
