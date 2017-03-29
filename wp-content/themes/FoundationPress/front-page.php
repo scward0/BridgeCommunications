@@ -135,7 +135,7 @@
               <ul>
                 <li>Add new pages and remove pages to any group or home page that has a red X in the bottom, right-hand corner.</li>
               </ul>
-              <img src="/BridgeCommunications/wp-content/uploads/2017/03/SCREENSHOTC.jpg" alt="iPad Screen 1" width="500px">
+              <img src="/BridgeCommunications/wp-content/uploads/2017/03/SCREENSHOTC.jpg" alt="iPad Screen 1" width="500px" style="margin-left: auto; margin-right: auto;">
             </div>
 
             <div>
@@ -143,7 +143,7 @@
               <ul>
                 <li>Add new pages and remove pages to any group or home page that has a red X in the bottom, right-hand corner.</li>
               </ul>
-              <img src="/BridgeCommunications/wp-content/uploads/2017/03/SCREENSHOTC.jpg" alt="iPad Screen 1" width="500px">
+              <img src="/BridgeCommunications/wp-content/uploads/2017/03/SCREENSHOTC.jpg" alt="iPad Screen 1" width="500px" style="margin-left: auto; margin-right: auto;">
             </div>
 
             <div>
@@ -151,7 +151,7 @@
               <ul>
                 <li>Add new pages and remove pages to any group or home page that has a red X in the bottom, right-hand corner.</li>
               </ul>
-              <img src="/BridgeCommunications/wp-content/uploads/2017/03/SCREENSHOTC.jpg" alt="iPad Screen 1" width="500px">
+              <img src="/BridgeCommunications/wp-content/uploads/2017/03/SCREENSHOTC.jpg" alt="iPad Screen 1" width="500px" style="margin-left: auto; margin-right: auto;">
             </div>
 
             <div>
@@ -159,7 +159,7 @@
               <ul>
                 <li>Add new pages and remove pages to any group or home page that has a red X in the bottom, right-hand corner.</li>
               </ul>
-              <img src="/BridgeCommunications/wp-content/uploads/2017/03/SCREENSHOTC.jpg" alt="iPad Screen 1" width="500px">
+              <img src="/BridgeCommunications/wp-content/uploads/2017/03/SCREENSHOTC.jpg" alt="iPad Screen 1" width="500px" style="margin-left: auto; margin-right: auto;">
             </div>
 
           </div>
