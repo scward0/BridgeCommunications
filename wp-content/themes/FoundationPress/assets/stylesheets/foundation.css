@@ -7856,6 +7856,9 @@ h2, h3, p, a {
   color: #4AA1D6 !important;
   font-size: 40px !important; }
 
+.features-slick .slick-list {
+  margin: 50px !important; }
+
 #footer p {
   color: white !important; }
 
