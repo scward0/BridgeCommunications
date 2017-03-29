@@ -26,12 +26,11 @@
 	  	});
 			$('.testimonials-slick').slick({
 				autoplay: true,
-  			autoplaySpeed: 4000,
+  			autoplaySpeed: 6000,
 				arrows: true
 			});
 			$('.features-slick').slick({
-				autoplay: true,
-				autoplaySpeed: 4000,
+				autoplay: false,
 				arrows: true
 			});
 		});
