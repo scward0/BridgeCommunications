@@ -7747,17 +7747,21 @@ h2, h3, p, a {
     right: 0;
     top: 300px; }
   .tagline h1 {
-    font-size: 40px;
+    font-size: 32px;
     margin-left: 0; }
   .ipad {
     background: url("/BridgeCommunications/wp-content/uploads/2017/03/iPad.png");
     position: absolute;
-    bottom: -190px;
+    bottom: -472px;
     height: 82%;
     width: 355px;
     background-repeat: no-repeat;
     -webkit-background-size: 367px 367px;
-            background-size: 367px; }
+            background-size: 367px;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+            transform: translate(-50%, -50%); }
   .ipad-slick {
     position: relative;
     width: 250px;
@@ -7899,7 +7903,7 @@ h2, h3, p, a {
     right: 0;
     top: 150px; }
   .tagline h1 {
-    font-size: 40px;
+    font-size: 32px;
     margin-left: 0; }
   #mission-purpose .hero, #app-contents .hero, #features-services .hero, #testimonials .hero, #stay-connected .hero {
     background-attachment: scroll !important; }
