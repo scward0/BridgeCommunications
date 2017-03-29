@@ -127,6 +127,7 @@
     <div class="row">
       <div class="columns small-12">
         <div class="features" style="margin-top:50px;">
+          <h2 class="text-center">Features</h2>
           <div class="features-slick">
             <div><img src="/BridgeCommunications/wp-content/uploads/2017/03/01.png" alt="iPad Screen 1"></div>
             <div><img src="/BridgeCommunications/wp-content/uploads/2017/03/02.png" alt="iPad Screen 2"></div>
@@ -142,10 +143,10 @@
     <div class="row services" style="padding: 100px 5%;">
       <div class="columns small-12">
         <h2 class="text-center">Services</h2>
-        <p><strong>Free Basic Training: </strong>Purchase the Bridge Communication app for $17.99 on the iTunes App Store and we will answer all product questions and direct you to tutorials that show you how the app works. Email us directly at <a href="mailto:support@bridgecommunication.com">support@bridgecommunication.com.</a></p>
+        <p><strong>Free Basic Training: </strong>Purchase the Bridge Communication app for $17.99 on the iTunes App Store and we will answer all product questions and direct you to tutorials that show you how the app works. Email us directly at <a target="_blank" style="font-weight: bold;" href="mailto:support@bridgecommunication.com">support@bridgecommunication.com.</a></p>
         <p><strong>Pilot Program: </strong>Use the Bridge Communication app at no cost across your organization for a 3-month period — one app per low-incidence classroom/setting. We will train your lead and your lead will then train your organization. We will answer any product questions that come up. You provide weekly feedback plus a testimonial or critique at the end of the 3-month period.</p>
-        <p><strong>Advanced Training & Support: </strong>On-site training sessions plus follow-up emails, phone calls, and online meetings to assess or troubleshoot documentation, training and communication supports for 3 weeks after the training session. Email us directly at <a href="mailto:support@bridgecommunication.com">support@bridgecommunication.com.</a> for pricing.</p>
-        <p><strong>Consultation Services: </strong>If you decide you need ongoing consultation services, we will provide the Bridge Communication app at no cost to your organization or interested families. We will train teachers, staff, administrators or interested parents on systematic communication supports. We will administer, train, and provide documentation for accountability of support implementation. We will provide integrated IEP communication goals for individual students. We will provide direct services to caseload, provide related services supports to caseload, and provide oversight, assessment, and monitoring for integrated communication supports in the classroom environment. Email us directly at <a href="mailto:support@bridgecommunication.com">support@bridgecommunication.com.</a> for pricing.</p>
+        <p><strong>Advanced Training & Support: </strong>On-site training sessions plus follow-up emails, phone calls, and online meetings to assess or troubleshoot documentation, training and communication supports for 3 weeks after the training session. Email us directly at <a target="_blank" style="font-weight: bold;" href="mailto:support@bridgecommunication.com">support@bridgecommunication.com</a> for pricing.</p>
+        <p><strong>Consultation Services: </strong>If you decide you need ongoing consultation services, we will provide the Bridge Communication app at no cost to your organization or interested families. We will train teachers, staff, administrators or interested parents on systematic communication supports. We will administer, train, and provide documentation for accountability of support implementation. We will provide integrated IEP communication goals for individual students. We will provide direct services to caseload, provide related services supports to caseload, and provide oversight, assessment, and monitoring for integrated communication supports in the classroom environment. Email us directly at <a target="_blank" style="font-weight: bold;" href="mailto:support@bridgecommunication.com">support@bridgecommunication.com</a> for pricing.</p>
       </div>
     </div>
   </section>
