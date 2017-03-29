@@ -285,14 +285,12 @@ h2, h3, p, a{
     font-size: 40px!important;
 }
 
-
-
 .features-slick .slick-list{
   margin: 50px !important;
 }
 
-#footer p{
-  color: white !important;
+.features-slick li{
+   color: #555;
 }
 
 .gfield_label, .name_last label, .name_first label{
@@ -304,6 +302,9 @@ h2, h3, p, a{
   float: right;
 }
 
+#footer p{
+  color: white !important;
+}
 
 @media screen and (max-width: 1023px){
   .tagline{
