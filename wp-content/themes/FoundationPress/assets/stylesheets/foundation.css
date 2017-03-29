@@ -7905,6 +7905,8 @@ h2, h3, p, a {
   .tagline h1 {
     font-size: 32px;
     margin-left: 0; }
+  .ipad {
+    bottom: -490px; }
   #mission-purpose .hero, #app-contents .hero, #features-services .hero, #testimonials .hero, #stay-connected .hero {
     background-attachment: scroll !important; }
   .dropdowns {
