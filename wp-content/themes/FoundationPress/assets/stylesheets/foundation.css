@@ -7859,8 +7859,8 @@ h2, h3, p, a {
 .features-slick .slick-list {
   margin: 50px !important; }
 
-#footer p {
-  color: white !important; }
+.features-slick li {
+  color: #555; }
 
 .gfield_label, .name_last label, .name_first label {
   display: none !important; }
@@ -7868,6 +7868,9 @@ h2, h3, p, a {
 .gform_button {
   background: #BAD248;
   float: right; }
+
+#footer p {
+  color: white !important; }
 
 @media screen and (max-width: 1023px) {
   .tagline {
