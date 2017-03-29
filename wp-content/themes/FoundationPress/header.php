@@ -33,7 +33,14 @@
 	<?php do_action( 'foundationpress_layout_start' ); ?>
 	<div class="gradient"></div>
 	<header id="masthead" class="site-header" role="banner" style="position: fixed; z-index: 5; width: 100%; background: white; padding: 25px;">
-
+		<div id="hamburger" class="show-for-small-only">
+			<div id="nav-icon3">
+				<span></span>
+				<span></span>
+				<span></span>
+				<span></span>
+			</div>
+		</div>
 		<a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home" style="float: left; margin-top: 10px;"><img src="/BridgeCommunications/wp-content/uploads/2017/03/LOGO.png" alt="" width="200px"></a>
 		<nav id="site-navigation" class="main-navigation" role="navigation" style="float: right;">
 			<div class="top-bar-left">
