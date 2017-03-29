@@ -7739,35 +7739,6 @@ h2, h3, p, a {
   left: 80px;
   top: 30px; }
 
-@media screen and (max-width: 1023px) {
-  .tagline {
-    margin-left: auto;
-    margin-right: auto;
-    left: 0;
-    right: 0;
-    top: 300px; }
-  .tagline h1 {
-    font-size: 32px;
-    margin-left: 0; }
-  .ipad {
-    background: url("/BridgeCommunications/wp-content/uploads/2017/03/iPad.png");
-    position: absolute;
-    bottom: -472px;
-    height: 82%;
-    width: 355px;
-    background-repeat: no-repeat;
-    -webkit-background-size: 367px 367px;
-            background-size: 367px;
-    left: 50%;
-    -webkit-transform: translate(-50%, -50%);
-        -ms-transform: translate(-50%, -50%);
-            transform: translate(-50%, -50%); }
-  .ipad-slick {
-    position: relative;
-    width: 250px;
-    left: 60px;
-    top: 30px; } }
-
 #mission-purpose .hero {
   background: url("/BridgeCommunications/wp-content/uploads/2017/03/MissionHero.jpg");
   height: 300px;
@@ -7895,6 +7866,35 @@ h2, h3, p, a {
   background: #BAD248;
   float: right; }
 
+@media screen and (max-width: 1023px) {
+  .tagline {
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    top: 300px; }
+  .tagline h1 {
+    font-size: 32px;
+    margin-left: 0; }
+  .ipad {
+    background: url("/BridgeCommunications/wp-content/uploads/2017/03/iPad.png");
+    position: absolute;
+    bottom: -472px;
+    height: 82%;
+    width: 355px;
+    background-repeat: no-repeat;
+    -webkit-background-size: 367px 367px;
+            background-size: 367px;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+            transform: translate(-50%, -50%); }
+  .ipad-slick {
+    position: relative;
+    width: 250px;
+    left: 60px;
+    top: 30px; } }
+
 @media screen and (max-width: 639px) {
   .tagline {
     margin-left: auto;
@@ -7907,6 +7907,8 @@ h2, h3, p, a {
     margin-left: 0; }
   .ipad {
     bottom: -490px; }
+  .headline h1 {
+    font-size: 36px; }
   #mission-purpose .hero, #app-contents .hero, #features-services .hero, #testimonials .hero, #stay-connected .hero {
     background-attachment: scroll !important; }
   .dropdowns {
