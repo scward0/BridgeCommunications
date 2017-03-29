@@ -164,6 +164,25 @@ h2, h3, p, a{
   .tagline h1 {
     font-size: 40px;
     margin-left: 0;
+
+
+    .ipad{
+      background: url('/BridgeCommunications/wp-content/uploads/2017/03/iPad.png');
+      position: absolute;
+      bottom: -170px;
+      height: 82%;
+      width: 355px;
+      background-repeat: no-repeat;
+      background-size: 367px;
+    }
+
+    .ipad-slick{
+      position: relative;
+      width: 250px;
+      left: 60px;
+      top:30px;
+    }
+
   }
 
 

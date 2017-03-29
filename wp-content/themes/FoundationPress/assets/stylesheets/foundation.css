@@ -7749,6 +7749,20 @@ h2, h3, p, a {
   .tagline h1 {
     font-size: 40px;
     margin-left: 0; }
+    .tagline h1 .ipad {
+      background: url("/BridgeCommunications/wp-content/uploads/2017/03/iPad.png");
+      position: absolute;
+      bottom: -170px;
+      height: 82%;
+      width: 355px;
+      background-repeat: no-repeat;
+      -webkit-background-size: 367px 367px;
+              background-size: 367px; }
+    .tagline h1 .ipad-slick {
+      position: relative;
+      width: 250px;
+      left: 60px;
+      top: 30px; }
   .ipad {
     background: url("/BridgeCommunications/wp-content/uploads/2017/03/iPad.png");
     position: absolute;

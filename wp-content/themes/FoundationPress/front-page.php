@@ -8,13 +8,13 @@
 
   <div id="home" style="background: url('/BridgeCommunications/wp-content/uploads/2017/03/mainbg.jpg'); height: 80%; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover; top: 0; left: 0;">
     <div class="row" style="position: relative; height: 700px;">
-      <div class="columns small-12 medium-12 large-6">
+      <div class="columns small-12 medium-6 large-6">
         <div class="tagline text-center">
           <h1 class="text-center"><span>The</span>Easiest App<br><span>for</span>Connecting<br><span>and</span>Building<br>Language</h1>
           <br>
         </div>
       </div>
-      <div class="columns small-12 medium-12 large-6">
+      <div class="columns small-12 medium-6 large-6">
         <div class="wrapper">
           <div class="ipad">
             <div class="ipad-slick">
