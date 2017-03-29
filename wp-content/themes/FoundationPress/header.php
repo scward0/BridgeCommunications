@@ -33,7 +33,7 @@
 	<?php do_action( 'foundationpress_layout_start' ); ?>
 	<div class="gradient"></div>
 	<header id="masthead" class="site-header" role="banner" style="position: fixed; z-index: 5; width: 100%; background: white; padding: 25px;">
-		<div id="hamburger" class="show-for-small-only">
+		<div id="hamburger" class="hide">
 			<div id="nav-icon3">
 				<span></span>
 				<span></span>
