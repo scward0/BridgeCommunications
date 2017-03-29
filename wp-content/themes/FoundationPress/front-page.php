@@ -129,13 +129,39 @@
         <div class="features" style="margin-top:50px;">
           <h2 class="text-center">Features</h2>
           <div class="features-slick">
-            <div><img src="/BridgeCommunications/wp-content/uploads/2017/03/01.png" alt="iPad Screen 1"></div>
-            <div><img src="/BridgeCommunications/wp-content/uploads/2017/03/02.png" alt="iPad Screen 2"></div>
-            <div><img src="/BridgeCommunications/wp-content/uploads/2017/03/03.png" alt="iPad Screen 3"></div>
-            <div><img src="/BridgeCommunications/wp-content/uploads/2017/03/04.png" alt="iPad Screen 4"></div>
-            <div><img src="/BridgeCommunications/wp-content/uploads/2017/03/05.png" alt="iPad Screen 5"></div>
-            <div><img src="/BridgeCommunications/wp-content/uploads/2017/03/06.png" alt="iPad Screen 6"></div>
-            <div><img src="/BridgeCommunications/wp-content/uploads/2017/03/07.png" alt="iPad Screen 7"></div>
+
+            <div>
+              <p>Turn on <strong>Edit Mode</strong> in the <strong>Settings</strong> and you can:</p>
+              <ul>
+                <li>Add new pages and remove pages to any group or home page that has a red X in the bottom, right-hand corner.</li>
+              </ul>
+              <img src="/BridgeCommunications/wp-content/uploads/2017/03/01.png" alt="iPad Screen 1">
+            </div>
+
+            <div>
+              <p>Turn on <strong>Edit Mode</strong> in the <strong>Settings</strong> and you can:</p>
+              <ul>
+                <li>Add new pages and remove pages to any group or home page that has a red X in the bottom, right-hand corner.</li>
+              </ul>
+              <img src="/BridgeCommunications/wp-content/uploads/2017/03/01.png" alt="iPad Screen 1">
+            </div>
+
+            <div>
+              <p>Turn on <strong>Edit Mode</strong> in the <strong>Settings</strong> and you can:</p>
+              <ul>
+                <li>Add new pages and remove pages to any group or home page that has a red X in the bottom, right-hand corner.</li>
+              </ul>
+              <img src="/BridgeCommunications/wp-content/uploads/2017/03/01.png" alt="iPad Screen 1">
+            </div>
+
+            <div>
+              <p>Turn on <strong>Edit Mode</strong> in the <strong>Settings</strong> and you can:</p>
+              <ul>
+                <li>Add new pages and remove pages to any group or home page that has a red X in the bottom, right-hand corner.</li>
+              </ul>
+              <img src="/BridgeCommunications/wp-content/uploads/2017/03/01.png" alt="iPad Screen 1">
+            </div>
+
           </div>
         </div>
       </div>
