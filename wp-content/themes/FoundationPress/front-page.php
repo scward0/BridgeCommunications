@@ -14,9 +14,9 @@
         </div>
       </div>
       <div class="columns small-12 medium-6 large-6">
-        <div class="wrapper show-for-large">
-          <div class="ipad" style="background: url('/BridgeCommunications/wp-content/uploads/2017/03/iPad.png'); position: absolute; bottom: -170px; height: 100%; width: 500px; background-repeat: no-repeat;">
-            <div class="ipad-slick" style="position: relative; width: 352px; height: 460px; left: 80px; top:30px;">
+        <div class="wrapper">
+          <div class="ipad">
+            <div class="ipad-slick">
               <div><img src="/BridgeCommunications/wp-content/uploads/2017/03/01.png" alt="iPad Screen 1"></div>
               <div><img src="/BridgeCommunications/wp-content/uploads/2017/03/02.png" alt="iPad Screen 2"></div>
               <div><img src="/BridgeCommunications/wp-content/uploads/2017/03/03.png" alt="iPad Screen 3"></div>

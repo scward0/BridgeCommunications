@@ -7724,6 +7724,45 @@ h2, h3, p, a {
   border-bottom: none !important;
   cursor: auto !important; }
 
+.ipad {
+  background: url("/BridgeCommunications/wp-content/uploads/2017/03/iPad.png");
+  position: absolute;
+  bottom: -170px;
+  height: 100%;
+  width: 500px;
+  background-repeat: no-repeat; }
+
+.ipad-slick {
+  position: relative;
+  width: 352px;
+  height: 460px;
+  left: 80px;
+  top: 30px; }
+
+@media screen and (max-width: 1023px) {
+  .tagline {
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    top: 300px; }
+  .tagline h1 {
+    font-size: 40px;
+    margin-left: 0; }
+  .ipad {
+    background: url("/BridgeCommunications/wp-content/uploads/2017/03/iPad.png");
+    position: absolute;
+    bottom: -170px;
+    height: 100%;
+    width: 500px;
+    background-repeat: no-repeat; }
+  .ipad-slick {
+    position: relative;
+    width: 352px;
+    height: 460px;
+    left: 80px;
+    top: 30px; } }
+
 #mission-purpose .hero {
   background: url("/BridgeCommunications/wp-content/uploads/2017/03/MissionHero.jpg");
   height: 300px;
@@ -7856,7 +7895,8 @@ h2, h3, p, a {
     margin-left: auto;
     margin-right: auto;
     left: 0;
-    right: 0; }
+    right: 0;
+    top: 150px; }
   .tagline h1 {
     font-size: 40px;
     margin-left: 0; }
