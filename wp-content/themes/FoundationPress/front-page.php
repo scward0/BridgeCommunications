@@ -126,7 +126,7 @@
     </div>
     <div class="row">
       <div class="columns small-12">
-        <div class="features" style="margin-top:50px;">
+        <div class="features" style="margin-top:50px; padding: 0 5%;">
           <h2 class="text-center">Features</h2>
           <div class="features-slick">
 
