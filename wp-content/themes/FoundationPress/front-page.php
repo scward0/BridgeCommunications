@@ -134,7 +134,7 @@
               <ul>
                 <li>Add new pages and remove pages to any group or home page that has a red X in the bottom, right-hand corner.</li>
               </ul>
-              <img src="/BridgeCommunications/wp-content/uploads/2017/03/SCREENSHOTC.jpg" alt="iPad Screen 1" width="500px" style="margin-left: auto; margin-right: auto;">
+              <img src="/BridgeCommunications/wp-content/uploads/2017/03/Screenshot_01.jpg" alt="iPad Screen 1" style="margin-left: auto; margin-right: auto;">
             </div>
 
             <div>
@@ -142,7 +142,7 @@
               <ul>
                 <li>Add new pages and remove pages to any group or home page that has a red X in the bottom, right-hand corner.</li>
               </ul>
-              <img src="/BridgeCommunications/wp-content/uploads/2017/03/SCREENSHOTC.jpg" alt="iPad Screen 1" width="500px" style="margin-left: auto; margin-right: auto;">
+              <img src="/BridgeCommunications/wp-content/uploads/2017/03/Screenshot_02.jpg" alt="iPad Screen 2" style="margin-left: auto; margin-right: auto;">
             </div>
 
             <div>
@@ -150,7 +150,7 @@
               <ul>
                 <li>Add new pages and remove pages to any group or home page that has a red X in the bottom, right-hand corner.</li>
               </ul>
-              <img src="/BridgeCommunications/wp-content/uploads/2017/03/SCREENSHOTC.jpg" alt="iPad Screen 1" width="500px" style="margin-left: auto; margin-right: auto;">
+              <img src="/BridgeCommunications/wp-content/uploads/2017/03/Screenshot_03.jpg" alt="iPad Screen 3" style="margin-left: auto; margin-right: auto;">
             </div>
 
             <div>
@@ -158,7 +158,31 @@
               <ul>
                 <li>Add new pages and remove pages to any group or home page that has a red X in the bottom, right-hand corner.</li>
               </ul>
-              <img src="/BridgeCommunications/wp-content/uploads/2017/03/SCREENSHOTC.jpg" alt="iPad Screen 1" width="500px" style="margin-left: auto; margin-right: auto;">
+              <img src="/BridgeCommunications/wp-content/uploads/2017/03/Screenshot_04.jpg" alt="iPad Screen 1" style="margin-left: auto; margin-right: auto;">
+            </div>
+
+            <div>
+              <p>Turn on <strong>Edit Mode</strong> in the <strong>Settings</strong> and you can:</p>
+              <ul>
+                <li>Add new pages and remove pages to any group or home page that has a red X in the bottom, right-hand corner.</li>
+              </ul>
+              <img src="/BridgeCommunications/wp-content/uploads/2017/03/Screenshot_05.jpg" alt="iPad Screen 1" style="margin-left: auto; margin-right: auto;">
+            </div>
+
+            <div>
+              <p>Turn on <strong>Edit Mode</strong> in the <strong>Settings</strong> and you can:</p>
+              <ul>
+                <li>Add new pages and remove pages to any group or home page that has a red X in the bottom, right-hand corner.</li>
+              </ul>
+              <img src="/BridgeCommunications/wp-content/uploads/2017/03/Screenshot_05.jpg" alt="iPad Screen 1" style="margin-left: auto; margin-right: auto;">
+            </div>
+
+            <div>
+              <p>Turn on <strong>Edit Mode</strong> in the <strong>Settings</strong> and you can:</p>
+              <ul>
+                <li>Add new pages and remove pages to any group or home page that has a red X in the bottom, right-hand corner.</li>
+              </ul>
+              <img src="/BridgeCommunications/wp-content/uploads/2017/03/Screenshot_07.jpg" alt="iPad Screen 1" style="margin-left: auto; margin-right: auto;">
             </div>
 
           </div>
