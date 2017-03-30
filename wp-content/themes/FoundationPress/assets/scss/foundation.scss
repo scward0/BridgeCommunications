@@ -414,7 +414,9 @@ h2, h3, p, a{
 .features-slick li{
    color: #555;
 }
-
+.features-slider{
+  padding: 100px;
+}
 .gfield_label, .name_last label, .name_first label{
   display: none !important;
 }
@@ -508,5 +510,8 @@ h2, h3, p, a{
   }
   .features-slick{
     width: 95%;
+  }
+  .features-slider{
+    padding: 20px;
   }
 }

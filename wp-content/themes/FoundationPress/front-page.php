@@ -124,9 +124,9 @@
         </div>
       </div>
     </div>
-    <div class="row">
+    <div class="row features-slider">
       <div class="columns small-12">
-        <div class="features" style="margin-top: 100px;">
+        <div class="features">
           <h2 class="text-center">Features</h2>
           <div class="features-slick">
             <div>
