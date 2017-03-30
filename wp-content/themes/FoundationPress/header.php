@@ -64,6 +64,13 @@
 			<li><a class="text-center"  href="#testimonials" rel="home">Testimonials</a></li>
 			<li><a class="text-center" 	href="#stay-connected" rel="home">Newsletter Sign-Up</a></li>
 		</ul>
+		<div class="menu-centered">
+			<ul class="menu">
+				<li><a href="#"><img src="/BridgeCommunications/wp-content/uploads/2017/03/facebook.png" style="z-index: 10000; width: 40px;"></a></li>
+				<li><a href="#"><img src="/BridgeCommunications/wp-content/uploads/2017/03/stellar.png" style="z-index: 10000; width: 40px;"></a></li>
+				<li><a href="#"><img src="/BridgeCommunications/wp-content/uploads/2017/03/youtube.png" style="z-index: 10000; width: 40px;"></a></li>
+			</ul>
+		</div>
 	</div>
 
 
