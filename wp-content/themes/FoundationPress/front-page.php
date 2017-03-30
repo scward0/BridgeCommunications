@@ -213,7 +213,7 @@
                 <li>Documents can be printed if you’re connected to a printer via WIFI.</li>
               </ul>
               <img src="/BridgeCommunications/wp-content/uploads/2017/03/G.jpg" alt="iPad Screen 1" style="margin-left: auto; margin-right: auto;">
-              <a href="#">Watch this introductory video on forms.</a>
+              <a class="text-center" style"padding: 20px; font-weight: bold;" href="#">Watch this introductory video on forms.</a>
             </div>
           </div>
         </div>
