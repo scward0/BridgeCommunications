@@ -138,51 +138,82 @@
             </div>
 
             <div>
-              <p>Turn on <strong>Edit Mode</strong> in the <strong>Settings</strong> and you can:</p>
               <ul>
-                <li>Add new pages and remove pages to any group or home page that has a red X in the bottom, right-hand corner.</li>
+                <li>Add new groups, singular items, or video that represents an item by touching an ‘Add new’ box.</li>
               </ul>
               <img src="/BridgeCommunications/wp-content/uploads/2017/03/Screenshot_02.jpg" alt="iPad Screen 2" style="margin-left: auto; margin-right: auto;">
             </div>
 
             <div>
-              <p>Turn on <strong>Edit Mode</strong> in the <strong>Settings</strong> and you can:</p>
               <ul>
-                <li>Add new pages and remove pages to any group or home page that has a red X in the bottom, right-hand corner.</li>
+                <li>When adding an item or a group, you can take a photo, use a photo from your camera roll, choose a photo from the internet, or choose from the SymbolStix picture library. (Turn on WIFI or cellular data for more SymbolStix picture options!) When adding a group, you can choose the page color for added organization.</li>
               </ul>
               <img src="/BridgeCommunications/wp-content/uploads/2017/03/Screenshot_03.jpg" alt="iPad Screen 3" style="margin-left: auto; margin-right: auto;">
             </div>
 
             <div>
-              <p>Turn on <strong>Edit Mode</strong> in the <strong>Settings</strong> and you can:</p>
+              <p>Turn on <strong>Hide / Show</strong> in the <strong>Settings</strong> and you can:</p>
               <ul>
-                <li>Add new pages and remove pages to any group or home page that has a red X in the bottom, right-hand corner.</li>
+                <li>Hide or show items, groups, and navigational buttons. Just hold down the desired item, group, or navigational button for four seconds to hide or show.</li>
+              </ul>
+              <img src="/BridgeCommunications/wp-content/uploads/2017/03/Screenshot_01.jpg" alt="iPad Screen 1" style="margin-left: auto; margin-right: auto;">
+            </div>
+
+            <div>
+              <p>Select <strong>Language & Voices</strong> in the <strong>Settings</strong> and you can:</p>
+              <ul>
+                <li>Change text to Spanish, change speech to Spanish, or change the voice from neutral to a man or a woman.</li>
+              </ul>
+              <img src="/BridgeCommunications/wp-content/uploads/2017/03/Screenshot_01.jpg" alt="iPad Screen 1" style="margin-left: auto; margin-right: auto;">
+            </div>
+
+            <div>
+              <p>Turn on <strong>Message Window</strong> in the <strong>Settings</strong> and you can:</p>
+              <ul>
+                <li>Use it for word combinations, topic maintenance, and sentences with speech output. The message window can hold up to 15 items at a time.</li>
               </ul>
               <img src="/BridgeCommunications/wp-content/uploads/2017/03/Screenshot_04.jpg" alt="iPad Screen 1" style="margin-left: auto; margin-right: auto;">
             </div>
 
             <div>
-              <p>Turn on <strong>Edit Mode</strong> in the <strong>Settings</strong> and you can:</p>
+              <p>Turn on <strong>Typing View</strong> in the <strong>Settings</strong> and you can:</p>
               <ul>
-                <li>Add new pages and remove pages to any group or home page that has a red X in the bottom, right-hand corner.</li>
+                <li>Us it for typing and text-based messages with speech output. The typing view can hold lengthy amounts of typed information</li>
               </ul>
               <img src="/BridgeCommunications/wp-content/uploads/2017/03/Screenshot_05.jpg" alt="iPad Screen 1" style="margin-left: auto; margin-right: auto;">
             </div>
 
             <div>
-              <p>Turn on <strong>Edit Mode</strong> in the <strong>Settings</strong> and you can:</p>
+              <p>Turn on<strong>Moxtra</strong> which is integrated with <strong>Bridge Communication App,</strong> and you can:</p>
               <ul>
-                <li>Add new pages and remove pages to any group or home page that has a red X in the bottom, right-hand corner.</li>
+                <li>Upload, save, and view audio and video files by creating binders. Create interactive material to use for supports or entertainment. Also, perform live chats with other Bridge Communication App subscribers for screen sharing paired with face image sharing and live voice exchanges.</li>
               </ul>
-              <img src="/BridgeCommunications/wp-content/uploads/2017/03/Screenshot_05.jpg" alt="iPad Screen 1" style="margin-left: auto; margin-right: auto;">
+              <img src="/BridgeCommunications/wp-content/uploads/2017/03/Screenshot_01.jpg" alt="iPad Screen 1" style="margin-left: auto; margin-right: auto;">
             </div>
 
             <div>
-              <p>Turn on <strong>Edit Mode</strong> in the <strong>Settings</strong> and you can:</p>
+              <p>Turn on<strong>Save/Recover/Reset</strong> and you can:</p>
               <ul>
-                <li>Add new pages and remove pages to any group or home page that has a red X in the bottom, right-hand corner.</li>
+                <li>Save files to our server. Recover your saved files our pull your saved files down to supplemental devices within seconds. Reset the app to default configuration. Saved files will remain on our server for 30 days after a subscription is cancelled.</li>
+              </ul>
+              <img src="/BridgeCommunications/wp-content/uploads/2017/03/Screenshot_01.jpg" alt="iPad Screen 1" style="margin-left: auto; margin-right: auto;">
+            </div>
+
+
+            <div>
+              <p>Select <strong>Forms</strong> in the <strong>Settings</strong> and you can:</p>
+              <ul>
+                <li>Have instant access to robust student and trainer progress reports, training reports for navigation and features, and other essential monitoring documentation.</li>
+              </ul>
+              <img src="/BridgeCommunications/wp-content/uploads/2017/03/Screenshot_06.jpg" alt="iPad Screen 1" style="margin-left: auto; margin-right: auto;">
+            </div>
+
+            <div>
+              <ul>
+                <li>Documents can be printed if you’re connected to a printer via WIFI.</li>
               </ul>
               <img src="/BridgeCommunications/wp-content/uploads/2017/03/Screenshot_07.jpg" alt="iPad Screen 1" style="margin-left: auto; margin-right: auto;">
+              <a href="#">Watch this introductory video on forms.</a>
             </div>
 
           </div>
