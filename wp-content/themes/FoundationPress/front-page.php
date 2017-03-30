@@ -184,7 +184,7 @@
             </div>
 
             <div>
-              <p>Turn on<strong>Moxtra</strong> which is integrated with <strong>Bridge Communication App,</strong> and you can:</p>
+              <p>Turn on <strong>Moxtra</strong> which is integrated with <strong>Bridge Communication App,</strong> and you can:</p>
               <ul>
                 <li>Upload, save, and view audio and video files by creating binders. Create interactive material to use for supports or entertainment. Also, perform live chats with other Bridge Communication App subscribers for screen sharing paired with face image sharing and live voice exchanges.</li>
               </ul>
@@ -192,7 +192,7 @@
             </div>
 
             <div>
-              <p>Turn on<strong>Save/Recover/Reset</strong> and you can:</p>
+              <p>Turn on <strong>Save/Recover/Reset</strong> and you can:</p>
               <ul>
                 <li>Save files to our server. Recover your saved files our pull your saved files down to supplemental devices within seconds. Reset the app to default configuration. Saved files will remain on our server for 30 days after a subscription is cancelled.</li>
               </ul>
@@ -219,7 +219,7 @@
         </div>
       </div>
     </div>
-    <div class="row services" style="padding: 100px 5%;">
+    <div class="row services" style="padding: 0px 5% 50px 5%;">
       <div class="columns small-12">
         <h2 class="text-center">Services</h2>
         <p><strong>Free Basic Training: </strong>Purchase the Bridge Communication app for $17.99 on the iTunes App Store and we will answer all product questions and direct you to tutorials that show you how the app works. Email us directly at <a target="_blank" style="font-weight: bold;" href="mailto:support@bridgecommunication.com">support@bridgecommunication.com.</a></p>
