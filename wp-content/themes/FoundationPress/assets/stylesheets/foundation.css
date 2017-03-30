@@ -8027,6 +8027,8 @@ h2, h3, p, a {
   .features-slick .slick-list {
     margin: 0px; }
   .features-slick img {
-    width: 400px; } }
+    width: 350px; }
+  .features-slick {
+    width: 500px; } }
 
 /*# sourceMappingURL=foundation.css.map */
