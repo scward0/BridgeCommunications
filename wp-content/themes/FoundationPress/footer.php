@@ -37,12 +37,12 @@
 
 			if ($(this).hasClass('open') ) {
 				$(this).removeClass('open');
-				// $('#menu').removeClass('fadeIn');
-				// $('#menu').addClass('hide fadeOut');
+				$('.mobile-nav').removeClass('fadeIn');
+				$('.mobile-nav').addClass('hide fadeOut');
 			}else{
 					$(this).addClass('open');
-					// $('#menu').removeClass('hide fadeOut');
-					// $('#menu').addClass('fadeIn');
+					$('.mobile-nav').removeClass('hide fadeOut');
+					$('.mobile-nav').addClass('fadeIn');
 				}
 			});
 		});
