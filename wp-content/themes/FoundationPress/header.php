@@ -57,7 +57,7 @@
 
 	<div class="mobile-nav hide animated">
 		<ul class="vertical menu">
-			<li><a class="text-center" target="_blank"  href="https://itunes.apple.com/us/app/BRIDGE-communication/id983660714?ls=1&mt=8" rel="home"><img src="/BridgeCommunications/wp-content/uploads/2017/03/app-store.png" alt="" width="110px" style="margin-bottom: 5px; margin-top:10px;"><br><span style="font-size: 13px;">Only $17.99</span></a></li>
+			<li><a class="text-center" target="_blank"  href="https://itunes.apple.com/us/app/BRIDGE-communication/id983660714?ls=1&mt=8" rel="home"><img src="/BridgeCommunications/wp-content/uploads/2017/03/app-store.png" alt="" width="250px" style="margin-bottom: 5px; margin-top:10px;"><br><span style="font-size: 13px;">Only $17.99</span></a></li>
 			<li><a class="text-center"  href="#mission-purpose" rel="home">Mission &amp; Purpose</a></li>
 			<li><a class="text-center"  href="#features-services" rel="home">Features &amp; Services</a></li>
 			<li><a class="text-center"	href="#app-contents" rel="home">App Contents</a></li>
