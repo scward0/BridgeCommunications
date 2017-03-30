@@ -16,8 +16,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<link rel="stylesheet" type="text/css" href="/BridgeCommunications/wp-content/themes/FoundationPress/assets/javascript/slick/slick.css"/>
 		<link rel="stylesheet" type="text/css" href="/BridgeCommunications/wp-content/themes/FoundationPress/assets/javascript/slick/slick-theme.css"/>
-		<link rel="stylesheet" type="text/css" href="/BridgeCommunications/wp-content/themes/FoundationPress/assets/javascript/fullPage/jquery.fullPage.css"/>
-
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
 		<?php wp_head(); ?>
 	</head>
 	<body <?php body_class(); ?>>
