@@ -7997,6 +7997,26 @@ h2, h3, p, a {
     top: 30px; } }
 
 @media screen and (max-width: 639px) {
+  .mobile-nav {
+    background: rgba(250, 250, 250, 0.9);
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 250px;
+    right: 0%;
+    -webkit-transform: translateX(-50%) translateY(-50%);
+        -ms-transform: translateX(-50%) translateY(-50%);
+            transform: translateX(-50%) translateY(-50%);
+    z-index: 10000; }
+  .mobile-nav ul {
+    list-style: none !important; }
+  .mobile-nav ul li a {
+    position: relative;
+    font-weight: bold;
+    font-size: 36px;
+    color: black;
+    text-align: right;
+    text-transform: uppercase; }
   .tagline {
     margin-left: auto;
     margin-right: auto;
@@ -8033,25 +8053,6 @@ h2, h3, p, a {
   .features-slider {
     padding: 20px; }
   .features {
-    margin-top: 100px; }
-  .mobile-menu {
-    background: rgba(250, 250, 250, 0.9);
-    width: 100%;
-    height: 100%;
-    position: fixed;
-    top: 250px;
-    right: 0%;
-    -webkit-transform: translateX(-50%) translateY(-50%);
-        -ms-transform: translateX(-50%) translateY(-50%);
-            transform: translateX(-50%) translateY(-50%); }
-  .mobile-menu ul {
-    list-style: none !important; }
-  .mobile-menu ul li a {
-    position: relative;
-    font-weight: bold;
-    font-size: 36px;
-    color: black;
-    text-align: right;
-    text-transform: uppercase; } }
+    margin-top: 100px; } }
 
 /*# sourceMappingURL=foundation.css.map */
