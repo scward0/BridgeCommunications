@@ -480,12 +480,11 @@ h2, h3, p, a{
     list-style: none !important;
   }
 
-  .mobile-nav ul li{
+  .mobile-nav ul li a{
     position: relative;
     font-weight: bold;
-    font-size: 36px;
-    color: black;
-    text-align: right;
+    font-size: 24px;
+    color: #555;
     text-transform: uppercase;
   }
   .tagline{
