@@ -128,7 +128,7 @@
       <div class="columns small-12">
         <div class="features" style="margin-top: 100px;">
           <h2 class="text-center">Features</h2>
-          <div class="features-slick">
+          <div class="features-slick hide">
             <div>
               <p>Turn on <strong>Edit Mode</strong> in the <strong>Settings</strong> and you can:</p>
               <ul>
@@ -215,7 +215,6 @@
               <img src="/BridgeCommunications/wp-content/uploads/2017/03/G.jpg" alt="iPad Screen 1" style="margin-left: auto; margin-right: auto;">
               <a href="#">Watch this introductory video on forms.</a>
             </div>
-
           </div>
         </div>
       </div>
