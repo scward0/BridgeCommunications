@@ -93,7 +93,7 @@
       </div>
       <div class="columns small-12 medium-4 large-4 text-center mission-block">
         <img src="/BridgeCommunications/wp-content/uploads/2017/03/employ.png" alt="">
-        <p>Employ a design tht is easy and intuitive, for all of the users, allowing for little distraction and maximum communication opportunities</p>
+        <p>Employ a design tht is easy and intuitive, for all of the users, allowing for little distraction and maximum communication opportunities.</p>
       </div>
       <div class="columns small-12 medium-4 large-4 text-center mission-block">
         <img src="/BridgeCommunications/wp-content/uploads/2017/03/support.png" alt="">
@@ -103,7 +103,7 @@
     <div class="row" style="padding: 0 5%;">
       <div class="columns small-12 medium-4 large-4 text-center mission-block">
         <img src="/BridgeCommunications/wp-content/uploads/2017/03/present.png" alt="">
-        <p>Present language using a multimodal approach integrating visual, tactile and auditory feedback to theach ANY early or emerging language learner the power and versatility of communication</p>
+        <p>Present language using a multimodal approach integrating visual, tactile and auditory feedback to theach ANY early or emerging language learner the power and versatility of communication.</p>
       </div>
       <div class="columns small-12 medium-4 large-4 text-center mission-block">
         <img src="/BridgeCommunications/wp-content/uploads/2017/03/increase.png" alt="">
@@ -111,7 +111,7 @@
       </div>
       <div class="columns small-12 medium-4 large-4 text-center mission-block">
         <img src="/BridgeCommunications/wp-content/uploads/2017/03/integrate.png" alt="">
-        <p>Integrate communication supports into social and curriculum based conversation with others</p>
+        <p>Integrate communication supports into social and curriculum based conversation with others.</p>
       </div>
     </div>
   </section>
