@@ -8,17 +8,14 @@
     <div style="position: fixed; top:120px; left: 42px;" >
       <img class="shape" id="shape1" src="/BridgeCommunications/wp-content/uploads/2017/03/Shape1.png" alt="Shape 1" data-scroll-speed="7">
     </div>
-    <div style="position: fixed; bottom: 0px; right: 0px;">
-      <img class="shape" id="shape7" src="/BridgeCommunications/wp-content/uploads/2017/03/Shape7.png" alt="Shape 7" data-scroll-speed="2">
+    <div style="position: fixed; bottom: 100px; right: 0px;">
+      <img class="shape" id="shape7" src="/BridgeCommunications/wp-content/uploads/2017/03/Shape7.png" alt="Shape 7" data-scroll-speed="3">
     </div>
-    <div style="position: fixed; bottom: -800px; left: 0px;">
+    <div style="position: fixed; bottom: -600px; left: 0px;">
       <img class="shape" id="shape4" src="/BridgeCommunications/wp-content/uploads/2017/03/Shape4.png" alt="Shape 4" data-scroll-speed="3">
     </div>
     <div style="position: fixed; bottom: -500px; right: 0px;">
       <img class="shape" id="shape3" src="/BridgeCommunications/wp-content/uploads/2017/03/Shape3.png" alt="Shape 4" data-scroll-speed="6">
-    </div>
-    <div style="position: fixed; bottom: -800px; right: 0px;">
-      <img class="shape" id="shape6" src="/BridgeCommunications/wp-content/uploads/2017/03/Shape6.png" alt="Shape 6" data-scroll-speed="6">
     </div>
   </div>
 
