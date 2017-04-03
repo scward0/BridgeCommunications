@@ -48,7 +48,7 @@
 				}
 			});
 
-			$('mobile-nav ul li a').click(function(){
+			$('.mobile-nav ul li a').click(function(){
 				$('.mobile-nav').addClass('hide fadeOut');
 				$('#nav-icon3').removeClass('open');
 			});

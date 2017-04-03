@@ -57,12 +57,12 @@
 
 	<div class="mobile-nav hide animated">
 		<ul class="vertical menu">
-			<li><a class="text-center" target="_blank"  href="https://itunes.apple.com/us/app/BRIDGE-communication/id983660714?ls=1&mt=8" rel="home"><img src="/BridgeCommunications/wp-content/uploads/2017/03/app-store.png" alt="" width="200px" style="margin-bottom: 5px; margin-top:10px;"><br><span style="font-size: 13px;">Only $17.99</span></a></li>
-			<li><a class="text-center"  href="#mission-purpose" rel="home">Mission &amp; Purpose</a></li>
-			<li><a class="text-center"  href="#features-services" rel="home">Features &amp; Services</a></li>
-			<li><a class="text-center"	href="#app-contents" rel="home">App Contents</a></li>
-			<li><a class="text-center"  href="#testimonials" rel="home">Testimonials</a></li>
-			<li><a class="text-center" 	href="#stay-connected" rel="home">Newsletter Sign-Up</a></li>
+			<li><a class="text-center"  class="mobile-anchor" href="#mission-purpose" rel="home">Mission &amp; Purpose</a></li>
+			<li><a class="text-center"  class="mobile-anchor"href="#features-services" rel="home">Features &amp; Services</a></li>
+			<li><a class="text-center"	class="mobile-anchor"href="#app-contents" rel="home">App Contents</a></li>
+			<li><a class="text-center"  class="mobile-anchor"href="#testimonials" rel="home">Testimonials</a></li>
+			<li><a class="text-center" 	class="mobile-anchor"href="#stay-connected" rel="home">Newsletter Sign-Up</a></li>
+			<li><a class="text-center" class="mobile-anchor" target="_blank"  href="https://itunes.apple.com/us/app/BRIDGE-communication/id983660714?ls=1&mt=8" rel="home"><img src="/BridgeCommunications/wp-content/uploads/2017/03/app-store.png" alt="" width="200px" style="margin-bottom: 5px; margin-top:10px;"><br><span style="font-size: 13px;">Only $17.99</span></a></li>
 		</ul>
 		<div class="menu-centered">
 			<ul class="menu">
