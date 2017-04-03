@@ -48,19 +48,6 @@
 				}
 			});
 
-
-			// var shape7Bottom = 0;
-			//
-			// $(window).scroll(function(){
-			// 		$('#shape7').
-			//
-			//
-			//
-			//
-			//
-			//
-    	// });
-
 			$.fn.moveIt = function(){
 			  var $window = $(window);
 			  var instances = [];

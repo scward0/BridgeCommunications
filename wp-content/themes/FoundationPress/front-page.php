@@ -11,6 +11,11 @@
     <div style="position: fixed; bottom: 0px; right: 0px;">
       <img class="shape" id="shape7" src="/BridgeCommunications/wp-content/uploads/2017/03/Shape7.png" alt="Shape 7" data-scroll-speed="2">
     </div>
+    <div style="position: fixed; bottom: -1000px; left: 0px;">
+      <img class="shape" id="shape4" src="/BridgeCommunications/wp-content/uploads/2017/03/Shape7.png" alt="Shape 4" data-scroll-speed="3">
+    </div>
+
+
   </div>
 
   <div id="home" style="background: url('/BridgeCommunications/wp-content/uploads/2017/03/mainbg.jpg'); height: 80%; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover; top: 0; left: 0;">
