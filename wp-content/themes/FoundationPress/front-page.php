@@ -3,9 +3,16 @@
 
 
 <div class="container">
-  <div style="position: absolute; top:200px; left: 50px;">
-    <img id="shape1" src="/BridgeCommunications/wp-content/uploads/2017/03/Shape1.png" alt="Shape 1">
+
+  <div class="shapes">
+    <div style="position: fixed; top:120px; left: 42px;">
+      <img class="shape" id="shape1" src="/BridgeCommunications/wp-content/uploads/2017/03/Shape1.png" alt="Shape 1">
+    </div>
+    <div style="position: fixed; bottom: 0px; right: 0px;">
+      <img class="shape" id="shape7" src="/BridgeCommunications/wp-content/uploads/2017/03/Shape7.png" alt="Shape 7">
+    </div>
   </div>
+
 
   <div id="home" style="background: url('/BridgeCommunications/wp-content/uploads/2017/03/mainbg.jpg'); height: 80%; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover; top: 0; left: 0;">
     <div class="row" style="position: relative; height: 700px;">
