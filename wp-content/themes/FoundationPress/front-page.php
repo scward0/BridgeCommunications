@@ -1,10 +1,11 @@
 <?php get_header(); ?>
 
-<!-- <div style="position: relative; top:75px;">
-  <img id="shape1" src="/BridgeCommunications/wp-content/uploads/2017/03/Shape1.png" alt="Shape 1">
-</div> -->
 
-<div class="container" id="fullpage">
+
+<div class="container">
+  <div style="position: absolute; top:200px; left: 50px;">
+    <img id="shape1" src="/BridgeCommunications/wp-content/uploads/2017/03/Shape1.png" alt="Shape 1">
+  </div>
 
   <div id="home" style="background: url('/BridgeCommunications/wp-content/uploads/2017/03/mainbg.jpg'); height: 80%; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover; top: 0; left: 0;">
     <div class="row" style="position: relative; height: 700px;">
