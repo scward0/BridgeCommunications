@@ -9,7 +9,7 @@
       <img class="shape" id="shape1" src="/BridgeCommunications/wp-content/uploads/2017/03/Shape1.png" alt="Shape 1" data-scroll-speed="7">
     </div>
     <div style="position: fixed; bottom: 0px; right: 0px;">
-      <img class="shape" id="shape7" src="/BridgeCommunications/wp-content/uploads/2017/03/Shape7.png" alt="Shape 7" data-scroll-speed="1">
+      <img class="shape" id="shape7" src="/BridgeCommunications/wp-content/uploads/2017/03/Shape7.png" alt="Shape 7" data-scroll-speed=".5">
     </div>
   </div>
 
