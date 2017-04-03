@@ -14,10 +14,10 @@
     <div style="position: fixed; bottom: -800px; left: 0px;">
       <img class="shape" id="shape4" src="/BridgeCommunications/wp-content/uploads/2017/03/Shape4.png" alt="Shape 4" data-scroll-speed="3">
     </div>
-    <div style="position: fixed; bottom: -1000px; right: 0px;">
+    <div style="position: fixed; bottom: -500px; right: 0px;">
       <img class="shape" id="shape3" src="/BridgeCommunications/wp-content/uploads/2017/03/Shape3.png" alt="Shape 4" data-scroll-speed="6">
     </div>
-    <div style="position: fixed; bottom: -1500px; right: 0px;">
+    <div style="position: fixed; bottom: -800px; right: 0px;">
       <img class="shape" id="shape6" src="/BridgeCommunications/wp-content/uploads/2017/03/Shape6.png" alt="Shape 6" data-scroll-speed="6">
     </div>
   </div>
