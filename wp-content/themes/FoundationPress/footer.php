@@ -52,8 +52,13 @@
 			var shape7Bottom = 0;
 
 			$(window).scroll(function(){
-        shape7Bottom++;
-				console.log(shape7Bottom);
+				if($(window).scrollTop() + $(window).height() == $(document).height()) {
+					console.log('down');
+				} else{
+					console.log('up');
+				}
+        // shape7Bottom++;
+				// console.log(shape7Bottom);
     	});
 
 
