@@ -13,18 +13,6 @@
     </div>
   </div>
 
-  <div class="content">
-    <div class="wrapper">
-      <div class="box" data-scroll-speed="2">S</div>
-      <div class="box" data-scroll-speed="3">C</div>
-      <div class="box" data-scroll-speed="6">R</div>
-      <div class="box" data-scroll-speed="5">O</div>
-      <div class="box" data-scroll-speed="9">L</div>
-      <div class="box" data-scroll-speed="4">L</div>
-    </div>
-  </div>
-
-
   <div id="home" style="background: url('/BridgeCommunications/wp-content/uploads/2017/03/mainbg.jpg'); height: 80%; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover; top: 0; left: 0;">
     <div class="row" style="position: relative; height: 700px;">
       <div class="columns small-12 medium-6 large-6">
