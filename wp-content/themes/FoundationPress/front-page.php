@@ -8,7 +8,7 @@
     <div style="position: fixed; top:120px; left: 42px;" >
       <img class="shape" id="shape1" src="/BridgeCommunications/wp-content/uploads/2017/03/Shape1.png" alt="Shape 1" data-scroll-speed="7">
     </div>
-    <div style="position: fixed; bottom: 100px; right: 0px;">
+    <div style="position: fixed; bottom: -300px; right: 0px;">
       <img class="shape" id="shape7" src="/BridgeCommunications/wp-content/uploads/2017/03/Shape7.png" alt="Shape 7" data-scroll-speed="3">
     </div>
     <div style="position: fixed; bottom: -600px; left: 0px;">
@@ -99,7 +99,7 @@
         <p class="text-center" style="font-size: 24px;">Build connections through barriers.</p>
       </div>
     </div>
-    <div class="row" style="padding: 50px 5%;">
+    <div class="row" style="padding: 50px 10%;">
       <div class="columns small-12 medium-4 large-4 text-center mission-block">
         <img src="/BridgeCommunications/wp-content/uploads/2017/03/Encourage.png" alt="">
         <p>Encourage engagement and communication, reduce complexity, and make interaction the focus.</p>
@@ -113,7 +113,7 @@
         <p>Support augmentative and alternative communication between partners that is unpredictable and varied as it forms in real time... in real life.</p>
       </div>
     </div>
-    <div class="row" style="padding: 0 5%;">
+    <div class="row" style="padding: 0 10%;">
       <div class="columns small-12 medium-4 large-4 text-center mission-block">
         <img src="/BridgeCommunications/wp-content/uploads/2017/03/present.png" alt="">
         <p>Present language using a multimodal approach integrating visual, tactile and auditory feedback to theach ANY early or emerging language learner the power and versatility of communication.</p>
@@ -232,7 +232,7 @@
         </div>
       </div>
     </div>
-    <div class="row services" style="padding: 0px 5% 50px 5%;">
+    <div class="row services" style="padding: 0px 10% 50px 10%;">
       <div class="columns small-12">
         <h2 class="text-center">Services</h2>
         <p><strong>Free Basic Training: </strong>Purchase the Bridge Communication app for $17.99 on the iTunes App Store and we will answer all product questions and direct you to tutorials that show you how the app works. Email us directly at <a target="_blank" style="font-weight: bold;" href="mailto:support@bridgecommunication.com">support@bridgecommunication.com.</a></p>
@@ -251,7 +251,7 @@
         </div>
       </div>
     </div>
-    <div class="row" style="padding: 50px 5%;">
+    <div class="row" style="padding: 50px 10%;">
       <div class="columns small-12">
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
       </div>
@@ -467,7 +467,7 @@
         </div>
       </div>
     </div>
-    <div class="row gravity" style="padding: 90px 5%;">
+    <div class="row gravity" style="padding: 90px 10%;">
       <?php echo do_shortcode( '[gravityform id=1 title=false description=false ajax=true tabindex=49]' ); ?>
     </div>
   </section>
