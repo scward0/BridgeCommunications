@@ -15,8 +15,6 @@
 <script type="text/javascript" src="/BridgeCommunications/wp-content/themes/FoundationPress/assets/javascript/fullPage/jquery.fullPage.min.js"></script>
 <script type="text/javascript">
 	$(document).ready(function(){
-
-
 		$('.ipad-slick').slick({
 			dots: false,
 	    infinite: true,
