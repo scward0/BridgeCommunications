@@ -80,7 +80,7 @@
         </div>
       </div>
       <div class="columns small-12 medium-3 large-3 large-pull-9 medium-pull-9 one-sheet text-center">
-        <img src="/BridgeCommunications/wp-content/uploads/2017/03/BC_DownloadImage.jpg" alt=""><br>
+        <img src="/BridgeCommunications/wp-content/uploads/2017/03/BC_DownloadImage.jpg" alt="Download One Sheet"><br>
         <span id="download-one-sheet">Download the One Sheet</span>
       </div>
     </div>
@@ -101,29 +101,29 @@
     </div>
     <div class="row" style="padding: 50px 10%;">
       <div class="columns small-12 medium-4 large-4 text-center mission-block">
-        <img src="/BridgeCommunications/wp-content/uploads/2017/03/Encourage.png" alt="">
+        <img src="/BridgeCommunications/wp-content/uploads/2017/03/Encourage.png" alt="Encourage">
         <p>Encourage engagement and communication, reduce complexity, and make interaction the focus.</p>
       </div>
       <div class="columns small-12 medium-4 large-4 text-center mission-block">
-        <img src="/BridgeCommunications/wp-content/uploads/2017/03/employ.png" alt="">
+        <img src="/BridgeCommunications/wp-content/uploads/2017/03/employ.png" alt="Employ">
         <p>Employ a design tht is easy and intuitive, for all of the users, allowing for little distraction and maximum communication opportunities.</p>
       </div>
       <div class="columns small-12 medium-4 large-4 text-center mission-block">
-        <img src="/BridgeCommunications/wp-content/uploads/2017/03/support.png" alt="">
+        <img src="/BridgeCommunications/wp-content/uploads/2017/03/support.png" alt="Support">
         <p>Support augmentative and alternative communication between partners that is unpredictable and varied as it forms in real time... in real life.</p>
       </div>
     </div>
     <div class="row" style="padding: 0 10%;">
       <div class="columns small-12 medium-4 large-4 text-center mission-block">
-        <img src="/BridgeCommunications/wp-content/uploads/2017/03/present.png" alt="">
+        <img src="/BridgeCommunications/wp-content/uploads/2017/03/present.png" alt="Present">
         <p>Present language using a multimodal approach integrating visual, tactile and auditory feedback to theach ANY early or emerging language learner the power and versatility of communication.</p>
       </div>
       <div class="columns small-12 medium-4 large-4 text-center mission-block">
-        <img src="/BridgeCommunications/wp-content/uploads/2017/03/increase.png" alt="">
+        <img src="/BridgeCommunications/wp-content/uploads/2017/03/increase.png" alt="Incease">
         <p>Increase exposure, awareness, and fluency of communication.</p>
       </div>
       <div class="columns small-12 medium-4 large-4 text-center mission-block">
-        <img src="/BridgeCommunications/wp-content/uploads/2017/03/integrate.png" alt="">
+        <img src="/BridgeCommunications/wp-content/uploads/2017/03/integrate.png" alt="Integrate">
         <p>Integrate communication supports into social and curriculum based conversation with others.</p>
       </div>
     </div>
@@ -147,21 +147,21 @@
               <ul>
                 <li>Add new pages and remove pages to any group or home page that has a red X in the bottom, right-hand corner.</li>
               </ul>
-              <img src="/BridgeCommunications/wp-content/uploads/2017/03/A.jpg" alt="iPad Screen 1" style="margin-left: auto; margin-right: auto;">
+              <img src="/BridgeCommunications/wp-content/uploads/2017/03/A.jpg" alt="iPad Screen a" style="margin-left: auto; margin-right: auto;">
             </div>
 
             <div>
               <ul>
                 <li>Add new groups, singular items, or video that represents an item by touching an ‘Add new’ box.</li>
               </ul>
-              <img src="/BridgeCommunications/wp-content/uploads/2017/03/B.jpg" alt="iPad Screen 2" style="margin-left: auto; margin-right: auto;">
+              <img src="/BridgeCommunications/wp-content/uploads/2017/03/B.jpg" alt="iPad Screen b" style="margin-left: auto; margin-right: auto;">
             </div>
 
             <div>
               <ul>
                 <li>When adding an item or a group, you can take a photo, use a photo from your camera roll, choose a photo from the internet, or choose from the SymbolStix picture library. (Turn on WIFI or cellular data for more SymbolStix picture options!) When adding a group, you can choose the page color for added organization.</li>
               </ul>
-              <img src="/BridgeCommunications/wp-content/uploads/2017/03/C.jpg" alt="iPad Screen 3" style="margin-left: auto; margin-right: auto;">
+              <img src="/BridgeCommunications/wp-content/uploads/2017/03/C.jpg" alt="iPad Screen c" style="margin-left: auto; margin-right: auto;">
             </div>
 
             <div>
@@ -169,7 +169,7 @@
               <ul>
                 <li>Hide or show items, groups, and navigational buttons. Just hold down the desired item, group, or navigational button for four seconds to hide or show.</li>
               </ul>
-              <img src="/BridgeCommunications/wp-content/uploads/2017/03/A.jpg" alt="iPad Screen 1" style="margin-left: auto; margin-right: auto;">
+              <img src="/BridgeCommunications/wp-content/uploads/2017/03/A.jpg" alt="iPad Screen a" style="margin-left: auto; margin-right: auto;">
             </div>
 
             <div>
@@ -177,7 +177,7 @@
               <ul>
                 <li>Change text to Spanish, change speech to Spanish, or change the voice from neutral to a man or a woman.</li>
               </ul>
-              <img src="/BridgeCommunications/wp-content/uploads/2017/03/A.jpg" alt="iPad Screen 1" style="margin-left: auto; margin-right: auto;">
+              <img src="/BridgeCommunications/wp-content/uploads/2017/03/A.jpg" alt="iPad Screen a" style="margin-left: auto; margin-right: auto;">
             </div>
 
             <div>
@@ -185,7 +185,7 @@
               <ul>
                 <li>Use it for word combinations, topic maintenance, and sentences with speech output. The message window can hold up to 15 items at a time.</li>
               </ul>
-              <img src="/BridgeCommunications/wp-content/uploads/2017/03/D.jpg" alt="iPad Screen 1" style="margin-left: auto; margin-right: auto;">
+              <img src="/BridgeCommunications/wp-content/uploads/2017/03/D.jpg" alt="iPad Screen d" style="margin-left: auto; margin-right: auto;">
             </div>
 
             <div>
@@ -193,7 +193,7 @@
               <ul>
                 <li>Us it for typing and text-based messages with speech output. The typing view can hold lengthy amounts of typed information</li>
               </ul>
-              <img src="/BridgeCommunications/wp-content/uploads/2017/03/E.jpg" alt="iPad Screen 1" style="margin-left: auto; margin-right: auto;">
+              <img src="/BridgeCommunications/wp-content/uploads/2017/03/E.jpg" alt="iPad Screen e" style="margin-left: auto; margin-right: auto;">
             </div>
 
             <div>
@@ -201,7 +201,7 @@
               <ul>
                 <li>Upload, save, and view audio and video files by creating binders. Create interactive material to use for supports or entertainment. Also, perform live chats with other Bridge Communication App subscribers for screen sharing paired with face image sharing and live voice exchanges.</li>
               </ul>
-              <img src="/BridgeCommunications/wp-content/uploads/2017/03/A.jpg" alt="iPad Screen 1" style="margin-left: auto; margin-right: auto;">
+              <img src="/BridgeCommunications/wp-content/uploads/2017/03/A.jpg" alt="iPad Screen a" style="margin-left: auto; margin-right: auto;">
             </div>
 
             <div>
@@ -209,7 +209,7 @@
               <ul>
                 <li>Save files to our server. Recover your saved files our pull your saved files down to supplemental devices within seconds. Reset the app to default configuration. Saved files will remain on our server for 30 days after a subscription is cancelled.</li>
               </ul>
-              <img src="/BridgeCommunications/wp-content/uploads/2017/03/A.jpg" alt="iPad Screen 1" style="margin-left: auto; margin-right: auto;">
+              <img src="/BridgeCommunications/wp-content/uploads/2017/03/A.jpg" alt="iPad Screen a" style="margin-left: auto; margin-right: auto;">
             </div>
 
 
@@ -218,14 +218,14 @@
               <ul>
                 <li>Have instant access to robust student and trainer progress reports, training reports for navigation and features, and other essential monitoring documentation.</li>
               </ul>
-              <img src="/BridgeCommunications/wp-content/uploads/2017/03/F.jpg" alt="iPad Screen 1" style="margin-left: auto; margin-right: auto;">
+              <img src="/BridgeCommunications/wp-content/uploads/2017/03/F.jpg" alt="iPad Screen f" style="margin-left: auto; margin-right: auto;">
             </div>
 
             <div>
               <ul>
                 <li>Documents can be printed if you’re connected to a printer via WIFI.</li>
               </ul>
-              <img src="/BridgeCommunications/wp-content/uploads/2017/03/G.jpg" alt="iPad Screen 1" style="margin-left: auto; margin-right: auto;"><br>
+              <img src="/BridgeCommunications/wp-content/uploads/2017/03/G.jpg" alt="iPad Screen g" style="margin-left: auto; margin-right: auto;"><br>
               <a class="text-center" style="padding: 20px; font-weight: bold;" href="#">Watch this introductory video on forms.</a>
             </div>
           </div>
