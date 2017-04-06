@@ -81,8 +81,6 @@
 			  $('[data-scroll-speed]').moveIt();
 			});
 
-
-
 		});
 </script>
 <?php wp_footer(); ?>

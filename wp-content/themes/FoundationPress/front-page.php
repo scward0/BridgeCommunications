@@ -210,7 +210,6 @@
               <img src="/BridgeCommunications/wp-content/uploads/2017/03/A.jpg" alt="iPad Screen a" style="margin-left: auto; margin-right: auto;">
             </div>
 
-
             <div>
               <p>Select <strong>Forms</strong> in the <strong>Settings</strong> and you can:</p>
               <ul>
