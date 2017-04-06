@@ -7699,6 +7699,14 @@ body#tinymce {
 .tagline h1 {
   text-transform: uppercase; }
 
+img {
+  user-drag: none;
+  user-select: none;
+  -moz-user-select: none;
+  -webkit-user-drag: none;
+  -webkit-user-select: none;
+  -ms-user-select: none; }
+
 html, body, h1, h2, h3, p, li, a, span {
   font-family: 'Raleway', sans-serif !important; }
 
