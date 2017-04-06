@@ -66,9 +66,9 @@
 		</ul>
 		<div class="menu-centered">
 			<ul class="menu">
-				<li><a href="#"><img src="/BridgeCommunications/wp-content/uploads/2017/03/facebook.png" class="style-svg style-svg-2" style="z-index: 10000;"></a></li>
-				<li><a href="#"><img src="/BridgeCommunications/wp-content/uploads/2017/03/stellar.png" class="style-svg style-svg-2" style="z-index: 10000;"></a></li>
-				<li><a href="#"><img src="/BridgeCommunications/wp-content/uploads/2017/03/youtube.png" class="style-svg style-svg-2" style="z-index: 10000;"></a></li>
+				<li><a href="#"><img src="/BridgeCommunications/wp-content/uploads/2017/04/facebook.svg" class="style-svg style-svg-2" style="z-index: 10000;"></a></li>
+				<li><a href="#"><img src="/BridgeCommunications/wp-content/uploads/2017/04/steller.svg" class="style-svg style-svg-2" style="z-index: 10000;"></a></li>
+				<li><a href="#"><img src="/BridgeCommunications/wp-content/uploads/2017/04/youtube.svg" class="style-svg style-svg-2" style="z-index: 10000;"></a></li>
 			</ul>
 		</div>
 	</div>
