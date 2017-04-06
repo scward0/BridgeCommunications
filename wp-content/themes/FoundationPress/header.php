@@ -67,7 +67,7 @@
 		<div class="menu-centered">
 			<ul class="menu">
 				<li><a href="#"><img src="/BridgeCommunications/wp-content/uploads/2017/04/facebook.svg" class="style-svg style-svg-2" style="z-index: 10000;"></a></li>
-				<li><a href="#"><img src="/BridgeCommunications/wp-content/uploads/2017/04/steller.svg" class="style-svg style-svg-2" style="z-index: 10000;"></a></li>
+				<li><a href="#"><img src="/BridgeCommunications/wp-content/uploads/2017/04/stellar2.svg" class="style-svg style-svg-2" style="z-index: 10000;"></a></li>
 				<li><a href="#"><img src="/BridgeCommunications/wp-content/uploads/2017/04/youtube.svg" class="style-svg style-svg-2" style="z-index: 10000;"></a></li>
 			</ul>
 		</div>
@@ -77,7 +77,7 @@
 	<div class="social-nav hide-for-small-only" style="position: fixed; left: 0; top: 30%; z-index: 1000; padding: 0;">
 		<ul class="menu vertical" style="width: 50px; background: black; padding: 0;">
 			<li><a href="#" style="padding:0;"><span data-tooltip aria-haspopup="true" class="has-tip right" data-disable-hover="false" tabindex="3" title="FACEBOOK" style="border-bottom: none;"><img class="style-svg" src="/BridgeCommunications/wp-content/uploads/2017/04/facebook.svg" style="z-index: 10000;" width="25px"></span></a></li>
-			<li><a href="#" style="padding:0;"><span data-tooltip aria-haspopup="true" class="has-tip right" data-disable-hover="false" tabindex="3" title="STELLAR" style="border-bottom: none;"><img class="style-svg" src="/BridgeCommunications/wp-content/uploads/2017/04/steller.svg" style="z-index: 10000;" width="25px"></span></a></li>
+			<li><a href="#" style="padding:0;"><span data-tooltip aria-haspopup="true" class="has-tip right" data-disable-hover="false" tabindex="3" title="STELLAR" style="border-bottom: none;"><img class="style-svg" src="/BridgeCommunications/wp-content/uploads/2017/04/stellar2.svg" style="z-index: 10000;" width="25px"></span></a></li>
 			<li><a href="#" style="padding:0;"><span data-tooltip aria-haspopup="true" class="has-tip right" data-disable-hover="false" tabindex="3" title="YOUTUBE" style="border-bottom: none;"><img class="style-svg" src="/BridgeCommunications/wp-content/uploads/2017/04/youtube.svg" style="z-index: 10000;" width="25px"></span></a></li>
 		</ul>
 	</div>
