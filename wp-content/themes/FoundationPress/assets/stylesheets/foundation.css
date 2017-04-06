@@ -8057,4 +8057,7 @@ h2, h3, p, a {
   .shape {
     display: none !important; } }
 
+.style-svg {
+  width: 50px; }
+
 /*# sourceMappingURL=foundation.css.map */
