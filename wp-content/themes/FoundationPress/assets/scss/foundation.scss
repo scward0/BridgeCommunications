@@ -420,6 +420,7 @@ h2, h3, p, a{
 .testimonials-slick .slick-list{
   margin: 0 50px !important;
 }
+
 .slick-prev:before, .slick-next:before {
     color: #4AA1D6 !important;
     font-size: 40px!important;
@@ -566,6 +567,9 @@ h2, h3, p, a{
   }
   .testimonial-slider{
     padding: 20px;
+  }
+  .testimonial-slider{
+    padding: 100px 0;
   }
   .headline-row{
     top: 275px !important;
