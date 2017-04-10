@@ -111,7 +111,7 @@
         <p>Support augmentative and alternative communication between partners that is unpredictable and varied as it forms in real time... in real life.</p>
       </div>
     </div>
-    <div class="row" style="padding: 0 10%;">
+    <div class="row" style="padding: 0 10% 50px 10%;">
       <div class="columns small-12 medium-4 large-4 text-center mission-block">
         <img src="/BridgeCommunications/wp-content/uploads/2017/03/present.png" alt="Present">
         <p>Present language using a multimodal approach integrating visual, tactile and auditory feedback to theach ANY early or emerging language learner the power and versatility of communication.</p>
@@ -223,7 +223,7 @@
                 <li>Documents can be printed if you’re connected to a printer via WIFI.</li>
               </ul>
               <img src="/BridgeCommunications/wp-content/uploads/2017/03/G.jpg" alt="iPad Screen g" style="margin-left: auto; margin-right: auto;"><br>
-              <a class="text-center" style="padding: 20px; font-weight: bold;" href="#">Watch this introductory video on forms.</a>
+              <a class="text-center" style="padding: 20px;" class="link" href="#">Watch this introductory video on forms.</a>
             </div>
           </div>
         </div>
@@ -232,7 +232,7 @@
     <div class="row services" style="padding: 0px 10% 50px 10%;">
       <div class="columns small-12">
         <h2 class="text-center">Services</h2>
-        <p><strong>Free Basic Training: </strong>Purchase the Bridge Communication app for $17.99 on the iTunes App Store and we will answer all product questions and direct you to tutorials that show you how the app works. Email us directly at <a target="_blank" class="link" href="mailto:support@bridgecommunication.com">support@bridgecommunication.com.</a></p>
+        <p><strong>Free Basic Training: </strong><a href="https://itunes.apple.com/us/app/BRIDGE-communication/id983660714?ls=1&mt=8" class="link">Purchase the Bridge Communication app for $17.99</a> on the iTunes App Store and we will answer all product questions and direct you to tutorials that show you how the app works. Email us directly at <a target="_blank" class="link" href="mailto:support@bridgecommunication.com">support@bridgecommunication.com.</a></p>
         <p><strong>Pilot Program: </strong>Use the Bridge Communication app at no cost across your organization for a 3-month period — one app per low-incidence classroom/setting. We will train your lead and your lead will then train your organization. We will answer any product questions that come up. You provide weekly feedback plus a testimonial or critique at the end of the 3-month period.</p>
         <p><strong>Advanced Training & Support: </strong>On-site training sessions plus follow-up emails, phone calls, and online meetings to assess or troubleshoot documentation, training and communication supports for 3 weeks after the training session. Email us directly at <a target="_blank" class="link" href="mailto:support@bridgecommunication.com">support@bridgecommunication.com</a> for pricing.</p>
         <p><strong>Consultation Services: </strong>If you decide you need ongoing consultation services, we will provide the Bridge Communication app at no cost to your organization or interested families. We will train teachers, staff, administrators or interested parents on systematic communication supports. We will administer, train, and provide documentation for accountability of support implementation. We will provide integrated IEP communication goals for individual students. We will provide direct services to caseload, provide related services supports to caseload, and provide oversight, assessment, and monitoring for integrated communication supports in the classroom environment. Email us directly at <a target="_blank" class="link" href="mailto:support@bridgecommunication.com">support@bridgecommunication.com</a> for pricing.</p>

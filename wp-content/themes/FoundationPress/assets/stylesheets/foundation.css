@@ -8084,7 +8084,11 @@ h2, h3, p, a {
   width: 40px !important; }
 
 .link {
-  color: #4AA1D6;
-  text-decoration: underline; }
+  color: #4AA1D6 !important;
+  text-decoration: underline;
+  font-weight: bold; }
+
+#footer a {
+  color: white !important; }
 
 /*# sourceMappingURL=foundation.css.map */

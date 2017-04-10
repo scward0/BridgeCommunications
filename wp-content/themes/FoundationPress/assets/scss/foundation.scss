@@ -578,6 +578,11 @@ h2, h3, p, a{
 }
 
 .link{
-  color: #4AA1D6;
+  color: #4AA1D6 !important;
   text-decoration: underline;
+  font-weight: bold;
+}
+
+#footer a{
+  color: white !important;
 }
