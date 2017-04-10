@@ -92,12 +92,12 @@
         </div>
       </div>
     </div>
-    <div class="row" style="padding-top: 100px;">
+    <div class="row" style="padding: 50px;">
       <div class="columns small-12">
         <h2 class="text-center">Build connections through barriers.</h2>
       </div>
     </div>
-    <div class="row" style="padding: 50px 10%;">
+    <div class="row" style="padding: 50px 10% 0 10%;">
       <div class="columns small-12 medium-4 large-4 text-center mission-block">
         <img src="/BridgeCommunications/wp-content/uploads/2017/03/Encourage.png" alt="Encourage">
         <p>Encourage engagement and communication, reduce complexity, and make interaction the focus.</p>
