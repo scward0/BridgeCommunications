@@ -94,8 +94,17 @@
     </div>
 
     <div class="row">
-      <div class="columns small-12">
-        <p><span style="font-size: 28px; color: #4AA1D6;">Mission:</span><br>&nbsp;&nbsp;Build connections through barriers</p>
+      <div class="columns small-12" style="padding: 75px 10%;">
+        <p><span style="font-size: 28px; color: #4AA1D6;">MISSION:</span><br>Build connections through barriers</p><br>
+
+        <p><span style="font-size: 28px; color: #4AA1D6;">PURPOSE:</span><br>Increase engagement, compliance, and interaction with others</p><br>
+
+        <p><span style="font-size: 28px; color: #4AA1D6;">OPPORTUNITY:</span><br>Low incidence populations &amp; children with speech, language and communication needs</p><br>
+
+        <p><span style="font-size: 28px; color: #4AA1D6;">ADOPTION:</span><br>Enable understanding, application, and accountability for communication supports</p><br>
+
+        <p><span style="font-size: 28px; color: #4AA1D6;">VALUE:</span><br>Consistent stability and understanding across a community yields greater opportunities for learning and growth</p><br>
+
       </div>
     </div>
     <!-- <div class="row" style="padding: 50px;">
