@@ -346,7 +346,7 @@ h2, h3, p, a{
 }
 
 .tagline h1 span{
-  font-size: 20px;
+  font-size: 24px;
   font-weight: 300;
   padding-bottom: 10px;
   text-shadow: none;
@@ -399,7 +399,17 @@ h2, h3, p, a{
   text-transform: uppercase;
   line-height: 14px;
 }
+.one-sheet img{
+  margin-bottom: 10px;
+}
 
+#mission-purpose h2, #features-services h2{
+  font-weight: bold;
+}
+
+.mission-block img{
+  margin-bottom: 10px;
+}
 
 .dropdowns{
   padding: 25px 120px;
@@ -426,6 +436,11 @@ h2, h3, p, a{
 .features-slider{
   padding: 100px;
 }
+
+.features-slick ul{
+  margin-bottom: 40px;
+}
+
 .gfield_label, .name_last label, .name_first label{
   display: none !important;
 }
@@ -560,4 +575,9 @@ h2, h3, p, a{
 
 .style-svg-2{
   width: 40px !important;
+}
+
+.link{
+  color: #4AA1D6;
+  text-decoration: underline;
 }

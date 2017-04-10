@@ -4,8 +4,7 @@
 			<img src="/BridgeCommunications/wp-content/uploads/2017/03/logo-foot.png" alt="" width="150px" style="margin: 50px 0;">
 			<p style="color: white;">
 				Contact us<br>
-				support@bridgecommunication.com<br><br>
-				Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+				<a style="color: white;" href="mailto:support@bridgecommunication.com">support@bridgecommunication.com</a><br><br>
 			</p>
 		</div>
 	</div>
