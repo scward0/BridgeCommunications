@@ -7958,7 +7958,7 @@ h2, h3, p, a {
   padding: 100px; }
 
 .testimonials-slick .slick-list {
-  margin: 20px !important; }
+  margin: 0 50px !important; }
 
 .slick-prev:before, .slick-next:before {
   color: #4AA1D6 !important;
