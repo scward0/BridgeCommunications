@@ -9,8 +9,7 @@
 get_header(); ?>
 
 <div class="row">
-	<div class="small-12 large-8 columns" role="main">
-
+	<div class="small-12 text-center columns" role="main">
 		<article <?php post_class() ?> id="post-<?php the_ID(); ?>">
 			<header>
 				<h1 class="entry-title"><?php _e( 'File Not Found', 'foundationpress' ); ?></h1>
@@ -27,8 +26,6 @@ get_header(); ?>
 				</ul>
 			</div>
 		</article>
-
 	</div>
-	<?php get_sidebar(); ?>
 </div>
 <?php get_footer();
