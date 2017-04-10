@@ -72,8 +72,8 @@
         </div>
         <div class="row">
           <div class="columns small-12">
-            <p><strong>Bridge is a cost-effective solution that you can download and use</strong> immediately. With Bridge, you can <strong>focus on INTERACTING</strong> rather than struggling with frustrating and limiting programming requirements.</p>
-            <p>Parents, teachers, and therapists love it. Kids actually use it, and don't abandon it. Bridge allows the entire team to engage and experience growth and language development together. It not only gives a voice a increases learning - <strong>It builds relationships.</strong></p>
+            <p>Bridge is a cost-effective solution that <strong>you can download and use immediately.</strong> With Bridge, you can <strong>focus on INTERACTING</strong> rather than struggling with frustrating and limiting programming requirements.</p>
+            <p>Parents, teachers, and therapists love it. Kids actually use it, and don't abandon it. Bridge allows the entire team to engage and experience growth and language development together. It not only gives a voice and increases learning - <strong>It builds relationships.</strong></p>
           </div>
         </div>
       </div>
