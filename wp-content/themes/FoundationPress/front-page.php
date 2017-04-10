@@ -97,7 +97,7 @@
         <h2 class="text-center">Build connections through barriers.</h2>
       </div>
     </div>
-    <div class="row" style="padding: 50px 10% 0 10%;">
+    <div class="row mission-row">
       <div class="columns small-12 medium-4 large-4 text-center mission-block">
         <img src="/BridgeCommunications/wp-content/uploads/2017/03/Encourage.png" alt="Encourage">
         <p>Encourage engagement and communication, reduce complexity, and make interaction the focus.</p>
@@ -111,7 +111,7 @@
         <p>Support augmentative and alternative communication between partners that is unpredictable and varied as it forms in real time... in real life.</p>
       </div>
     </div>
-    <div class="row" style="padding: 0 10% 50px 10%;">
+    <div class="row mission-row2">
       <div class="columns small-12 medium-4 large-4 text-center mission-block">
         <img src="/BridgeCommunications/wp-content/uploads/2017/03/present.png" alt="Present">
         <p>Present language using a multimodal approach integrating visual, tactile and auditory feedback to theach ANY early or emerging language learner the power and versatility of communication.</p>

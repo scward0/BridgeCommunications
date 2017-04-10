@@ -449,6 +449,12 @@ h2, h3, p, a{
   float: right;
 }
 
+.mission-row{
+  padding: 50px 10% 25px 10%;
+}
+.mission-row2{
+   padding: 0 10% 50px 10%;
+ }
 #footer p{
   color: white !important;
 }
@@ -551,6 +557,9 @@ h2, h3, p, a{
   }
   #mission-purpose .hero, #app-contents .hero, #features-services .hero, #testimonials .hero, #stay-connected .hero{
     background-attachment: scroll !important;
+  }
+  .mission-row{
+    padding: 50px 10% 0 10%;
   }
   .dropdowns{
     padding: 25px;
