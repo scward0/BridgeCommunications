@@ -144,7 +144,7 @@ h2, h3, p, a{
 /* Icon 1 */
 
  #nav-icon3 {
-  width: 50px;
+  width: 30px;
   height: 30px;
   position: relative;
   margin: 50px auto;
@@ -162,7 +162,7 @@ h2, h3, p, a{
  #nav-icon3 span{
   display: block;
   position: absolute;
-  height: 9px;
+  height: 5px;
   width: 100%;
   background: black;
   border-radius: 9px;
@@ -183,11 +183,11 @@ h2, h3, p, a{
 }
 
 #nav-icon1 span:nth-child(2) {
-  top: 18px;
+  top: 12px;
 }
 
 #nav-icon1 span:nth-child(3) {
-  top: 36px;
+  top: 24px;
 }
 
 #nav-icon1.open span:nth-child(1) {
@@ -459,7 +459,7 @@ h2, h3, p, a{
     width: 100%;
     height: 100%;
     position: fixed;
-    top:69%;
+    top:465px;
     transform: translateX(-50%) translateY(-50%);
     z-index: 10000;
     left:50%;
