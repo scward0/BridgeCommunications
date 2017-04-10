@@ -253,7 +253,7 @@
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
       </div>
     </div> -->
-    <div class="dropdowns row small-up-1 medium-up-5 large-up-5" style="padding-bottom: 100px;">
+    <div class="dropdowns row small-up-1 medium-up-5 large-up-5" style="padding: 100px 10%;">
       <div class="column">
         <ul class="vertical menu text-center" data-accordion-menu>
           <li style="text-align: left; margin-top: 10px;">
@@ -265,8 +265,8 @@
                   <li>manners</li>
                 </ul>
               </li>
-
-              <li><a href="#">Want Questions</a>
+              <li>Want</li>
+              <li><a href="#">Questions</a>
                 <ul class="menu vertical nested">
                   <li>who</li>
                   <li>can</li>
@@ -329,7 +329,7 @@
       <div class="column">
         <ul class="vertical menu text-center" data-accordion-menu>
           <li style="text-align: left; margin-top: 10px;">
-            <a href="#" style="border: 2px solid #4aa1d6; text-transform: uppercase; font-size: 18px;">Screen 2</a>
+            <a href="#" style="border: 2px solid #4aa1d6; text-transform: uppercase; font-size: 18px;">Screen 3</a>
             <ul class="menu vertical nested">
               <li>Clothes</li>
               <li>Bathroom Things</li>
@@ -423,7 +423,7 @@
                     <li>vocabulary</li>
                     <li>science</li>
                     <li>daily living</li>
-                    <li>social sutdies</li>
+                    <li>social studies</li>
                     <li>numbers</li>
                     <li>money</li>
                     <li>fractions</li>
