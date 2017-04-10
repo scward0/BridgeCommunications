@@ -78,7 +78,7 @@
         </div>
       </div>
       <div class="columns small-12 medium-3 large-3 large-pull-9 medium-pull-9 one-sheet text-center">
-        <a href="/BridgeCommunications/wp-content/uploads/2017/04/BridgeCommunications_OneSheet.pdf" download></a><img src="/BridgeCommunications/wp-content/uploads/2017/03/BC_DownloadImage.jpg" alt="Download One Sheet"><br>
+        <a href="/BridgeCommunications/wp-content/uploads/2017/04/BridgeCommunications_OneSheet.pdf" download><img src="/BridgeCommunications/wp-content/uploads/2017/03/BC_DownloadImage.jpg" alt="Download One Sheet"></a><br>
         <span id="download-one-sheet">Download the<br />One Sheet</span>
       </div>
     </div>
