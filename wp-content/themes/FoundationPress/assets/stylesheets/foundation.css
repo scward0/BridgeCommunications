@@ -8094,7 +8094,11 @@ h2, h3, p, a {
   .features {
     margin-top: 100px; }
   .shape {
-    display: none !important; } }
+    display: none !important; }
+  #nav-icon1 span:nth-child(2) {
+    top: 9px; }
+  #nav-icon1 span:nth-child(3) {
+    top: 18px; } }
 
 .style-svg {
   width: 50px; }
