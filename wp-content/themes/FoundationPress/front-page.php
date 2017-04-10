@@ -58,13 +58,13 @@
       <div class="columns small-12 medium-9 large-9 medium-push-3 large-push-3">
         <div class="row">
           <div class="columns small-12 medium-5 large-5">
-            <ul>
+            <ul style="margin-bottom: 0;">
               <li>Break down barriers</li>
               <li>Enhance communication</li>
             </ul>
           </div>
           <div class="columns small-12 medium-7 large-7">
-            <ul>
+            <ul style="margin-bottom: 0;">
               <li>Increase engagement &amp; exploration</li>
               <li>Decrease frustrations &amp; negative behaviors</li>
             </ul>
