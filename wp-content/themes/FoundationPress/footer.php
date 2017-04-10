@@ -5,6 +5,7 @@
 			<p style="color: white;">
 				Contact us<br>
 				<a style="color: white;" href="mailto:support@bridgecommunication.com">support@bridgecommunication.com</a><br><br>
+				<a style="color: white;" href="/BridgeCommunications/terms-and-conditions.php">Terms & Conditions</a> | <a style="color: white;" href="/BridgeCommunications/privacy-policy.php">Privacy</a>
 			</p>
 		</div>
 	</div>
