@@ -88,7 +88,7 @@
     <div class="hero">
       <div class="row text-center headline-row" style="position: relative; top: 250px;">
         <div class="headline">
-          <h1>Mission <span style="font-size: 20px;">&amp;</span> Purpose</h1>
+          <h1>Mission <span>&amp;</span> Purpose</h1>
         </div>
       </div>
     </div>
@@ -146,7 +146,7 @@
     <div class="hero">
       <div class="row text-center headline-row" style="position: relative; top: 250px;">
         <div class="headline">
-          <h1>Features <span style="font-size: 20px;">&amp;</span> Services</h1>
+          <h1>Features <span>&amp;</span> Services</h1>
         </div>
       </div>
     </div>
@@ -271,39 +271,39 @@
             <ul class="menu vertical nested">
               <li><a href="#">Social</a>
                 <ul class="menu vertical nested">
-                  <li>greetings</li>
-                  <li>manners</li>
+                  <li>Greetings</li>
+                  <li>Manners</li>
                 </ul>
               </li>
-              <li>Want</li>
+              <li class="override-accordion">Want</li>
               <li><a href="#">Questions</a>
-                <ul class="menu vertical nested">
-                  <li>who</li>
-                  <li>can</li>
-                  <li>how</li>
-                  <li>what</li>
-                  <li>where</li>
-                  <li>will</li>
-                  <li>when</li>
-                  <li>why</li>
+                <ul class="menu vertical nested lowest">
+                  <li>Who</li>
+                  <li>Can</li>
+                  <li>How</li>
+                  <li>What</li>
+                  <li>Where</li>
+                  <li>Will</li>
+                  <li>When</li>
+                  <li>Why</li>
                 </ul>
               </li>
               <li><a href="#">Feedback</a>
-                <ul class="menu vertical nested">
-                  <li>positive</li>
-                  <li>negative</li>
+                <ul class="menu vertical nested lowest">
+                  <li>Positive</li>
+                  <li>Pegative</li>
                 </ul>
               </li>
-              <li>
+              <li class="override-accordion">
                 Answers
               </li>
-              <li>
+              <li class="override-accordion">
                 My Grids
               </li>
-              <li>
+              <li class="override-accordion">
                 Words
               </li>
-              <li>
+              <li class="override-accordion">
                 Problem
               </li>
             </ul>
@@ -317,14 +317,14 @@
           <li style="text-align: left; margin-top: 10px;">
             <a href="#" style="border: 2px solid #4aa1d6; text-transform: uppercase; font-size: 18px;">Screen 2</a>
             <ul class="menu vertical nested">
-              <li>People</li>
-              <li>Feelings</li>
-              <li>Body</li>
-              <li>Food</li>
-              <li>Actions</li>
-              <li>Places</li>
-              <li>Fun</li>
-              <li>Describe</li>
+              <li class="override-accordion">People</li>
+              <li class="override-accordion">Feelings</li>
+              <li class="override-accordion">Body</li>
+              <li class="override-accordion">Food</li>
+              <li class="override-accordion">Actions</li>
+              <li class="override-accordion">Places</li>
+              <li class="override-accordion">Fun</li>
+              <li class="override-accordion">Describe</li>
             </ul>
           </li>
         </ul>
@@ -335,14 +335,14 @@
           <li style="text-align: left; margin-top: 10px;">
             <a href="#" style="border: 2px solid #4aa1d6; text-transform: uppercase; font-size: 18px;">Screen 3</a>
             <ul class="menu vertical nested">
-              <li>Clothes</li>
-              <li>Bathroom Things</li>
-              <li>Rooms</li>
-              <li>Colors</li>
-              <li>Shapes</li>
-              <li>Alphabet</li>
-              <li>Numbers</li>
-              <li>Daily Living</li>
+              <li class="override-accordion">Clothes</li>
+              <li class="override-accordion">Bathroom Things</li>
+              <li class="override-accordion">Rooms</li>
+              <li class="override-accordion">Colors</li>
+              <li class="override-accordion">Shapes</li>
+              <li class="override-accordion">Alphabet</li>
+              <li class="override-accordion">Numbers</li>
+              <li class="override-accordion">Daily Living</li>
             </ul>
           </li>
         </ul>
@@ -354,26 +354,26 @@
           <li style="text-align: left; margin-top: 10px;">
             <a href="#" style="border: 2px solid #4aa1d6; text-transform: uppercase; font-size: 18px;">Screen 4</a>
             <ul class="menu vertical nested">
-                <li>Animals</li>
-                <li>Vehicles</li>
-                <li>Characters</li>
-                <li>Household Items</li>
-                <li>Outside</li>
+                <li class="override-accordion">Animals</li>
+                <li class="override-accordion">Vehicles</li>
+                <li class="override-accordion">Characters</li>
+                <li class="override-accordion">Household Items</li>
+                <li class="override-accordion">Outside</li>
                 <li><a href="#">School</a>
-                  <ul class="menu vertical nested">
-                    <li>work Time</li>
-                    <li>music</li>
+                  <ul class="menu vertical nested lowest">
+                    <li>Work Time</li>
+                    <li>Music</li>
                     <li>P.E.</li>
-                    <li>cafeteria</li>
-                    <li>outside</li>
-                    <li>art</li>
-                    <li>circle time</li>
-                    <li>computer</li>
+                    <li>Cafeteria</li>
+                    <li>Outside</li>
+                    <li>Art</li>
+                    <li>Circle Time</li>
+                    <li>Computer</li>
                   </ul>
                 </li>
-                <li>Schedule</li>
+                <li class="override-accordion">Schedule</li>
                 <li><a href="#">Holidays</a>
-                  <ul class="menu vertical nested">
+                  <ul class="menu vertical nested lowest">
                     <li>Valentine's Day</li>
                     <li>Birthday</li>
                     <li>Easter</li>
@@ -394,58 +394,58 @@
             <a href="#" style="border: 2px solid #4aa1d6; text-transform: uppercase; font-size: 18px;">Screen 5</a>
             <ul class="menu vertical nested">
                 <li><a href="#">Life</a>
-                  <ul class="menu vertical nested">
-                    <li>life cycle</li>
+                  <ul class="menu vertical nested lowest">
+                    <li>Life Cycle</li>
                   </ul>
                 </li>
                 <li><a href="#">Happiness</a>
-                  <ul class="menu vertical nested">
-                    <li>prayers</li>
+                  <ul class="menu vertical nested lowest">
+                    <li>Prayers</li>
                   </ul>
                 </li>
                 <li><a href="#">My Stories</a>
-                  <ul class="menu vertical nested">
+                  <ul class="menu vertical nested lowest">
                     <li>The Princess and the Prince</li>
                   </ul>
                 </li>
                 <li><a href="#">Relationships</a>
-                  <ul class="menu vertical nested">
-                    <li>love</li>
+                  <ul class="menu vertical nested lowest">
+                    <li>Love</li>
                   </ul>
                 </li>
                 <li><a href="#">Needs</a>
-                  <ul class="menu vertical nested">
-                    <li>hurt</li>
+                  <ul class="menu vertical nested lowest">
+                    <li>Hurt</li>
                   </ul>
                 </li>
                 <li><a href="#">Lessons</a>
-                  <ul class="menu vertical nested">
-                    <li>spelling</li>
-                    <li>math</li>
-                    <li>reading</li>
-                    <li>sight words</li>
-                    <li>vocabulary</li>
-                    <li>science</li>
-                    <li>daily living</li>
-                    <li>social studies</li>
-                    <li>numbers</li>
-                    <li>money</li>
-                    <li>fractions</li>
-                    <li>time</li>
-                    <li>measurements</li>
-                    <li>geometry</li>
-                    <li>value</li>
-                    <li>word problems</li>
+                  <ul class="menu vertical nested lowest">
+                    <li>Spelling</li>
+                    <li>Math</li>
+                    <li>Reading</li>
+                    <li>Sight Words</li>
+                    <li>Vocabulary</li>
+                    <li>Science</li>
+                    <li>Daily Living</li>
+                    <li>Social Studies</li>
+                    <li>Numbers</li>
+                    <li>Money</li>
+                    <li>Fractions</li>
+                    <li>Time</li>
+                    <li>Measurements</li>
+                    <li>Geometry</li>
+                    <li>Value</li>
+                    <li>Word Problems</li>
                   </ul>
                 </li>
                 <li><a href="#">New</a>
-                  <ul class="menu vertical nested">
-                    <li>trip</li>
+                  <ul class="menu vertical nested lowest">
+                    <li>Trip</li>
                   </ul>
                 </li>
                 <li><a href="#">Solutions</a>
-                  <ul class="menu vertical nested">
-                    <li>solve</li>
+                  <ul class="menu vertical nested lowest">
+                    <li>Solve</li>
                   </ul>
                 </li>
             </ul>

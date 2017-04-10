@@ -8121,6 +8121,14 @@ h2, h3, p, a {
   text-decoration: underline;
   font-weight: bold; }
 
+.override-accordion {
+  padding: .7rem 1rem;
+  color: #555; }
+
+.lowest li {
+  font-size: 14px !important;
+  color: #8CC63F; }
+
 #footer a {
   color: white !important; }
 
