@@ -21,7 +21,7 @@
     <div class="row" style="position: relative; height: 700px;">
       <div class="columns small-12 medium-6 large-6">
         <div class="tagline">
-          <h1 class="text-center"><span>The</span>Easiest App<br><span>for</span>Connecting<br><span>and</span>Building<br>Language</h1>
+          <h1 class="text-center"><span>The </span>Easiest App<br><span>for </span>Connecting<br><span>and </span>Building<br>Language</h1>
           <br>
         </div>
       </div>
@@ -92,7 +92,13 @@
         </div>
       </div>
     </div>
-    <div class="row" style="padding: 50px;">
+
+    <div class="row">
+      <div class="columns small-12">
+        <p><span style="font-size: 28px; color: #4AA1D6;">Mission:</span><br>&nbsp;&nbsp;Build connections through barriers</p>
+      </div>
+    </div>
+    <!-- <div class="row" style="padding: 50px;">
       <div class="columns small-12">
         <h2 class="text-center">Build connections through barriers.</h2>
       </div>
@@ -124,7 +130,7 @@
         <img src="/BridgeCommunications/wp-content/uploads/2017/03/integrate.png" alt="Integrate">
         <p>Integrate communication supports into social and curriculum based conversation with others.</p>
       </div>
-    </div>
+    </div> -->
   </section>
 
   <section id="features-services" >
