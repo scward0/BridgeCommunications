@@ -4,8 +4,8 @@
 			<img src="/BridgeCommunications/wp-content/uploads/2017/03/logo-foot.png" alt="" width="150px" style="margin: 50px 0;">
 			<p style="color: white;">
 				Contact us<br>
-				<a style="color: white; font-size: 9px;" href="mailto:support@bridgecommunication.com">support@bridgecommunication.com</a><br><br>
-				<a style="color: white; font-size: 9px;" href="/BridgeCommunications/terms-and-conditions/">Terms & Conditions</a> | <a style="color: white;" href="/BridgeCommunications/privacy-policy/">Privacy Policy</a>
+				<a style="color: white; " href="mailto:support@bridgecommunication.com">support@bridgecommunication.com</a><br><br>
+				<a style="color: white; font-size: 9px;" href="/BridgeCommunications/terms-and-conditions/">Terms & Conditions</a> | <a style="color: white; font-size: 9px;" href="/BridgeCommunications/privacy-policy/">Privacy Policy</a>
 			</p>
 		</div>
 	</div>
