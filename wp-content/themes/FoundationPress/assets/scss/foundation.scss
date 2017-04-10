@@ -183,7 +183,7 @@ h2, h3, p, a{
 }
 
 #nav-icon1 span:nth-child(2) {
-  top: 12px;
+  top: px;
 }
 
 #nav-icon1 span:nth-child(3) {
@@ -219,11 +219,11 @@ h2, h3, p, a{
 }
 
 #nav-icon3 span:nth-child(2),#nav-icon3 span:nth-child(3) {
-  top: 18px;
+  top: 10px;
 }
 
 #nav-icon3 span:nth-child(4) {
-  top: 36px;
+  top: 20px;
 }
 
 #nav-icon3.open span:nth-child(1) {
@@ -587,13 +587,6 @@ h2, h3, p, a{
   }
   .shape{
     display: none !important;
-  }
-  #nav-icon1 span:nth-child(2) {
-    top: 9px;
-  }
-
-  #nav-icon1 span:nth-child(3) {
-    top: 18px;
   }
 }
 
