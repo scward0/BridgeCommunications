@@ -8074,7 +8074,9 @@ h2, h3, p, a {
   .ipad {
     bottom: -515px; }
   .headline h1 {
-    font-size: 36px; }
+    font-size: 36px;
+    line-height: 27px;
+    padding: 5px; }
   #mission-purpose .hero, #app-contents .hero, #features-services .hero, #testimonials .hero, #stay-connected .hero {
     background-attachment: scroll !important; }
   .mission-row {
