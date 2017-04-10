@@ -7817,6 +7817,11 @@ h2, h3, p, a {
 #nav-icon3 span {
   background: #555555 !important; }
 
+#steller {
+  background: url("/BridgeCommunications/wp-content/uploads/2017/04/steller_1.svg");
+  -webkit-background-size: contain;
+          background-size: contain; }
+
 .menu > li > a:hover {
   color: #4aa1d6 !important; }
 
