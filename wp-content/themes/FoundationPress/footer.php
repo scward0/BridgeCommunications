@@ -1,7 +1,7 @@
 <section id="footer" style="background: #404547;" class="text-center">
 	<div class="row">
 		<div class="columns small-12 text-center">
-			<img src="/BridgeCommunications/wp-content/uploads/2017/03/logo-foot.png" alt="" width="150px" style="margin: 50px 0;">
+			<img src="/BridgeCommunications/wp-content/uploads/2017/04/logo-foot_200.png" alt="" width="150px" style="margin: 50px 0;">
 			<p style="color: white;">
 				Contact us<br>
 				<a style="color: white; " href="mailto:support@bridgecommunication.com">support@bridgecommunication.com</a><br><br>

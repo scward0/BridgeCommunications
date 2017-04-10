@@ -78,7 +78,7 @@
         </div>
       </div>
       <div class="columns small-12 medium-3 large-3 large-pull-9 medium-pull-9 one-sheet text-center">
-        <img src="/BridgeCommunications/wp-content/uploads/2017/03/BC_DownloadImage.jpg" alt="Download One Sheet"><br>
+        <a href="/BridgeCommunications/wp-content/uploads/2017/04/BridgeCommunications_OneSheet.pdf" download></a><img src="/BridgeCommunications/wp-content/uploads/2017/03/BC_DownloadImage.jpg" alt="Download One Sheet"><br>
         <span id="download-one-sheet">Download the<br />One Sheet</span>
       </div>
     </div>
@@ -94,7 +94,7 @@
     </div>
 
     <div class="row">
-      <div class="columns small-12 large-6" style="padding: 75px 10%;">
+      <div class="columns small-12" style="padding: 75px 10%;">
         <p><span style="font-size: 28px; color: #4AA1D6;">MISSION:</span><br>Build connections through barriers</p><br>
 
         <p><span style="font-size: 28px; color: #4AA1D6;">PURPOSE:</span><br>Increase engagement, compliance, and interaction with others</p><br>
