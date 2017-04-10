@@ -7912,8 +7912,7 @@ h2, h3, p, a {
           background-size: cover;
   margin: 0 auto;
   -webkit-box-shadow: 2px 2px rgba(0, 0, 0, 0.3);
-          box-shadow: 2px 2px rgba(0, 0, 0, 0.3);
-  height: 100%; }
+          box-shadow: 2px 2px rgba(0, 0, 0, 0.3); }
 
 .headline h1 {
   text-transform: uppercase;
