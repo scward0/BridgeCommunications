@@ -74,7 +74,7 @@
 	</div>
 
 
-	<div class="social-nav hide-for-small-only" style="position: fixed; left: 0; top: 30%; z-index: 1000; padding: 0;">
+	<div class="social-nav show-for-large" style="position: fixed; left: 0; top: 30%; z-index: 1000; padding: 0;">
 		<ul class="menu vertical" style="width: 50px; background: black; padding: 0;">
 			<li><a target="_blank" href="https://www.facebook.com/BRIDGE-Communication-Application-464631923700943/" style="padding:0;"><span data-tooltip aria-haspopup="true" class="has-tip right" data-disable-hover="false" tabindex="3" title="FACEBOOK" style="border-bottom: none;"><img class="style-svg" src="/BridgeCommunications/wp-content/uploads/2017/04/facebook.svg" style="z-index: 10000;" width="25px"></span></a></li>
 			<li><a target="_blank" href="https://steller.co/search?q=bridgethegap&type=stories&order_by=top" style="padding:0;"><span data-tooltip aria-haspopup="true" class="has-tip right" data-disable-hover="false" tabindex="3" title="STELLAR" style="border-bottom: none;"><img class="style-svg" src="/BridgeCommunications/wp-content/uploads/2017/04/stellar2.svg" style="z-index: 10000;" width="25px"></span></a></li>
