@@ -8085,6 +8085,8 @@ h2, h3, p, a {
     padding: 20px; }
   .testimonial-slider {
     padding: 100px 0; }
+  .testimonials-slick .slick-list {
+    margin: 0 20px !important; }
   .headline-row {
     top: 275px !important; }
   .mission-block {
