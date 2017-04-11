@@ -264,7 +264,7 @@
       </div>
     </div>
     <div class="dropdowns row small-up-1 medium-up-1 large-up-5" style="padding: 100px 10%;">
-      <div class="column text-center">
+      <div class="column text-center arrordion-column">
         <img src="/BridgeCommunications/wp-content/uploads/2017/04/3631.png" alt="Screen 1" class="accordion-screen">
         <ul class="vertical menu text-center level-1" data-accordion-menu >
           <li style="text-align: left; margin-top: 10px;">
@@ -313,9 +313,9 @@
       </div>
 
 
-      <div class="column">
+      <div class="column text-center arrordion-column">
         <img src="/BridgeCommunications/wp-content/uploads/2017/04/3626.png" alt="Screen 2" class="accordion-screen">
-        <ul class="vertical menu text-center" data-accordion-menu>
+        <ul class="vertical menu text-center level-1" data-accordion-menu>
           <li style="text-align: left; margin-top: 10px;">
             <a href="#" style="border: 2px solid #4aa1d6; text-transform: uppercase; font-size: 18px;">Screen 2</a>
             <ul class="menu vertical nested">
@@ -332,7 +332,7 @@
         </ul>
       </div>
 
-      <div class="column text-center">
+      <div class="column text-center arrordion-column">
         <img src="/BridgeCommunications/wp-content/uploads/2017/04/3629.png" alt="Screen 3" class="accordion-screen">
         <ul class="vertical menu text-center level-1" data-accordion-menu>
           <li style="text-align: left; margin-top: 10px;">
@@ -352,7 +352,7 @@
       </div>
 
 
-      <div class="column text-center">
+      <div class="column text-center arrordion-column">
         <img src="/BridgeCommunications/wp-content/uploads/2017/04/3635.png" alt="Screen 4" class="accordion-screen">
         <ul class="vertical menu text-center level-1" data-accordion-menu>
           <li style="text-align: left; margin-top: 10px;">
@@ -392,7 +392,7 @@
         </ul>
       </div>
 
-      <div class="column text-center">
+      <div class="column text-center arrordion-column">
         <img src="/BridgeCommunications/wp-content/uploads/2017/04/3633.png" alt="Screen 5" class="accordion-screen">
         <ul class="vertical menu text-center level-1" data-accordion-menu>
           <li style="text-align: left; margin-top: 10px;">

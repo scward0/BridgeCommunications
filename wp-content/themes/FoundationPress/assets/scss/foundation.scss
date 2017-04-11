@@ -537,8 +537,13 @@ h2, h3, p, a{
     left:50%;
     padding-top:5%;
   }
+  .arrordion-column{
+    margin: 75px 0; 
+  }
   .accordion-screen, .level-1{
     max-width: 300px;
+    margin-left: auto;
+    margin-right: auto;
   }
 }
 
