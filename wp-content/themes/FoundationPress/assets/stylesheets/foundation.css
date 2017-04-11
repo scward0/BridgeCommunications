@@ -7825,7 +7825,9 @@ h2, h3, p, a {
           background-size: 50px 50px; }
 
 .facebook:hover {
-  background: url("/BridgeCommunications/wp-content/uploads/2017/04/facebook_1.png"); }
+  background: url("/BridgeCommunications/wp-content/uploads/2017/04/facebook_2.png");
+  -webkit-background-size: 50px 50px;
+          background-size: 50px 50px; }
 
 .steller {
   width: 50px;
@@ -7835,7 +7837,9 @@ h2, h3, p, a {
           background-size: 50px 50px; }
 
 .steller:hover {
-  background: url("/BridgeCommunications/wp-content/uploads/2017/04/facebook_2.png"); }
+  background: url("/BridgeCommunications/wp-content/uploads/2017/04/steller_2.png");
+  -webkit-background-size: 50px 50px;
+          background-size: 50px 50px; }
 
 .youtube {
   width: 50px;
@@ -7845,7 +7849,9 @@ h2, h3, p, a {
           background-size: 50px 50px; }
 
 .youtube:hover {
-  background: url("/BridgeCommunications/wp-content/uploads/2017/04/facebook_2.png"); }
+  background: url("/BridgeCommunications/wp-content/uploads/2017/04/youtube_2.png");
+  -webkit-background-size: 50px 50px;
+          background-size: 50px 50px; }
 
 .menu > li > a:hover {
   color: #4aa1d6 !important; }
