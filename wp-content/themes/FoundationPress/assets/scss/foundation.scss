@@ -537,6 +537,9 @@ h2, h3, p, a{
     left:50%;
     padding-top:5%;
   }
+  .accordion-screen, .level-1{
+    max-width: 300px;
+  }
 }
 
 @media screen and (max-width: 639px){
