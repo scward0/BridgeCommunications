@@ -8046,6 +8046,12 @@ h2, h3, p, a {
     left: 60px;
     top: 30px; } }
 
+@media screen and (max-width: 768px) {
+  #mission-purpose .hero, #app-contents .hero, #features-services .hero, #testimonials .hero, #stay-connected .hero {
+    background-attachment: scroll !important; }
+  .shape {
+    display: none !important; } }
+
 @media screen and (max-width: 639px) {
   .mobile-nav {
     background: #fafafa;
@@ -8082,8 +8088,6 @@ h2, h3, p, a {
     font-size: 36px;
     line-height: 29px;
     padding: 10px; }
-  #mission-purpose .hero, #app-contents .hero, #features-services .hero, #testimonials .hero, #stay-connected .hero {
-    background-attachment: scroll !important; }
   .mission-row {
     padding: 50px 10% 0 10%; }
   .dropdowns {
