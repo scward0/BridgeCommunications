@@ -150,7 +150,7 @@
         </div>
       </div>
     </div>
-    <!-- <div class="row features-slider">
+    <div class="row features-slider">
       <div class="columns small-12">
         <div class="features">
           <h2 class="text-center">Features</h2>
@@ -248,7 +248,7 @@
           </div>
         </div>
       </div>
-    </div> -->
+    </div>
     <div class="row services" style="padding: 0px 10% 50px 10%;">
       <div class="columns small-12">
         <h2 class="text-center">Services</h2>
