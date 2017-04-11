@@ -7818,9 +7818,25 @@ h2, h3, p, a {
   background: #555555 !important; }
 
 .facebook {
+  width: 50px;
+  height: 50px;
   background: url("/BridgeCommunications/wp-content/uploads/2017/04/facebook_1.png");
-  -webkit-background-size: contain;
-          background-size: contain; }
+  -webkit-background-size: 50px 50px;
+          background-size: 50px 50px; }
+
+.steller {
+  width: 50px;
+  height: 50px;
+  background: url("/BridgeCommunications/wp-content/uploads/2017/04/facebook_1.png");
+  -webkit-background-size: 50px 50px;
+          background-size: 50px 50px; }
+
+.youtube {
+  width: 50px;
+  height: 50px;
+  background: url("/BridgeCommunications/wp-content/uploads/2017/04/facebook_1.png");
+  -webkit-background-size: 50px 50px;
+          background-size: 50px 50px; }
 
 .menu > li > a:hover {
   color: #4aa1d6 !important; }

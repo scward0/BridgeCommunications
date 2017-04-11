@@ -76,11 +76,11 @@
 
 	<div class="social-nav show-for-large" style="position: fixed; left: 0; top: 30%; z-index: 1000; padding: 0;">
 		<ul class="menu vertical" style="width: 50px; background: black; padding: 0;">
-			<li><a target="_blank" href="https://www.facebook.com/BRIDGE-Communication-Application-464631923700943/" style="padding:0;"><span data-tooltip aria-haspopup="true" class="has-tip right" data-disable-hover="false" tabindex="3" title="FACEBOOK" style="border-bottom: none;"><img class="facebook" src="/BridgeCommunications/wp-content/uploads/2017/04/facebook_1.png" style="z-index: 10000; display:none;" width="50px"></span></a></li>
+			<li><a target="_blank" href="https://www.facebook.com/BRIDGE-Communication-Application-464631923700943/" style="padding:0;"><span data-tooltip aria-haspopup="true" class="has-tip right facebook" data-disable-hover="false" tabindex="3" title="FACEBOOK" style="border-bottom: none;"></span></a></li>
 
-			<li><a target="_blank" href="https://steller.co/search?q=bridgethegap&type=stories&order_by=top" style="padding:0;"><span data-tooltip aria-haspopup="true" class="has-tip right" data-disable-hover="false" tabindex="3" title="STELLAR" style="border-bottom: none;"><img class="steller" src="/BridgeCommunications/wp-content/uploads/2017/04/facebook_1.png" style="z-index: 10000; display:none;" width="50px"></span></a></li>
+			<li><a target="_blank" href="https://steller.co/search?q=bridgethegap&type=stories&order_by=top" style="padding:0;"><span data-tooltip aria-haspopup="true" class="has-tip right steller" data-disable-hover="false" tabindex="3" title="STELLAR" style="border-bottom: none;"></span></a></li>
 
-			<li><a target="_blank" href="https://www.youtube.com/channel/UCVIr5fmx0b2WTA1yluY-MkQ" style="padding:0;"><span data-tooltip aria-haspopup="true" class="has-tip right" data-disable-hover="false" tabindex="3" title="YOUTUBE" style="border-bottom: none;"><img class="youtube" src="/BridgeCommunications/wp-content/uploads/2017/04/facebook_1.png" style="z-index: 10000; display:none;" width="50px"></span></a></li>
+			<li><a target="_blank" href="https://www.youtube.com/channel/UCVIr5fmx0b2WTA1yluY-MkQ" style="padding:0;"><span data-tooltip aria-haspopup="true" class="has-tip right youtube" data-disable-hover="false" tabindex="3" title="YOUTUBE" style="border-bottom: none;"></span></a></li>
 		</ul>
 	</div>
 
