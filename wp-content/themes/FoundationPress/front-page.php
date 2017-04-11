@@ -186,7 +186,7 @@
                 <li>When adding an item or a group, you can take a photo, use a photo from your camera roll, choose a photo from the internet, or choose from the SymbolStix picture library. (Turn on WIFI or cellular data for more SymbolStix picture options!) When adding a group, you can choose the page color for added organization.</li>
               </ul>
               <img class='show-for-large' src="/BridgeCommunications/wp-content/uploads/2017/03/C.jpg" alt="iPad Screen c" style="margin-left: auto; margin-right: auto;">
-              <img class="hide-for-large" src="/BridgeCommunications/wp-content/uploads/2017/04/SCREENSHOTC.png" alt="Screenshot C" style="margin-left: auto; margin-right: auto;">
+              <img class="hide-for-large" src="/BridgeCommunications/wp-content/uploads/2017/04/SCREENSHOTC.png" alt="Screenshot C" style="margin-left: auto; margin-right: auto;"><br>
               <img class="hide-for-large" src="/BridgeCommunications/wp-content/uploads/2017/04/SCREENSHOTC2.png" alt="Screenshot C2" style="margin-left: auto; margin-right: auto;">
 
             </div>
@@ -253,7 +253,7 @@
                 <li>Have instant access to robust student and trainer progress reports, training reports for navigation and features, and other essential monitoring documentation.</li>
               </ul>
               <img class="show-for-large" src="/BridgeCommunications/wp-content/uploads/2017/03/F.jpg" alt="iPad Screen f" style="margin-left: auto; margin-right: auto;">
-              <img class="hide-for-large" src="/BridgeCommunications/wp-content/uploads/2017/04/SCREENSHOTH.png" alt="iPad Screen H" style="margin-left: auto; margin-right: auto;">
+              <img class="hide-for-large" src="/BridgeCommunications/wp-content/uploads/2017/04/SCREENSHOTH.png" alt="iPad Screen H" style="margin-left: auto; margin-right: auto;"><br>
               <img class="hide-for-large" src="/BridgeCommunications/wp-content/uploads/2017/04/SCREENSHOTG.png" alt="Screenshot G" style="margin-left: auto; margin-right: auto;">
             </div>
 
@@ -262,7 +262,7 @@
                 <li>Documents can be printed if you’re connected to a printer via WIFI.</li>
               </ul>
               <img class='show-for-large' src="/BridgeCommunications/wp-content/uploads/2017/03/G.jpg" alt="iPad Screen g" style="margin-left: auto; margin-right: auto;">
-              <img class="hide-for-large" src="/BridgeCommunications/wp-content/uploads/2017/04/SCREENSHOTF.png" alt="iPad Screen F" style="margin-left: auto; margin-right: auto;">
+              <img class="hide-for-large" src="/BridgeCommunications/wp-content/uploads/2017/04/SCREENSHOTF.png" alt="iPad Screen F" style="margin-left: auto; margin-right: auto;"><br>
               <img class="hide-for-large" src="/BridgeCommunications/wp-content/uploads/2017/04/SCREENSHOTI.png" alt="Screenshot I" style="margin-left: auto; margin-right: auto;">
             </div>
           </div>
