@@ -526,6 +526,17 @@ h2, h3, p, a{
   .shape{
     display: none !important;
   }
+  .mobile-nav{
+    background: rgb(250, 250, 250);
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top:69%;
+    transform: translateX(-50%) translateY(-50%);
+    z-index: 10000;
+    left:50%;
+    padding-top:5%;
+  }
 }
 
 @media screen and (max-width: 639px){
