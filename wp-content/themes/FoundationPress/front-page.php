@@ -167,7 +167,9 @@
               <ul>
                 <li>Add new pages and remove pages to any group or home page that has a red X in the bottom, right-hand corner.</li>
               </ul>
-              <img src="/BridgeCommunications/wp-content/uploads/2017/03/A.jpg" alt="iPad Screen a" style="margin-left: auto; margin-right: auto;">
+              <img class="show-for-large" src="/BridgeCommunications/wp-content/uploads/2017/03/A.jpg" alt="iPad Screen a" style="margin-left: auto; margin-right: auto;">
+              <img class="hide-for-large" src="/BridgeCommunications/wp-content/uploads/2017/04/SCREENSHOTA.png" alt="Screenshot A" style="margin-left: auto; margin-right: auto;">
+
             </div>
 
             <div>
