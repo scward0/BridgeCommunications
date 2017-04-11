@@ -154,8 +154,9 @@
       <div class="columns small-12">
         <div class="features">
           <h2 class="text-center">Features</h2>
-          <div class="text-center" style="vertical-align: middle;">
-            <span class="hide-for-large" style="padding: 25px; color:#555;"><i class="fa fa-chevron-left fa-2x" aria-hidden="true"></i>  SWIPE  <i class="fa fa-chevron-right fa-2x" aria-hidden="true"></i></span>
+          <br><br>
+          <div class="text-center hide-for-large" style="padding: 25px; color:#555;">
+            <span><i class="fa fa-chevron-left fa-2x" aria-hidden="true"></i><span style="margin: 0 10px 10px 10px;"> SWIPE </span><i class="fa fa-chevron-right fa-2x" aria-hidden="true"></i></span>
           </div>
           <br><br>
           <div class="features-slick">
