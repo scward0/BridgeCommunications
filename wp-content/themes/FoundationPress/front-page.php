@@ -265,6 +265,7 @@
     </div>
     <div class="dropdowns row small-up-1 medium-up-1 large-up-5" style="padding: 100px 10%;">
       <div class="column">
+        <img src="/BridgeCommunications/wp-content/uploads/2017/04/3631.png" alt="Screen 1">
         <ul class="vertical menu text-center" data-accordion-menu>
           <li style="text-align: left; margin-top: 10px;">
             <a href="#" style="border: 2px solid #4aa1d6; text-transform: uppercase; font-size: 18px;">Screen 1</a>
