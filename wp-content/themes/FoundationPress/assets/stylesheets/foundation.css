@@ -7832,7 +7832,7 @@ h2, h3, p, a {
 .steller {
   width: 50px;
   height: 50px;
-  background: url("/BridgeCommunications/wp-content/uploads/2017/04/facebook_1.png");
+  background: url("/BridgeCommunications/wp-content/uploads/2017/04/steller_1.png");
   -webkit-background-size: 50px 50px;
           background-size: 50px 50px; }
 
@@ -7844,12 +7844,12 @@ h2, h3, p, a {
 .youtube {
   width: 50px;
   height: 50px;
-  background: url("/BridgeCommunications/wp-content/uploads/2017/04/facebook_1.png");
+  background: url("/BridgeCommunications/wp-content/uploads/2017/04/YouTube_1.png");
   -webkit-background-size: 50px 50px;
           background-size: 50px 50px; }
 
 .youtube:hover {
-  background: url("/BridgeCommunications/wp-content/uploads/2017/04/youtube_2.png");
+  background: url("/BridgeCommunications/wp-content/uploads/2017/04/YouTube_2.png");
   -webkit-background-size: 50px 50px;
           background-size: 50px 50px; }
 
