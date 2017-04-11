@@ -176,14 +176,19 @@
               <ul>
                 <li>Add new groups, singular items, or video that represents an item by touching an ‘Add new’ box.</li>
               </ul>
-              <img src="/BridgeCommunications/wp-content/uploads/2017/03/B.jpg" alt="iPad Screen b" style="margin-left: auto; margin-right: auto;">
+              <img class="show-for-large" src="/BridgeCommunications/wp-content/uploads/2017/03/B.jpg" alt="iPad Screen b" style="margin-left: auto; margin-right: auto;">
+              <img class="hide-for-large" src="/BridgeCommunications/wp-content/uploads/2017/04/SCREENSHOTB.png" alt="Screenshot B" style="margin-left: auto; margin-right: auto;">
+
             </div>
 
             <div>
               <ul>
                 <li>When adding an item or a group, you can take a photo, use a photo from your camera roll, choose a photo from the internet, or choose from the SymbolStix picture library. (Turn on WIFI or cellular data for more SymbolStix picture options!) When adding a group, you can choose the page color for added organization.</li>
               </ul>
-              <img src="/BridgeCommunications/wp-content/uploads/2017/03/C.jpg" alt="iPad Screen c" style="margin-left: auto; margin-right: auto;">
+              <img class='show-for-large' src="/BridgeCommunications/wp-content/uploads/2017/03/C.jpg" alt="iPad Screen c" style="margin-left: auto; margin-right: auto;">
+              <img class="hide-for-large" src="/BridgeCommunications/wp-content/uploads/2017/04/SCREENSHOTC.png" alt="Screenshot C" style="margin-left: auto; margin-right: auto;">
+              <img class="hide-for-large" src="/BridgeCommunications/wp-content/uploads/2017/04/SCREENSHOTC2.png" alt="Screenshot C2" style="margin-left: auto; margin-right: auto;">
+
             </div>
 
             <div>
@@ -191,7 +196,8 @@
               <ul>
                 <li>Hide or show items, groups, and navigational buttons. Just hold down the desired item, group, or navigational button for four seconds to hide or show.</li>
               </ul>
-              <img src="/BridgeCommunications/wp-content/uploads/2017/03/A.jpg" alt="iPad Screen a" style="margin-left: auto; margin-right: auto;">
+              <img class="show-for-large" src="/BridgeCommunications/wp-content/uploads/2017/03/A.jpg" alt="iPad Screen a" style="margin-left: auto; margin-right: auto;">
+              <img class="hide-for-large" src="/BridgeCommunications/wp-content/uploads/2017/04/SCREENSHOTA.png" alt="Screenshot A" style="margin-left: auto; margin-right: auto;">
             </div>
 
             <div>
@@ -199,7 +205,8 @@
               <ul>
                 <li>Change text to Spanish, change speech to Spanish, or change the voice from neutral to a man or a woman.</li>
               </ul>
-              <img src="/BridgeCommunications/wp-content/uploads/2017/03/A.jpg" alt="iPad Screen a" style="margin-left: auto; margin-right: auto;">
+              <img class="show-for-large" src="/BridgeCommunications/wp-content/uploads/2017/03/A.jpg" alt="iPad Screen a" style="margin-left: auto; margin-right: auto;">
+              <img class="hide-for-large" src="/BridgeCommunications/wp-content/uploads/2017/04/SCREENSHOTA.png" alt="Screenshot A" style="margin-left: auto; margin-right: auto;">
             </div>
 
             <div>
@@ -207,7 +214,9 @@
               <ul>
                 <li>Use it for word combinations, topic maintenance, and sentences with speech output. The message window can hold up to 15 items at a time.</li>
               </ul>
-              <img src="/BridgeCommunications/wp-content/uploads/2017/03/D.jpg" alt="iPad Screen d" style="margin-left: auto; margin-right: auto;">
+              <img class="show-for-large" src="/BridgeCommunications/wp-content/uploads/2017/03/D.jpg" alt="iPad Screen d" style="margin-left: auto; margin-right: auto;">
+              <img class="hide-for-large" src="/BridgeCommunications/wp-content/uploads/2017/04/SCREENSHOTD.png" alt="Screenshot D" style="margin-left: auto; margin-right: auto;">
+
             </div>
 
             <div>
@@ -215,7 +224,9 @@
               <ul>
                 <li>Us it for typing and text-based messages with speech output. The typing view can hold lengthy amounts of typed information</li>
               </ul>
-              <img src="/BridgeCommunications/wp-content/uploads/2017/03/E.jpg" alt="iPad Screen e" style="margin-left: auto; margin-right: auto;">
+              <img class="show-for-large" src="/BridgeCommunications/wp-content/uploads/2017/03/E.jpg" alt="iPad Screen e" style="margin-left: auto; margin-right: auto;">
+              <img class="hide-for-large" src="/BridgeCommunications/wp-content/uploads/2017/04/SCREENSHOTE.png" alt="Screenshot E" style="margin-left: auto; margin-right: auto;">
+
             </div>
 
             <div>
@@ -223,7 +234,8 @@
               <ul>
                 <li>Upload, save, and view audio and video files by creating binders. Create interactive material to use for supports or entertainment. Also, perform live chats with other Bridge Communication App subscribers for screen sharing paired with face image sharing and live voice exchanges.</li>
               </ul>
-              <img src="/BridgeCommunications/wp-content/uploads/2017/03/A.jpg" alt="iPad Screen a" style="margin-left: auto; margin-right: auto;">
+              <img class="show-for-large" src="/BridgeCommunications/wp-content/uploads/2017/03/A.jpg" alt="iPad Screen a" style="margin-left: auto; margin-right: auto;">
+              <img class="hide-for-large" src="/BridgeCommunications/wp-content/uploads/2017/04/SCREENSHOTA.png" alt="Screenshot A" style="margin-left: auto; margin-right: auto;">
             </div>
 
             <div>
@@ -231,7 +243,8 @@
               <ul>
                 <li>Save files to our server. Recover your saved files our pull your saved files down to supplemental devices within seconds. Reset the app to default configuration. Saved files will remain on our server for 30 days after a subscription is cancelled.</li>
               </ul>
-              <img src="/BridgeCommunications/wp-content/uploads/2017/03/A.jpg" alt="iPad Screen a" style="margin-left: auto; margin-right: auto;">
+              <img class="show-for-large" src="/BridgeCommunications/wp-content/uploads/2017/03/A.jpg" alt="iPad Screen a" style="margin-left: auto; margin-right: auto;">
+              <img class="hide-for-large" src="/BridgeCommunications/wp-content/uploads/2017/04/SCREENSHOTA.png" alt="Screenshot A" style="margin-left: auto; margin-right: auto;">
             </div>
 
             <div>
@@ -239,15 +252,18 @@
               <ul>
                 <li>Have instant access to robust student and trainer progress reports, training reports for navigation and features, and other essential monitoring documentation.</li>
               </ul>
-              <img src="/BridgeCommunications/wp-content/uploads/2017/03/F.jpg" alt="iPad Screen f" style="margin-left: auto; margin-right: auto;">
+              <img class="show-for-large" src="/BridgeCommunications/wp-content/uploads/2017/03/F.jpg" alt="iPad Screen f" style="margin-left: auto; margin-right: auto;">
+              <img class="hide-for-large" src="/BridgeCommunications/wp-content/uploads/2017/04/SCREENSHOTH.png" alt="iPad Screen H" style="margin-left: auto; margin-right: auto;">
+              <img class="hide-for-large" src="/BridgeCommunications/wp-content/uploads/2017/04/SCREENSHOTG.png" alt="Screenshot G" style="margin-left: auto; margin-right: auto;">
             </div>
 
             <div>
               <ul>
                 <li>Documents can be printed if you’re connected to a printer via WIFI.</li>
               </ul>
-              <img src="/BridgeCommunications/wp-content/uploads/2017/03/G.jpg" alt="iPad Screen g" style="margin-left: auto; margin-right: auto;"><br>
-              <a class="text-center" style="padding: 20px;" class="link" href="#">Watch this introductory video on forms.</a>
+              <img class='show-for-large' src="/BridgeCommunications/wp-content/uploads/2017/03/G.jpg" alt="iPad Screen g" style="margin-left: auto; margin-right: auto;">
+              <img class="hide-for-large" src="/BridgeCommunications/wp-content/uploads/2017/04/SCREENSHOTF.png" alt="iPad Screen F" style="margin-left: auto; margin-right: auto;">
+              <img class="hide-for-large" src="/BridgeCommunications/wp-content/uploads/2017/04/SCREENSHOTI.png" alt="Screenshot I" style="margin-left: auto; margin-right: auto;">
             </div>
           </div>
         </div>
