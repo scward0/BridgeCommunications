@@ -68,7 +68,7 @@
 			<ul class="menu">
 				<li><a target="_blank" href="https://www.facebook.com/BRIDGE-Communication-Application-464631923700943/"><img src="/BridgeCommunications/wp-content/uploads/2017/04/facebook_1.png" class="style-svg style-svg-2" style="z-index: 10000;"></a></li>
 				<li><a target="_blank" href="https://steller.co/search?q=bridgethegap&type=stories&order_by=top"><img src="/BridgeCommunications/wp-content/uploads/2017/04/steller_1.png" class="style-svg style-svg-2" style="z-index: 10000;"></a></li>
-				<li><a target="_blank" href="https://www.youtube.com/channel/UCVIr5fmx0b2WTA1yluY-MkQ"><img src="/BridgeCommunications/wp-content/uploads/2017/04/youtube_1.png" class="style-svg style-svg-2" style="z-index: 10000;"></a></li>
+				<li><a target="_blank" href="https://www.youtube.com/channel/UCVIr5fmx0b2WTA1yluY-MkQ"><img src="/BridgeCommunications/wp-content/uploads/2017/04/Youtube_1.png" class="style-svg style-svg-2" style="z-index: 10000;"></a></li>
 			</ul>
 		</div>
 	</div>
