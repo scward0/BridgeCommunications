@@ -154,11 +154,13 @@
       <div class="columns small-12">
         <div class="features">
           <h2 class="text-center">Features</h2>
-          <br><br>
+
           <div class="text-center hide-for-large" style="padding: 25px; color:#555;">
+            <br><br>
             <span><i class="fa fa-chevron-left fa-2x" aria-hidden="true"></i><span style="margin: 0 10px 10px 10px;"> SWIPE </span><i class="fa fa-chevron-right fa-2x" aria-hidden="true"></i></span>
+            <br><br>
           </div>
-          <br><br>
+
           <div class="features-slick">
             <div>
               <p>Turn on <strong>Edit Mode</strong> in the <strong>Settings</strong> and you can:</p>

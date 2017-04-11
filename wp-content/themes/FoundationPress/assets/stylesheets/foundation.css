@@ -7817,8 +7817,8 @@ h2, h3, p, a {
 #nav-icon3 span {
   background: #555555 !important; }
 
-#steller {
-  background: url("/BridgeCommunications/wp-content/uploads/2017/04/steller_1.svg");
+.facebook {
+  background: url("/BridgeCommunications/wp-content/uploads/2017/04/facebook_1.png");
   -webkit-background-size: contain;
           background-size: contain; }
 
@@ -8057,8 +8057,6 @@ h2, h3, p, a {
 @media screen and (max-width: 768px) {
   #mission-purpose .hero, #app-contents .hero, #features-services .hero, #testimonials .hero, #stay-connected .hero {
     background-attachment: scroll !important; }
-  .hero {
-    width: 104%; }
   .shape {
     display: none !important; }
   .mobile-nav {
