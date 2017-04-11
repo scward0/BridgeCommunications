@@ -156,9 +156,9 @@
           <h2 class="text-center">Features</h2>
 
           <div class="text-center hide-for-large" style="padding: 25px; color:#555;">
-            <br><br>
-            <span><i class="fa fa-chevron-left fa-2x" aria-hidden="true"></i><span style="margin: 0 10px 10px 10px;"> SWIPE </span><i class="fa fa-chevron-right fa-2x" aria-hidden="true"></i></span>
-            <br><br>
+            <br>
+            <span><i class="fa fa-chevron-left" aria-hidden="true"></i><span style="margin: 0 10px 10px 10px;"> SWIPE </span><i class="fa fa-chevron-right" aria-hidden="true"></i></span>
+            <br>
           </div>
 
           <div class="features-slick">
@@ -296,7 +296,7 @@
             <a href="#" style="border: 2px solid #4aa1d6; text-transform: uppercase; font-size: 18px;">Screen 1</a>
             <ul class="menu vertical nested">
               <li><a href="#">Social</a>
-                <ul class="menu vertical nested">
+                <ul class="menu vertical nested lowest">
                   <li>Greetings</li>
                   <li>Manners</li>
                 </ul>
@@ -438,11 +438,7 @@
                     <li>The Princess and the Prince</li>
                   </ul>
                 </li>
-                <li><a href="#">Relationships</a>
-                  <ul class="menu vertical nested lowest">
-                    <li>Love</li>
-                  </ul>
-                </li>
+                <li class="override-accordion">Relationships</li>
                 <li><a href="#">Needs</a>
                   <ul class="menu vertical nested lowest">
                     <li>Hurt</li>
