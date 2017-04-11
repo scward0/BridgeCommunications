@@ -517,6 +517,17 @@ h2, h3, p, a{
     left: 60px;
     top:30px;
   }
+  .arrordion-column{
+    margin: 50px 0;
+  }
+  .accordion-screen, .level-1{
+    max-width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .slick-prev:before, .slick-next:before {
+      display: none !important;
+  }
 }
 
 @media screen and (max-width: 768px){
@@ -537,14 +548,7 @@ h2, h3, p, a{
     left:50%;
     padding-top:5%;
   }
-  .arrordion-column{
-    margin: 50px 0; 
-  }
-  .accordion-screen, .level-1{
-    max-width: 300px;
-    margin-left: auto;
-    margin-right: auto;
-  }
+
 }
 
 @media screen and (max-width: 639px){

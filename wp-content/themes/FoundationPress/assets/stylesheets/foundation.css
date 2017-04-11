@@ -8044,7 +8044,15 @@ h2, h3, p, a {
     position: relative;
     width: 250px;
     left: 60px;
-    top: 30px; } }
+    top: 30px; }
+  .arrordion-column {
+    margin: 50px 0; }
+  .accordion-screen, .level-1 {
+    max-width: 300px;
+    margin-left: auto;
+    margin-right: auto; }
+  .slick-prev:before, .slick-next:before {
+    display: none !important; } }
 
 @media screen and (max-width: 768px) {
   #mission-purpose .hero, #app-contents .hero, #features-services .hero, #testimonials .hero, #stay-connected .hero {
@@ -8062,13 +8070,7 @@ h2, h3, p, a {
             transform: translateX(-50%) translateY(-50%);
     z-index: 10000;
     left: 50%;
-    padding-top: 5%; }
-  .arrordion-column {
-    margin: 75px 0; }
-  .accordion-screen, .level-1 {
-    max-width: 300px;
-    margin-left: auto;
-    margin-right: auto; } }
+    padding-top: 5%; } }
 
 @media screen and (max-width: 639px) {
   .mobile-nav {
