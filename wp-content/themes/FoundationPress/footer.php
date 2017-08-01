@@ -1,18 +1,17 @@
 <section id="footer" style="background: #404547;" class="text-center">
 	<div class="row">
 		<div class="columns small-12 text-center">
-			<img src="/BridgeCommunications/wp-content/uploads/2017/04/logo-foot_200.png" alt="" width="150px" style="margin: 50px 0;">
+			<img src="/wp-content/uploads/2017/04/logo-footer.png" alt="" width="200px" style="margin: 50px 0;">
 			<p style="color: white;">
 				Contact us<br>
-				<a style="color: white; " href="mailto:support@bridgecommunication.com">support@bridgecommunication.com</a><br><br>
-				<a style="color: white; font-size: 9px;" href="/BridgeCommunications/terms-and-conditions/">Terms & Conditions</a> | <a style="color: white; font-size: 9px;" href="/BridgeCommunications/privacy-policy/">Privacy Policy</a>
+				<a style="color: white; " href="mailto:support@BioprismBridge.com">support@BioprismBridge.com</a><br><br>
+				<a style="color: white; font-size: 9px;" href="/terms-and-conditions/">Terms & Conditions</a> | <a style="color: white; font-size: 9px;" href="/privacy-policy/">Privacy Policy</a>
 			</p>
 		</div>
 	</div>
 </section>
 
-<script type="text/javascript" src="/BridgeCommunications/wp-content/themes/FoundationPress/assets/javascript/slick/slick.min.js"></script>
-<script type="text/javascript" src="/BridgeCommunications/wp-content/themes/FoundationPress/assets/javascript/fullPage/jquery.fullPage.min.js"></script>
+<script type="text/javascript" src="/wp-content/themes/FoundationPress/assets/javascript/slick/slick.min.js"></script>
 <script type="text/javascript">
 	$(document).ready(function(){
 		$('.ipad-slick').slick({

@@ -18,23 +18,30 @@
  * @package WordPress
  */
 
+
+
+ // Staging
+
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'localwp');
+// define('DB_NAME', 'localwp');
+//
+// /** MySQL database username */
+// define('DB_USER', 'root');
+//
+//
+// /** MySQL database password */
+// define('DB_PASSWORD', '!e_xb#Z`82QR7E>T');
+
+//Live
+define('DB_NAME', 'bioprism_db');
 
 /** MySQL database username */
-define('DB_USER', 'root');
-
-
-
-// /** MySQL database password */
-// define('DB_PASSWORD', 'root');
+define('DB_USER', 'bioprism_root');
 
 
 /** MySQL database password */
-define('DB_PASSWORD', '!e_xb#Z`82QR7E>T');
-
-
+define('DB_PASSWORD', 'TlrR!d4F;+e&');
 
 
 

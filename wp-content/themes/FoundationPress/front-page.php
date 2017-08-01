@@ -4,24 +4,24 @@
 
   <div class="shapes">
     <div style="position: fixed; top:120px; left: 42px;" >
-      <img class="shape" id="shape1" src="/BridgeCommunications/wp-content/uploads/2017/03/Shape1.png" alt="Shape 1" data-scroll-speed="7">
+      <img class="shape" id="shape1" src="/wp-content/uploads/2017/03/Shape1.png" alt="Shape 1" data-scroll-speed="7">
     </div>
     <div style="position: fixed; bottom: -200px; right: 0px;">
-      <img class="shape" id="shape7" src="/BridgeCommunications/wp-content/uploads/2017/04/Shapes3.png" width="100" alt="Shape 7" data-scroll-speed="3">
+      <img class="shape" id="shape7" src="/wp-content/uploads/2017/04/Qbe3.png" width="100" alt="Shape 7" data-scroll-speed="3">
     </div>
     <div style="position: fixed; bottom: -700px; left: 0px;">
-      <img class="shape" id="shape4" src="/BridgeCommunications/wp-content/uploads/2017/04/Shapes1.png" width="100" alt="Shape 4" data-scroll-speed="3">
+      <img class="shape" id="shape4" src="/wp-content/uploads/2017/04/Qbe1.png" width="100" alt="Shape 4" data-scroll-speed="3">
     </div>
     <div style="position: fixed; bottom: -700px; right: 0px;">
-      <img class="shape" id="shape3" src="/BridgeCommunications/wp-content/uploads/2017/04/Shapes2.png" width="100" alt="Shape 4" data-scroll-speed="6">
+      <img class="shape" id="shape3" src="/wp-content/uploads/2017/04/Qbe2.png" width="100" alt="Shape 4" data-scroll-speed="6">
     </div>
   </div>
 
-  <div id="home" style="background: url('/BridgeCommunications/wp-content/uploads/2017/03/mainbg.jpg'); height: 80%; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover; top: 0; left: 0;">
+  <div id="home" style="background: url('/wp-content/uploads/2017/03/mainbg.jpg'); height: 80%; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover; top: 0; left: 0;">
     <div class="row" style="position: relative; height: 700px;">
       <div class="columns small-12 medium-6 large-6">
         <div class="tagline">
-          <h1 class="text-center"><span>The </span>Easiest App<br><span>for </span>Connecting<br><span>and </span>Building<br>Language</h1>
+          <h1 class="text-center"><span>The </span>Easiest App<br><span>for </span>Communicating<br><span>and </span>Building<br>Connections</h1>
           <br>
         </div>
       </div>
@@ -29,13 +29,13 @@
         <div class="wrapper">
           <div class="ipad">
             <div class="ipad-slick">
-              <div><img src="/BridgeCommunications/wp-content/uploads/2017/03/01.png" alt="iPad Screen 1"></div>
-              <div><img src="/BridgeCommunications/wp-content/uploads/2017/03/02.png" alt="iPad Screen 2"></div>
-              <div><img src="/BridgeCommunications/wp-content/uploads/2017/03/03.png" alt="iPad Screen 3"></div>
-              <div><img src="/BridgeCommunications/wp-content/uploads/2017/03/04.png" alt="iPad Screen 4"></div>
-              <div><img src="/BridgeCommunications/wp-content/uploads/2017/03/05.png" alt="iPad Screen 5"></div>
-              <div><img src="/BridgeCommunications/wp-content/uploads/2017/03/06.png" alt="iPad Screen 6"></div>
-              <div><img src="/BridgeCommunications/wp-content/uploads/2017/03/07.png" alt="iPad Screen 7"></div>
+              <div><img src="/wp-content/uploads/2017/03/01.png" alt="iPad Screen 1"></div>
+              <div><img src="/wp-content/uploads/2017/03/02.png" alt="iPad Screen 2"></div>
+              <div><img src="/wp-content/uploads/2017/03/03.png" alt="iPad Screen 3"></div>
+              <div><img src="/wp-content/uploads/2017/03/04.png" alt="iPad Screen 4"></div>
+              <div><img src="/wp-content/uploads/2017/03/05.png" alt="iPad Screen 5"></div>
+              <div><img src="/wp-content/uploads/2017/03/06.png" alt="iPad Screen 6"></div>
+              <div><img src="/wp-content/uploads/2017/03/07.png" alt="iPad Screen 7"></div>
             </div>
           </div>
         </div>
@@ -78,7 +78,7 @@
         </div>
       </div>
       <div class="columns small-12 medium-3 large-3 large-pull-9 medium-pull-9 one-sheet text-center">
-        <a href="/BridgeCommunications/wp-content/uploads/2017/04/BridgeCommunications_OneSheet.pdf" download><img src="/BridgeCommunications/wp-content/uploads/2017/03/BC_DownloadImage.jpg" alt="Download One Sheet"></a><br>
+        <a href="wp-content/uploads/2017/08/BridgeCommunications_One_Sheet_V2.pdf" download><img src="/wp-content/uploads/2017/03/BC_DownloadImage.jpg" alt="Download One Sheet"></a><br>
         <span id="download-one-sheet">Download the<br />One Sheet</span>
       </div>
     </div>
@@ -99,47 +99,14 @@
 
         <p><span style="font-size: 28px; color: #4AA1D6;">PURPOSE:</span><br>Increase engagement, compliance, and interaction with others</p><br>
 
-        <p><span style="font-size: 28px; color: #4AA1D6;">OPPORTUNITY:</span><br>Low incidence populations &amp; children with speech, language and communication needs</p><br>
+        <p><span style="font-size: 28px; color: #4AA1D6;">OPPORTUNITY:</span><br>Autism, Down Syndrome, Apraxia, Cerebral Palsy, TBI, Aphasia, Dementia, Alzheimers, Parkinson’s. Also great for Spanish speakers, Special Needs Population, and Speech-Language Delays.</p><br>
 
         <p><span style="font-size: 28px; color: #4AA1D6;">ADOPTION:</span><br>Enable understanding, application, and accountability for communication supports</p><br>
 
-        <p><span style="font-size: 28px; color: #4AA1D6;">VALUE:</span><br>Consistent stability and understanding across a community yields greater opportunities for learning and growth</p><br>
+        <p><span style="font-size: 28px; color: #4AA1D6;">VALUE:</span><br>Stability and understanding across a community yields greater opportunities for learning and growth</p><br>
 
       </div>
     </div>
-    <!-- <div class="row" style="padding: 50px;">
-      <div class="columns small-12">
-        <h2 class="text-center">Build connections through barriers.</h2>
-      </div>
-    </div>
-    <div class="row mission-row">
-      <div class="columns small-12 medium-4 large-4 text-center mission-block">
-        <img src="/BridgeCommunications/wp-content/uploads/2017/03/Encourage.png" alt="Encourage">
-        <p>Encourage engagement and communication, reduce complexity, and make interaction the focus.</p>
-      </div>
-      <div class="columns small-12 medium-4 large-4 text-center mission-block">
-        <img src="/BridgeCommunications/wp-content/uploads/2017/03/employ.png" alt="Employ">
-        <p>Employ a design tht is easy and intuitive, for all of the users, allowing for little distraction and maximum communication opportunities.</p>
-      </div>
-      <div class="columns small-12 medium-4 large-4 text-center mission-block">
-        <img src="/BridgeCommunications/wp-content/uploads/2017/03/support.png" alt="Support">
-        <p>Support augmentative and alternative communication between partners that is unpredictable and varied as it forms in real time... in real life.</p>
-      </div>
-    </div>
-    <div class="row mission-row2">
-      <div class="columns small-12 medium-4 large-4 text-center mission-block">
-        <img src="/BridgeCommunications/wp-content/uploads/2017/03/present.png" alt="Present">
-        <p>Present language using a multimodal approach integrating visual, tactile and auditory feedback to theach ANY early or emerging language learner the power and versatility of communication.</p>
-      </div>
-      <div class="columns small-12 medium-4 large-4 text-center mission-block">
-        <img src="/BridgeCommunications/wp-content/uploads/2017/03/increase.png" alt="Incease">
-        <p>Increase exposure, awareness, and fluency of communication.</p>
-      </div>
-      <div class="columns small-12 medium-4 large-4 text-center mission-block">
-        <img src="/BridgeCommunications/wp-content/uploads/2017/03/integrate.png" alt="Integrate">
-        <p>Integrate communication supports into social and curriculum based conversation with others.</p>
-      </div>
-    </div> -->
   </section>
 
   <section id="features-services" >
@@ -167,8 +134,8 @@
               <ul>
                 <li>Add new pages and remove pages to any group or home page that has a red X in the bottom, right-hand corner.</li>
               </ul>
-              <img class="show-for-large" src="/BridgeCommunications/wp-content/uploads/2017/03/A.jpg" alt="iPad Screen a" style="margin-left: auto; margin-right: auto;">
-              <img class="hide-for-large" src="/BridgeCommunications/wp-content/uploads/2017/04/SCREENSHOTA.png" alt="Screenshot A" style="margin-left: auto; margin-right: auto;">
+              <img class="show-for-large" src="/wp-content/uploads/2017/04/screenA.jpg" alt="iPad Screen a" style="margin-left: auto; margin-right: auto;">
+              <img class="hide-for-large" src="/wp-content/uploads/2017/04/SCREENSHOT_A.png" alt="Screenshot A" style="margin-left: auto; margin-right: auto;">
 
             </div>
 
@@ -176,8 +143,8 @@
               <ul>
                 <li>Add new groups, singular items, or video that represents an item by touching an ‘Add new’ box.</li>
               </ul>
-              <img class="show-for-large" src="/BridgeCommunications/wp-content/uploads/2017/03/B.jpg" alt="iPad Screen b" style="margin-left: auto; margin-right: auto;">
-              <img class="hide-for-large" src="/BridgeCommunications/wp-content/uploads/2017/04/SCREENSHOTB.png" alt="Screenshot B" style="margin-left: auto; margin-right: auto;">
+              <img class="show-for-large" src="/wp-content/uploads/2017/04/screenB.jpg" alt="iPad Screen b" style="margin-left: auto; margin-right: auto;">
+              <img class="hide-for-large" src="/wp-content/uploads/2017/04/SCREENSHOT_B.png" alt="Screenshot B" style="margin-left: auto; margin-right: auto;">
 
             </div>
 
@@ -185,9 +152,9 @@
               <ul>
                 <li>When adding an item or a group, you can take a photo, use a photo from your camera roll, choose a photo from the internet, or choose from the SymbolStix picture library. (Turn on WIFI or cellular data for more SymbolStix picture options!) When adding a group, you can choose the page color for added organization.</li>
               </ul>
-              <img class='show-for-large' src="/BridgeCommunications/wp-content/uploads/2017/03/C.jpg" alt="iPad Screen c" style="margin-left: auto; margin-right: auto;">
-              <img class="hide-for-large" src="/BridgeCommunications/wp-content/uploads/2017/04/SCREENSHOTC.png" alt="Screenshot C" style="margin-left: auto; margin-right: auto;"><br>
-              <img class="hide-for-large" src="/BridgeCommunications/wp-content/uploads/2017/04/SCREENSHOTC2.png" alt="Screenshot C2" style="margin-left: auto; margin-right: auto;">
+              <img class='show-for-large' src="/wp-content/uploads/2017/04/screenC.jpg" alt="iPad Screen c" style="margin-left: auto; margin-right: auto;">
+              <img class="hide-for-large" src="/wp-content/uploads/2017/04/SCREENSHOT_C.png" alt="Screenshot C" style="margin-left: auto; margin-right: auto;"><br>
+              <img class="hide-for-large" src="/wp-content/uploads/2017/04/SCREENSHOT_C2.png" alt="Screenshot C2" style="margin-left: auto; margin-right: auto;">
 
             </div>
 
@@ -196,8 +163,8 @@
               <ul>
                 <li>Hide or show items, groups, and navigational buttons. Just hold down the desired item, group, or navigational button for four seconds to hide or show.</li>
               </ul>
-              <img class="show-for-large" src="/BridgeCommunications/wp-content/uploads/2017/03/A.jpg" alt="iPad Screen a" style="margin-left: auto; margin-right: auto;">
-              <img class="hide-for-large" src="/BridgeCommunications/wp-content/uploads/2017/04/SCREENSHOTA.png" alt="Screenshot A" style="margin-left: auto; margin-right: auto;">
+              <img class="show-for-large" src="/wp-content/uploads/2017/04/screenA.jpg" alt="iPad Screen a" style="margin-left: auto; margin-right: auto;">
+              <img class="hide-for-large" src="/wp-content/uploads/2017/04/SCREENSHOT_A.png" alt="Screenshot A" style="margin-left: auto; margin-right: auto;">
             </div>
 
             <div>
@@ -205,8 +172,8 @@
               <ul>
                 <li>Change text to Spanish, change speech to Spanish, or change the voice from neutral to a man or a woman.</li>
               </ul>
-              <img class="show-for-large" src="/BridgeCommunications/wp-content/uploads/2017/03/A.jpg" alt="iPad Screen a" style="margin-left: auto; margin-right: auto;">
-              <img class="hide-for-large" src="/BridgeCommunications/wp-content/uploads/2017/04/SCREENSHOTA.png" alt="Screenshot A" style="margin-left: auto; margin-right: auto;">
+              <img class="show-for-large" src="/wp-content/uploads/2017/04/screenA.jpg" alt="iPad Screen a" style="margin-left: auto; margin-right: auto;">
+              <img class="hide-for-large" src="/wp-content/uploads/2017/04/SCREENSHOT_A.png" alt="Screenshot A" style="margin-left: auto; margin-right: auto;">
             </div>
 
             <div>
@@ -214,8 +181,8 @@
               <ul>
                 <li>Use it for word combinations, topic maintenance, and sentences with speech output. The message window can hold up to 15 items at a time.</li>
               </ul>
-              <img class="show-for-large" src="/BridgeCommunications/wp-content/uploads/2017/03/D.jpg" alt="iPad Screen d" style="margin-left: auto; margin-right: auto;">
-              <img class="hide-for-large" src="/BridgeCommunications/wp-content/uploads/2017/04/SCREENSHOTD.png" alt="Screenshot D" style="margin-left: auto; margin-right: auto;">
+              <img class="show-for-large" src="/wp-content/uploads/2017/04/screenD.jpg" alt="iPad Screen d" style="margin-left: auto; margin-right: auto;">
+              <img class="hide-for-large" src="/wp-content/uploads/2017/04/SCREENSHOT_D.png" alt="Screenshot D" style="margin-left: auto; margin-right: auto;">
 
             </div>
 
@@ -224,8 +191,8 @@
               <ul>
                 <li>Us it for typing and text-based messages with speech output. The typing view can hold lengthy amounts of typed information</li>
               </ul>
-              <img class="show-for-large" src="/BridgeCommunications/wp-content/uploads/2017/03/E.jpg" alt="iPad Screen e" style="margin-left: auto; margin-right: auto;">
-              <img class="hide-for-large" src="/BridgeCommunications/wp-content/uploads/2017/04/SCREENSHOTE.png" alt="Screenshot E" style="margin-left: auto; margin-right: auto;">
+              <img class="show-for-large" src="/wp-content/uploads/2017/04/screenE.jpg" alt="iPad Screen e" style="margin-left: auto; margin-right: auto;">
+              <img class="hide-for-large" src="/wp-content/uploads/2017/04/SCREENSHOT_E.png" alt="Screenshot E" style="margin-left: auto; margin-right: auto;">
 
             </div>
 
@@ -234,8 +201,8 @@
               <ul>
                 <li>Upload, save, and view audio and video files by creating binders. Create interactive material to use for supports or entertainment. Also, perform live chats with other Bridge Communication App subscribers for screen sharing paired with face image sharing and live voice exchanges.</li>
               </ul>
-              <img class="show-for-large" src="/BridgeCommunications/wp-content/uploads/2017/03/A.jpg" alt="iPad Screen a" style="margin-left: auto; margin-right: auto;">
-              <img class="hide-for-large" src="/BridgeCommunications/wp-content/uploads/2017/04/SCREENSHOTA.png" alt="Screenshot A" style="margin-left: auto; margin-right: auto;">
+              <img class="show-for-large" src="/wp-content/uploads/2017/04/screenA.jpg" alt="iPad Screen a" style="margin-left: auto; margin-right: auto;">
+              <img class="hide-for-large" src="/wp-content/uploads/2017/04/SCREENSHOT_A.png" alt="Screenshot A" style="margin-left: auto; margin-right: auto;">
             </div>
 
             <div>
@@ -243,8 +210,8 @@
               <ul>
                 <li>Save files to our server. Recover your saved files our pull your saved files down to supplemental devices within seconds. Reset the app to default configuration. Saved files will remain on our server for 30 days after a subscription is cancelled.</li>
               </ul>
-              <img class="show-for-large" src="/BridgeCommunications/wp-content/uploads/2017/03/A.jpg" alt="iPad Screen a" style="margin-left: auto; margin-right: auto;">
-              <img class="hide-for-large" src="/BridgeCommunications/wp-content/uploads/2017/04/SCREENSHOTA.png" alt="Screenshot A" style="margin-left: auto; margin-right: auto;">
+              <img class="show-for-large" src="/wp-content/uploads/2017/04/screenA.jpg" alt="iPad Screen a" style="margin-left: auto; margin-right: auto;">
+              <img class="hide-for-large" src="/wp-content/uploads/2017/04/SCREENSHOT_A.png" alt="Screenshot A" style="margin-left: auto; margin-right: auto;">
             </div>
 
             <div>
@@ -252,18 +219,18 @@
               <ul>
                 <li>Have instant access to robust student and trainer progress reports, training reports for navigation and features, and other essential monitoring documentation.</li>
               </ul>
-              <img class="show-for-large" src="/BridgeCommunications/wp-content/uploads/2017/03/F.jpg" alt="iPad Screen f" style="margin-left: auto; margin-right: auto;">
-              <img class="hide-for-large" src="/BridgeCommunications/wp-content/uploads/2017/04/SCREENSHOTH.png" alt="iPad Screen H" style="margin-left: auto; margin-right: auto;"><br>
-              <img class="hide-for-large" src="/BridgeCommunications/wp-content/uploads/2017/04/SCREENSHOTG.png" alt="Screenshot G" style="margin-left: auto; margin-right: auto;">
+              <img class="show-for-large" src="/wp-content/uploads/2017/04/screenF.jpg" alt="iPad Screen f" style="margin-left: auto; margin-right: auto;">
+              <img class="hide-for-large" src="/wp-content/uploads/2017/04/SCREENSHOT_H.png" alt="iPad Screen H" style="margin-left: auto; margin-right: auto;"><br>
+              <img class="hide-for-large" src="/wp-content/uploads/2017/04/SCREENSHOT_G.png" alt="Screenshot G" style="margin-left: auto; margin-right: auto;">
             </div>
 
             <div>
               <ul>
                 <li>Documents can be printed if you’re connected to a printer via WIFI.</li>
               </ul>
-              <img class='show-for-large' src="/BridgeCommunications/wp-content/uploads/2017/03/G.jpg" alt="iPad Screen g" style="margin-left: auto; margin-right: auto;">
-              <img class="hide-for-large" src="/BridgeCommunications/wp-content/uploads/2017/04/SCREENSHOTF.png" alt="iPad Screen F" style="margin-left: auto; margin-right: auto;"><br>
-              <img class="hide-for-large" src="/BridgeCommunications/wp-content/uploads/2017/04/SCREENSHOTI.png" alt="Screenshot I" style="margin-left: auto; margin-right: auto;">
+              <img class='show-for-large' src="/wp-content/uploads/2017/04/screenG.jpg" alt="iPad Screen g" style="margin-left: auto; margin-right: auto;">
+              <img class="hide-for-large" src="/wp-content/uploads/2017/04/SCREENSHOT_F.png" alt="iPad Screen F" style="margin-left: auto; margin-right: auto;"><br>
+              <img class="hide-for-large" src="/wp-content/uploads/2017/04/SCREENSHOT_I.png" alt="Screenshot I" style="margin-left: auto; margin-right: auto;">
             </div>
           </div>
         </div>
@@ -272,10 +239,9 @@
     <div class="row services" style="padding: 0px 10% 50px 10%;">
       <div class="columns small-12">
         <h2 class="text-center">Services</h2>
-        <p><strong>Free Basic Training: </strong><a target="_blank" href="https://itunes.apple.com/us/app/BRIDGE-communication/id983660714?ls=1&mt=8" class="link">Purchase the Bridge Communication app for $17.99</a> on the iTunes App Store and we will answer all product questions and direct you to tutorials that show you how the app works. Email us directly at <a target="_blank" class="link" href="mailto:support@bridgecommunication.com">support@bridgecommunication.com.</a></p>
-        <p><strong>Pilot Program: </strong>Use the Bridge Communication app at no cost across your organization for a 3-month period — one app per low-incidence classroom/setting. We will train your lead and your lead will then train your organization. We will answer any product questions that come up. You provide weekly feedback plus a testimonial or critique at the end of the 3-month period.</p>
-        <p><strong>Advanced Training & Support: </strong>On-site training sessions plus follow-up emails, phone calls, and online meetings to assess or troubleshoot documentation, training and communication supports for 3 weeks after the training session. Email us directly at <a target="_blank" class="link" href="mailto:support@bridgecommunication.com">support@bridgecommunication.com</a> for pricing.</p>
-        <p><strong>Consultation Services: </strong>If you decide you need ongoing consultation services, we will provide the Bridge Communication app at no cost to your organization or interested families. We will train teachers, staff, administrators or interested parents on systematic communication supports. We will administer, train, and provide documentation for accountability of support implementation. We will provide integrated IEP communication goals for individual students. We will provide direct services to caseload, provide related services supports to caseload, and provide oversight, assessment, and monitoring for integrated communication supports in the classroom environment. Email us directly at <a target="_blank" target="_blank" class="link" href="mailto:support@bridgecommunication.com">support@bridgecommunication.com</a> for pricing.</p>
+        <p><strong>Free Basic Training: </strong><a target="_blank" href="https://itunes.apple.com/us/app/BRIDGE-communication/id983660714?ls=1&mt=8" class="link">Purchase the Bridge Communication app for $17.99</a> on the iTunes App Store and we will answer all product questions and direct you to tutorials that show you how the app works. Email us directly at <a target="_blank" class="link" href="mailto:support@BioprismBridge.com">support@BioprismBridge.com.</a></p>
+        <p><strong>Advanced Training & Support: </strong>On-site training sessions plus follow-up emails, phone calls, and online meetings to assess or troubleshoot documentation, training and communication supports for 3 weeks after the training session. Email us directly at <a target="_blank" class="link" href="mailto:support@BioprismBridge.com">support@BioprismBridge.com</a> for pricing.</p>
+        <p><strong>Consultation Services: </strong>If you decide you need ongoing consultation services, we will provide the Bridge Communication app at no cost to your organization or interested families. We will train teachers, staff, administrators or interested parents on systematic communication supports. We will administer, train, and provide documentation for accountability of support implementation. We will provide integrated IEP communication goals for individual students. We will provide direct services to caseload, provide related services supports to caseload, and provide oversight, assessment, and monitoring for integrated communication supports in the classroom environment. Email us directly at <a target="_blank" target="_blank" class="link" href="mailto:support@BioprismBridge.com">support@BioprismBridge.com</a> for pricing.</p>
       </div>
     </div>
   </section>
@@ -290,7 +256,7 @@
     </div>
     <div class="dropdowns row small-up-1 medium-up-1 large-up-5" style="padding: 100px 10%;">
       <div class="column text-center arrordion-column">
-        <img src="/BridgeCommunications/wp-content/uploads/2017/04/3631.png" alt="Screen 1" class="accordion-screen">
+        <img src="/wp-content/uploads/2017/04/s1.png" alt="Screen 1" class="accordion-screen">
         <ul class="vertical menu text-center level-1" data-accordion-menu >
           <li style="text-align: left; margin-top: 10px;">
             <a href="#" style="border: 2px solid #4aa1d6; text-transform: uppercase; font-size: 18px;">Screen 1</a>
@@ -339,7 +305,7 @@
 
 
       <div class="column text-center arrordion-column">
-        <img src="/BridgeCommunications/wp-content/uploads/2017/04/3626.png" alt="Screen 2" class="accordion-screen">
+        <img src="/wp-content/uploads/2017/04/s2.png" alt="Screen 2" class="accordion-screen">
         <ul class="vertical menu text-center level-1" data-accordion-menu>
           <li style="text-align: left; margin-top: 10px;">
             <a href="#" style="border: 2px solid #4aa1d6; text-transform: uppercase; font-size: 18px;">Screen 2</a>
@@ -358,7 +324,7 @@
       </div>
 
       <div class="column text-center arrordion-column">
-        <img src="/BridgeCommunications/wp-content/uploads/2017/04/3629.png" alt="Screen 3" class="accordion-screen">
+        <img src="/wp-content/uploads/2017/04/s3.png" alt="Screen 3" class="accordion-screen">
         <ul class="vertical menu text-center level-1" data-accordion-menu>
           <li style="text-align: left; margin-top: 10px;">
             <a href="#" style="border: 2px solid #4aa1d6; text-transform: uppercase; font-size: 18px;">Screen 3</a>
@@ -378,7 +344,7 @@
 
 
       <div class="column text-center arrordion-column">
-        <img src="/BridgeCommunications/wp-content/uploads/2017/04/3635.png" alt="Screen 4" class="accordion-screen">
+        <img src="/wp-content/uploads/2017/04/s4.png" alt="Screen 4" class="accordion-screen">
         <ul class="vertical menu text-center level-1" data-accordion-menu>
           <li style="text-align: left; margin-top: 10px;">
             <a href="#" style="border: 2px solid #4aa1d6; text-transform: uppercase; font-size: 18px;">Screen 4</a>
@@ -418,7 +384,7 @@
       </div>
 
       <div class="column text-center arrordion-column">
-        <img src="/BridgeCommunications/wp-content/uploads/2017/04/3633.png" alt="Screen 5" class="accordion-screen">
+        <img src="/wp-content/uploads/2017/04/s5.png" alt="Screen 5" class="accordion-screen">
         <ul class="vertical menu text-center level-1" data-accordion-menu>
           <li style="text-align: left; margin-top: 10px;">
             <a href="#" style="border: 2px solid #4aa1d6; text-transform: uppercase; font-size: 18px;">Screen 5</a>
